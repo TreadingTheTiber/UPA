@@ -12,9 +12,7 @@
 
 - *Version: 1.0*
 
-- *Selection pages: n/a*
-
-# De Romano Pontifice, Liber IV, Capitulum X
+- *Selection pages: 491-494*
 
 ```json
 {
@@ -40,3 +38,7 @@
   "url": "https://www.google.com/books/edition/4_De_controversiis/XDkAAAAAYAAJ?hl=en&gbpv=1&pg=PA491&printsec=frontcover"
 }
 ```
+
+# De Romano Pontifice, Liber IV, Capitulum X
+
+**It came to pass shortly thereafter that Sylverius died, and Vigilius, who until then had sat in schism, began now to be the sole and legitimate pontiff, indeed, with the Roman clergy and people confirming and accepting him.** From this time forward, however, neither error nor semblance of error was found in Vigilius, but rather the utmost constancy in faith until death, so that it appears that with the pontificate itself he received firmness of faith, and was transformed from light chaff into most solid rock. For when the heretical Empress Theodora, relying on secret letters and Vigilius's promise, asked him to restore the aforementioned Patriarch Anthemius, as he had promised, he wrote back that he had rashly promised and had gravely sinned by that promise, and therefore could not and would not fulfill what he had promised, lest he should add sins to sins. For this reason, he was sent into exile by the enraged empress and miserably persecuted until death. This is recorded not only in the Pontifical, but also noted by Paul the Deacon in his Life of Justinian, and by Aimonius in book 5, chapter 32, of Deeds of the Franks, and even by the Magdeburg Centuriators themselves in Century 6, chapter 10, in the Life of Vigilius, and the same is also very briefly indicated by Liberatus at the end of chapter 22, where he says that Vigilius was later miserably afflicted by that very heresy which he had secretly fostered in the beginning.
