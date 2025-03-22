@@ -4,19 +4,18 @@
 
 [Online Location of Text Here](https://www.google.com/books/edition/4_De_controversiis/XDkAAAAAYAAJ?hl=en&gbpv=1&pg=PA491&printsec=frontcover)
 
--\ *OCR of the original text by AI (claude-3-7-sonnet-20250219).*
+- *OCR of the original text by AI (claude-3-7-sonnet-20250219).*
 
--\ *Translation of the original text performed by AI (claude-3-7-sonnet-20250219).*
+- *Translation of the original text performed by AI (claude-3-7-sonnet-20250219).*
 
--\ *Last Edit: March 20, 2025.*
+- *Last Edit: March 20, 2025.*
 
--\ *Version: 1.0*
+- *Version: 1.0*
 
--\ *Selection pages: n/a*
+- *Selection pages: n/a*
 
 # De Romano Pontifice, Liber IV, Capitulum X
 
-# JSON Metadata
 ```json
 {
   "title_original_long": "DISPUTATIONUM ROBERTI BELLARMINI POLITIANI S. J. S. R. E. CARDINALIS DE CONTROVERSIIS CHRISTIANAE FIDEI ADVERSUS HUJUS TEMPORIS HAERETICOS",
