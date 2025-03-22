@@ -1,4 +1,4 @@
-## SUMMARIUM
+### SUMMARIUM
 
 **Damnatio errorum Ioannis Wikleff, Ioan-nis Huss, Hieronymi de Praga et alio-rum de sacramentis Ecclesiae male sen-tientibus, eorumque complicum et fau-torum: ac forma haereticos suspectosque de haeresi examinandi [^1].**
 

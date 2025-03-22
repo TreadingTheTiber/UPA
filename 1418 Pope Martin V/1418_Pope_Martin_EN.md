@@ -1,4 +1,4 @@
-## SUMMARY
+### SUMMARY
 
 **Condemnation of the errors of John Wycliffe, John Huss, Jerome of Prague, and others who hold erroneous views concerning the sacraments of the Church, as well as their accomplices and supporters: and the procedure for examining those suspected of heresy [^1].**
 
