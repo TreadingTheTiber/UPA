@@ -1,4 +1,4 @@
-# CAPUT X.
+## CAPUT X.
 
 *De Siricio, Innocentio, et aliis septem pontificibus.*
 

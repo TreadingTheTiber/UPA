@@ -1,4 +1,4 @@
-# Chapter X.
+## Chapter X
 
 *Concerning Siricius, Innocent, and seven other pontiffs.*
 
