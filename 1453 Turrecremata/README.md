@@ -1,6 +1,6 @@
 # Summa De Ecclesia (*Summa of the Church*)
 
-**by Juan de Torquemada (Juan de Torquemada), 1453**  
+**by Juan de Turrecremata (John of Torquemada), 1453**  
 
 [Online Location of Text Here](https://archive.org/details/bub_gb_GWP6pAt-ctEC/page/n779/mode/2up?view=theater)  
 
