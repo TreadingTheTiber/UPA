@@ -14,7 +14,7 @@
   
 - *Selection pages: 665-677*  
   
-## Inter Cunctus  
+## Inter Cunctas  
   
 **24. Likewise, whether one believes that the Pope canonically elected, whoever he may be at the time, with his proper name expressed, is the successor of Blessed Peter having supreme authority in the Church of God.**
 
@@ -24,7 +24,7 @@
   "title_english_long": "Bullarium of Diplomas and Privileges of the Holy Roman Pontiffs",
   "title_original_short": "Bullarium Romanum",
   "title_english_short": "Roman Bullarium",
-  "excerpt_title": "Inter Cunctus",
+  "excerpt_title": "Inter Cunctas",
   "author": "Martin V",
   "author_anglicized": "n/a",
   "year_written": "1418",
