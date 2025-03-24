@@ -6,5 +6,7 @@ This repository will contain documentation on the concept of the Universal and P
 
 [1453 Turrecremata](https://github.com/TreadingTheTiber/UPA/tree/main/1453%20Turrecremata)
 
+[1583 Suarez](https://github.com/TreadingTheTiber/UPA/tree/main/1583%20Suarez)
+
 [1588 Bellarmine](https://github.com/TreadingTheTiber/UPA/tree/main/1588%20Bellarmine)
 
