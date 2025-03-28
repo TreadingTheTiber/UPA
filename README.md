@@ -2,7 +2,12 @@
 
 This repository will contain documentation pertaining to the concept of the Universal and Peaceful Acceptance (UPA) of the Roman Pontiff.
 
-Note: EN = English, LA = Latin, MD = Markdown (format), Word = Word Document (.docx).
+**Key:** 
+- EN = English
+- LA = Latin
+- MD = Markdown Format (.md)
+- Word = Word Document Format (.docx).
+- PDF = PDF Format (.pdf)
 
 | Year | Person | EN/PDF | EN/Word | EN/MD | LA/MD | LA-EN/MD | LA-EN/PDF |
 |------|--------|--------|---------|-------|-------|----------|-----------|
