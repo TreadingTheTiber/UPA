@@ -6,8 +6,6 @@ Proœmium. — 1. Episcoporum negligentia novas haereses a Wiclefo, Io. Huss et 
 
 **Martinus episcopus servus servorum Dei, venerabilibus fratribus, archiepiscopis, episcopis ac inquisitoribus haereticae pravitatis ubi-libet constitutis, ad quos litterae praesentes pervenerint, salutem et apostolicam benedictionem.**
 
-[^1]: Damnatum alias a Ioanne XXIII Vicleffum vidimus sup. in Constit. eiusd. Pontif., pag. 661.
-
 *Proœmium.*
 
 Inter cunctas pastoralis curae solicitudines, quibus premimur incessanter, illa potissime fortius nos angit, ut haereticis de finibus christicolarum expulsis, suisque falsis doctrinis et erroribus perversis penitus, quantum nobis ex alto conceditur, extirpatis, orthodoxa et catholica fides integra et illibata permaneat, ac populus christianus in eiusdem fidei sinceritate, quolibet obscurationis semoto velamine, immobilis et inviolatus persistat.
@@ -126,7 +124,7 @@ Prima pars est scandalosa et praesumptuose asserta, pro quanto sic generaliter e
 
 32. Ditare clerum est contra regulam Christi.
 
-33. Silvester Papa et Constantinus imperator erraverunt Ecclesiam dotando [^1].
+33. Silvester Papa et Constantinus imperator erraverunt Ecclesiam dotando [^2].
 
 34. Omnes de Ordine Mendicantium sunt haeretici: et dantes eis eleemosynam sunt excommunicati.
 
@@ -138,17 +136,13 @@ Prima pars est scandalosa et praesumptuose asserta, pro quanto sic generaliter e
 
 38. Decretales epistolae sunt apocryphae, et seducunt a fide Christi, et clerici sunt stulti qui student eas.
 
-39. Imperator et domini saeculares sunt seducti a diabolo, ut Ecclesiam dotarent [^2] bonis temporalibus.
+39. Imperator et domini saeculares sunt seducti a diabolo, ut Ecclesiam dotarent [^3] bonis temporalibus.
 
 40. Electio Papae a cardinalibus a diabolo est introducta.
 
 41. Non est de necessitate credere Romanam Ecclesiam esse supremam inter alias Ecclesias.
 
 Error est, si per Romanam Ecclesiam intelligat universalem Ecclesiam, aut concilium generale, aut pro quanto negaret primatum summi Pontificis super alias Ecclesias particulares.
-
-[^1]: Ditando. 
-
-[^2]: Ditarent (Cocquelines).
 
 42. Fatuum est credere indulgentiis Papae et episcoporum.
 
@@ -192,7 +186,7 @@ Error est, si per Romanam Ecclesiam intelligat universalem Ecclesiam, aut concil
 
 15. Obedientia ecclesiastica est obedientia secundum adinventionem sacerdotum Ecclesiae, praeter expressam auctoritatem Scripturae.
 
-16. Divisio immediata humanorum operum est, quod sunt vel virtuosa, vel vitiosa : quia si homo est vitiosus et agat quidquam, tunc agit [^1] virtuose : quia sicut vitium, quod crimen dicitur seu mortale peccatum, inficit universaliter actus hominis vitiosi, sic virtus vivificat omnes actus hominis virtuosi.
+16. Divisio immediata humanorum operum est, quod sunt vel virtuosa, vel vitiosa : quia si homo est vitiosus et agat quidquam, tunc agit [^4] virtuose : quia sicut vitium, quod crimen dicitur seu mortale peccatum, inficit universaliter actus hominis vitiosi, sic virtus vivificat omnes actus hominis virtuosi.
 
 17. Sacerdotes Christi viventes secundum legem eius et habentes Scripturae notitiam et effectum ad aedificandum populum, debent praedicare, non obstante praetensa excommunicatione; *et infra*: Quod si Papa vel aliquis praelatus mandat sacerdoti sic disposito non praedicare, non debet subditus obedire.
 
@@ -205,8 +199,6 @@ Error est, si per Romanam Ecclesiam intelligat universalem Ecclesiam, aut concil
 21. Gratia praedestinationis est vinculum, quo corpus Ecclesiae et quodlibet eius membrum iungitur Christo capiti insolubiliter.
 
 22. Papa vel praelatus malus et praescitus est aequivoce pastor, et vere fur et latro.
-
-[^1]: Addenda e Raynaldo verba: *vitiosa; et si est virtuosus et agat quidquam, tunc agit etc.*, quae forsam officiatoribus mainardjaniis ceciderunt.
 
 23. Papa non debet dici sanctissimus, etiam secundum officium, quia alias rex deberet etiam dici sanctissimus secundum officium, et tortores et praecones dice-rentur sancti, immo etiam diabolus de-beret dici sanctus, cum sit officiarius Dei.
 
@@ -238,9 +230,7 @@ Error est, si per Romanam Ecclesiam intelligat universalem Ecclesiam, aut concil
 
 5. Item, utrum credat, teneat et asserat, quod quodlibet concilium generale et etiam Constantiense, universalem Ecclesiam repraesentet.
 
-6. Item, utrum credat, quod illud quod sacrum concilium Constantiense, universalem Ecclesiam repraesentans, approbavit et approbat in favorem fidei et ad salutem animarum, quod hoc est ab universis Christifidelibus approbandum et tenendum [^1]; pro condemnato credendum et asserendum.
-
-[^1]: Desunt hic quoque, procul dubio, eademque ratione qua in pag. preced., verba haec, aut aequipollentia: *et quod condemnavit et condemnat, hoc etc.*
+6. Item, utrum credat, quod illud quod sacrum concilium Constantiense, universalem Ecclesiam repraesentans, approbavit et approbat in favorem fidei et ad salutem animarum, quod hoc est ab universis Christifidelibus approbandum et tenendum [^5]; pro condemnato credendum et asserendum.
 
 7. Item, utrum credat quod condemnationes Ioannis Wicleff, Ioannis Huss et Hieronymi de Praga factae de personis eorum, libris et documentis per sacrum generale Constantiense concilium, fuerint rite et iuste factae, et a quolibet catholico pro talibus tenendae et firmiter asserendae.
 
@@ -324,3 +314,13 @@ Error est, si per Romanam Ecclesiam intelligat universalem Ecclesiam, aut concil
 Datum Constantiae, octavo kal. martii, pontificatus nostri anno primo.
 
 Dat. die 22 februarii 1448, pont. anno i.
+
+[^1]: Damnatum alias a Ioanne XXIII Vicleffum vidimus sup. in Constit. eiusd. Pontif., pag. 661.
+
+[^2]: Ditando. 
+
+[^3]: Ditarent (Cocquelines)									   
+
+[^4]: Addenda e Raynaldo verba: *vitiosa; et si est virtuosus et agat quidquam, tunc agit etc.*, quae forsam officiatoribus mainardjaniis ceciderunt.
+
+[^5]: Desunt hic quoque, procul dubio, eademque ratione qua in pag. preced., verba haec, aut aequipollentia: *et quod condemnavit et condemnat, hoc etc.*																													  
