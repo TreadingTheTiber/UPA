@@ -16,7 +16,7 @@
   
 ## Quaestio 1, Disputatio 7, Articulus 2 (Q. 1, D. 7, A. 2)
 
-EXCERPT
+EXCERPT TBD
 
 ```json
 {
