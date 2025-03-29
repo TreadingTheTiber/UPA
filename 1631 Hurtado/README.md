@@ -2,7 +2,7 @@
     
 **by Petri Hurtado de Mendoza (Pedro Hurtado de Mendoza), 1631**  
     
-[Online Location of Text Here](https://books.google.com/books/download/Petri_Hurtado_de_Mendoza_Scholasticae_et.pdf?id=f-lyKzvP8LYC&output=pdf&sig=ACfU3U0QAPofnhJF6P-VU8kIOtEdNqJNxw)  
+[Online Location of Text Here](https://www.google.com/books/edition/Petri_Hurtado_de_Mendoza_Scholasticae_et/f-lyKzvP8LYC?hl=en&gbpv=1&pg=PA365&printsec=frontcover)
     
 - *OCR of the original text by AI (claude-3-7-sonnet-20250219).*  
     
