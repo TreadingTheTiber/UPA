@@ -1,0 +1,5 @@
+## JUNE 20 - TIME AFTER PENTECOST.
+
+### SAINT SILVERIUS, POPE AND MARTYR.
+
+PAPAL succession is one of the principal facts wherein is demonstrated the working of the Holy Ghost, from the very first day of his descent upon our earth. The legitimacy of the popes, as successors of Peter, is indeed closely linked with the legitimacy of the Church herself, in her character of Bride of the Man-God; and therefore, his mission being to lead the Bride to the Spouse, the Holy Ghost cannot suffer her to wander in the footprints of intruders. The inevitable play of human passions, interfering in the election of the Vicar of Christ, may perchance for a while render uncertain the transmission of spiritual power. But when it is proved that the Church, still holding, or once more put in possession of, her liberty, acknowledges in the person of a certain Pope, until then doubtful, the true Sovereign Pontiff, this her very recognition is a proof that, from that moment at least, the occupant of the Apostolic See is as such invested by God himself. This doctrine the Holy Ghost confirms, by giving thereto, in the pontiff we are celebrating to-day, the consecration of martyrdom.
