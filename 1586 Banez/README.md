@@ -1,6 +1,6 @@
 # Commentaria in Secundam Secundae Angelici Doctoris D. Thomae, Quibus, Quae ad Fidem, Spem, et Charitatem Spectant, Clarissime Explicantur (*Commentary on the Second Part of the Second Part of St. Thomas Aquinas, in which those things pertaining to Faith, Hope, and Charity are most clearly explained*)
 
-**by Domingo Báñez (Domingo Banez), 1584**
+**by Domingo Báñez de Mondragón (Dominicus Bañes Mondragonensis, Dominic Bañez of Mondragon​​​​​​​​​​​​​​​​), 1584**
 
 [Online Location of Text Here](https://www.google.com/books/edition/Commentaria_in_Secumdam_Secundae_D_Thoma/q3PKIqSVbn4C?hl=en&gbpv=1&pg=PA127&printsec=frontcover)
 
@@ -25,8 +25,8 @@ EXCERPT TBD
   "title_original_short": "Commentaria in Secundam Secundae",
   "title_english_short": "Commentary on Secunda Secundae",
   "excerpt_title": "Quaestio I, Art. X",
-  "author": "Domingo Báñez",
-  "author_anglicized": "Domingo Banez",
+  "author": "Domingo Báñez de Mondragón (Dominicus Bañes Mondragonensis, Dominic Bañez of Mondragon​​​​​​​​​​​​​​​​)",
+  "author_anglicized": "Dominic Báñez",
   "year_written": "1584",
   "year_published": "1587",
   "volume": "n/a",
