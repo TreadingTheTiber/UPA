@@ -24,3 +24,4 @@ This repository will contain documentation pertaining to the concept of the Univ
 - Find Gravina excerpts
 - Find Melchior Cano exerpts
 - Banez --> Add his spanish name(s)
+- Ligouri --> update info to Italian
