@@ -1,6 +1,6 @@
 # De Christi Ecclesia, Libri Sex (*On the Church of Christ, in Six Books*)
 
-**by Guilelmo Wilmers (William Wilmers), 1897**
+**by Guilelmo Wilmers (Wilhelm Wilmers, William Wilmers), 1897**
 
 [Online Location of Text Here](https://isidore.co/calibre#book_id=9650&library_id=CalibreLibrary&panel=book_details)
 
