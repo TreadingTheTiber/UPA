@@ -1,0 +1,553 @@
+## REVUE THOMISTE
+
+### LETTRES DE SAVONAROLE AUX PRINCES CHRÉTIENS POUR LA RÉUNION D'UN CONCILE
+
+### ÉTUDE DOCTRINALE
+
+Les pages consacrées par M. Louis Pastor [^1] au Réformateur florentin et les réponses justes ou sévères qu'il s'est attirées ont posé à nouveau, non seulement dans le cœur des *Piagnoni* qui gardent fidèlement le culte fervent de sa mémoire, mais devant l'opinion du monde catholique, la question Savonarole. Depuis quatre siècles, le procès est débattu et la cause est toujours pendante. Notre intention n'est pas, ici du moins, de nous jeter en pleine mêlée et de pénétrer au fort des débats; nous voulons seulement attirer l'attention sur l'une des pièces du procès, et non la moindre, qui, croyons-nous, n'a pas été interprétée jusqu'ici comme elle doit l'être, ni par les adversaires les plus résolus du Frate, ni même par ses apologistes les plus convaincus. Nous voulons parler des Lettres aux princes chrétiens pour la réunion d'un concile.
+
+Ces lettres, dans le projet, devaient être au nombre de cinq, adressées à l'Empereur, au roi de France, aux Roi et Reine d'Espagne, au Roi d'Angleterre et au roi de Hongrie. Les trois premières seulement nous ont été conservées. Nous donnerons ici dans son entier la lettre à l'Empereur : des deux autres nous n'apporterons que les passages ayant trait au concile. De la comparaison des différents textes ressortiront plus évidentes et l'interprétation littérale et la doctrine théologique qu'ils expriment ou à laquelle ils se réfèrent.
+
+### LETTRE A L'EMPEREUR [^2]
+
+« Sérénissime Empereur, Dieu, père d'immenses bienfaits, source et principe de toute bonté, voulant manifester sa providence et sa miséricorde particulière et perpétuelle à l'égard des hommes, a promis par son prophète Amos qu'il ne réaliserait point ses desseins qu'il n'eût révélé son secret à ses serviteurs les prophètes. Ayant résolu d'exercer de nos jours sur la terre sa justice et sa miséricorde, c'est-à-dire de châtier par les verges l'abomination qui règne dans le Temple et de rendre à son Église son ancienne dignité en extirpant de son sein des ministres pervers, il daigna me révéler ses desseins, à moi son serviteur inutile. Je n'ai pas cessé depuis huit années — comme le bruit s'en est déjà répandu au loin — d'appeler les pécheurs à la pénitence et d'annoncer que la colère de Dieu se fait menaçante. C'est pourquoi, par de nombreuses prédictions et de très solides arguments, je me suis attaché à exalter la foi de Notre-Seigneur Jésus-Christ, et rappeler les hommes à la vraie religion et à la piété en poursuivant les vices sans trêve ni merci. Mais les méchants ont la haine de la vérité. Elle en a blessé plusieurs et les a soulevés contre moi. Se glorifiant dans leurs vices, ils persécutent les justes pour n'être pas confondus par la réprobation de leurs crimes. Dieu se rit d'eux et les confondra lui-même. Le temps de sa vengeance est proche et il m'ordonne de vous révéler à tous, rois et princes de la république chrétienne, certaines choses secrètes afin que vous sachiez dans quel péril extrême, par votre faute, par votre faiblesse non moins que par vos discordes, *se trouve la nacelle de Pierre*. C'est pour cela que la verge de sa colère s'est abattue aussi sur les rois — auxquels il appartenait principalement de remédier à ces maux — en leur enlevant les gages les plus chers. Il n'est point de crime plus grand sous le ciel que celui de lèse-majesté divine et de profanation du culte de Dieu. Paraître ne le point voir et le laisser impuni quand on peut et on doit le réprimer, n'est-ce pas donner libre cours à tous les vices, n'est-ce pas même attiser le foyer de l'iniquité, comme on le voit aujourd'hui dans l'Église de Dieu? De la plante des pieds au sommet de la tête, on chercherait en vain un organe qui soit sain. Toutes les abominations, toutes les scélératesses se répandent sans pudeur par toute la terre, et vous gardez le silence, et vous vénérez la pestilence assise sur la chaire de Pierre.
+
+« Voilà *pourquoi le Seigneur, irrité de cette intolérable corruption, depuis quelque temps déjà, a permis que l'Église fût sans Pasteur.* Car je vous atteste au nom de Dieu, in Verbo Domini, que *cet Alexandre VI n'est point pape et d'aucune façon ne peut l'être.* Car, outre le crime exécrable de simonie, par lequel il a dérobé la tiare par un marché sacrilège, et par lequel chaque jour il met aux enchères et confère aux plus offrants les bénéfices ecclésiastiques, outre ses autres vices connus de tous, que je passerai sous silence, *voici ce que je déclare en premier lieu*, hoc primum assero, ce que j'affirme en toute certitude, *cet homme n'est pas chrétien, il ne croit même plus qu'il y ait un Dieu, il passe les dernières limites de l'infidélité et de l'impiété*. Il est d'autres forfaits secrets, en exécration au monde entier, que je vous révélerai en temps et lieu convenables ; ainsi Dieu l'a ordonné.
+
+« C'est pourquoi, de la part du Dieu tout-puissant, duquel vous avez reçu la dignité impériale, sérénissime César, je vous avertis et vous adjure, parmi tous les autres défenseurs de la République chrétienne, de laisser de côté toute ambition et rivalité terrestres, pour apporter tous vos soins à la réunion, dans un lieu convenable et libre, d'un concile solennel, qui puisse sans retard venir au secours des âmes en péril, et de la nacelle de Pierre en perdition. Autrement, vous n'éviterez point une faute très grave et vous n'échapperez pas à la colère de Dieu.
+
+« J'écris pareillement, et par ordre de Dieu, au Roi Très chrétien de France, aux Rois sacrés d'Espagne, d'Angleterre et de Hongrie, pour que tous ensemble travaillent avec entente et concorde pour le salut commun.
+
+« Quelles que soient les obligations que j'assume par cette promesse, je m'engage irrévocablement à apporter devant le très saint concile les preuves les plus convaincantes, et je promets que Dieu les confirmera par les miracles les plus évidents. Et, après en avoir reçu de lui l'inviolable assurance, nous promettons cette épreuve avec pleine confiance, cherchant la gloire de Dieu et non la nôtre. Pour rares que soient les miracles de Dieu, il ne les a jamais refusés, dès qu'ils étaient opportuns ou nécessaires. Il est prêt à secourir encore ceux qui l'invoquent en toute vérité.
+
+« Sérénissime Empereur, ne faites pas fi, pour votre perte, du mandat que Dieu vous donne, mais, ceignant le glaive du Christ, exécutez virilement ce que votre dignité vous commande, non moins que votre piété envers Dieu : après avoir vaincu au dedans les ennemis du Christ, les plus pernicieux de tous, vous remporterez sans peine sur vos ennemis du dehors, la victoire qu'à votre puissante main Dieu accordera en récompense. J'ajouterai pour finir que rien n'est plus digne de Votre Majesté et de Votre Grandeur, rien n'est plus glorieux, rien n'est plus sacré — eussiez-vous soumis la terre entière à l'empire du Christ — que de venger de cette injure monstrueuse l'honneur du Seigneur votre Dieu, qui est ce qu'il y a de plus grand au monde, et de laver son sanctuaire de la plus abominable souillure. Daigne Notre-Seigneur Jésus-Christ vous accorder la grâce spirituelle et l'éternelle félicité! Vale. »
+
+### EXTRAIT DE LA LETTRE AU ROI DE FRANCE
+
+« Rex in æternum vive... Écoutez donc : le Seigneur m'ordonne de vous révéler aujourd'hui une chose très grave, une chose de la dernière importance. L'Église de Dieu est désormais sans chef et sans pontife. Car cet Alexandre VI n'est plus pontife, ni ne peut l'être, *non pas tant à cause de son élection simoniaque et sacrilège et des désordres publics de sa vie, que parce qu'il n'est pas chrétien, qu'il n'a aucune espèce de foi et qu'il l'abhorre comme le plus misérable des hommes*. Je publierai, en temps et lieu opportuns, des faits qui seront l'épouvante et l'horreur de tous. Voilà pourquoi, de la part du Dieu tout-puissant, je vous avertis et vous adjure d'employer vos soins au plus tôt *à la réunion d'un concile solennel pour que l'Église, au grand détriment des âmes, ne périsse pas faute de pasteur*. Autrement vous et les autres chargés de ce soin encourrez une très lourde responsabilité. Et, pour que vous ne pensiez pas que ce sont là jugements arbitraires, je m'engage à prouver les faits que j'avance en présence du très saint concile, par les raisons les plus convaincantes, et je promets que Dieu les confirmera par des signes surnaturels. Car lui-même me l'a promis de façon certaine. C'est ce que je signifie au roi des Romains et aux rois sacrés d'Espagne, d'Angleterre et de Hongrie, comme je le fais tout d'abord à Votre Majesté, afin que,par respect pour vous et à raison de leur dignité royale, renonçant à toute autre rivalité pour l'empire terrestre, ils soient excités unanimement à la restauration de l'Église en péril. C'est à vous que ce rôle incombe tout d'abord : l'élection de Dieu comme l'exemple de vos ancêtres vous en font un devoir. »
+
+### EXTRAIT DE LA LETTRE AUX ROI ET REINE D'ESPAGNE
+
+« Serenissimi conjuges... Le Seigneur, dans sa colère, a laissé l'Église s'en aller à la dérive, privée d'un pontife et d'un pilote. C'est ce qu'il est nécessaire de dévoiler enfin. Car sachez que cet Alexandre VI n'est nullement pontife, ni ne peut l'être, non pas seulement à cause de l'usurpation simoniaque et sacrilège du pontificat et de ses vices publics, mais à cause de forfaits que nous découvrirons en temps et lieu opportuns et qui seront un objet d'épouvante et d'exécration pour l'univers entier. De tous ces crimes, j'en dévoile un tout d'abord, par l'ordre de Dieu, et j'affirme, en toute certitude, qu'il n'est pas chrétien, qu'il n'a plus l'ombre de foi même informe.
+
+« Voilà pourquoi je vous transmets l'ordre du Dieu tout-puissant et je vous atteste que vos âmes souffriront le plus grave dommage, si, laissant de côté tout autre souci et toute dissension, vous ne hâtez *la réunion d'un concile solennel en lieu convenable et libre afin que la république chrétienne ne souffre pas davantage un si mortel détriment* : je m'engage non seulement à prouver les faits énoncés devant le très saint concile par les arguments les plus certains, mais aussi je promets que Dieu les établira par des signes surnaturels et par des miracles... etc. »
+
+Les uns ont vu, dans ces lettres, l'acte de désespoir d'un esprit aux abois[^3], tout au moins la conséquence de fausses théories touchant la suprématie du Pape sur le concile[^4].
+
+Il ne semble point que ceux qui ont parlé de lui avec le plus de sympathie et d'admiration pour son œuvre y aient découvert une autre doctrine. Parmi ces derniers, les uns, d'un sens doctrinal moins sûr, n'ont rien trouvé d'insolite en une pareille entreprise et ont cherché à le laver de tout reproche d'insubordination et de violence par les doctrines du concile de Constance et certaines décisions de Sorbonne[^5].
+
+D'autres, d'un jugement théologique plus ferme, tout en trouvant à sa démarche des excuses, n'ont osé entreprendre de le justifier[^6]. Quelques-uns enfin, notant combien semblable théorie était en opposition absolue avec les enseignements de l'École où s'est formé Savonarole, aussi bien qu'avec sa doctrine antérieure, ne voulant point, d'autre part, admettre une défaillance dans sa pensée ou dans sa conduite, nient ou du moins tentent de mettre en doute l'authenticité de ces lettres[^7].
+
+### L'AUTHENTICITÉ DE CES LETTRES
+
+Ce serait, d'après les historiens, Ludovic le More qui aurait intercepté la lettre au roi de France et l'aurait envoyée au Souverain Pontife. Il est bien certain que l'intervention du duc de Milan dans cette affaire n'est pas pour la rendre moins suspecte.
+
+Néanmoins ces lettres, par Burlamacchi, Fra Benedetto, Nardi, Razzi, sont entrées en possession de l'histoire. Les modernes, pour la plupart, ne doutent point de leur authenticité, et le silence de quelques-uns est bien plus facilement explicable que le fait pour les auteurs cités de les avoir admises.
+
+Si quelques-uns [^8], reconnaissant qu'elles ont été saisies à l'état de brouillon dans le bureau du Frate, vont à prétendre que, n'ayant point été expédiées, elles n'appartiennent point véritablementment à l'histoire, nous ne saurions être tenus d'accepter une conclusion aussi catégorique. Elles prouveraient encore un dessein prémédité de la part de Savonarole, bien qu'en ce cas elles ne pourraient suffire à le charger d'un attentat. Et même à l'état de brouillon, même non expédiées, même sans date ni signature, elles n'en sont pas moins un fait, elles expriment une pensée dont nous demeurons juges pour autant que nous la pouvons comprendre.
+
+Quant à l'opinion qui affirme que ces lettres ont dû être altérées, il faut bien reconnaître que les opérations du procès rendraient la chose croyable ; mais on n'a point déterminé jusqu'ici quelles sont en détail ces falsifications, ou ces interpolations prétendues. Aussi bien serait-il difficile d'en fixer une seule. Notre avis est que ce document porte la marque indubitable du Frate. Nous osons croire que, si l'on pouvait établir que, dans ces lettres, frère Jérôme est resté toujours fidèle à lui-même, qu'on n'y saurait découvrir une pensée qui ne fût en conformité parfaite avec la doctrine qu'il professa toute sa vie, non seulement nul ne ferait plus difficulté d'admettre leur authenticité, mais nul, même, n'éprouverait le besoin de recourir à cet expédient d'altérations supposées que l'on n'arrive pas à définir.
+
+*Or nous n'avons point d'autre but dans cette étude que de faire cette démonstration.*
+
+### LE CONTENU DES LETTRES AUX PRINCES
+
+Que n'a-t-on pas dit à propos de ces lettres et sur le contenu de ces lettres ?
+
+1° Les uns ont vu, dans cet acte de Savonarole, un appel au concile, pour plaider devant lui sa propre cause [^9], le recours ordinaire des fidèles mécontents du Saint-Siège[^10].
+
+Or il n'y a pas trace, dans ces lettres, d'un appel au concile.
+
+2° La plupart ont cru y découvrir l'acte d'un homme imbu des fausses théories de la suprématie du concile sur le Pape[^11].
+
+Or, on y chercherait en vain cette doctrine : ces lettres sont l'œuvre d'un théologien ferme champion de la suprématie pontificale.
+
+3° On répète communément que cette tentative, telle qu'elle s'affirme audacieusement dans ce grave document, est un acte anticatholique et révolutionnaire pour opérer sans le Pape et contre le Pape la réforme de l'Église.
+
+Or, *a*) l'objet spécialement assigné dans ces lettres à la convocation du concile n'est pas la réforme générale de l'Église sans le Pape et malgré le Pape ;
+
+*b*) Le moyen qu'elles préconisent n'est pas *en soi* un moyen anticatholique, mais un *acte régulier quoique exceptionnel* de la vie de l'Église;
+
+*c*) Enfin, mis en regard des réalités qui l'entourent, des circonstances qui l'accompagnent et au milieu desquelles il se produit, *non seulement cet acte n'est pas révolutionnaire*, mais il peut être considéré *en fait* comme *un acte réactionnaire* contre la suprématie conciliaire, en faveur de la suprématie pontificale.
+
+C'est tout ce que nous avons à établir.
+
+### APPEL AU CONCILE
+
+Si, quand on parle *d'appel*, on veut, si peu que ce soit, tenir compte de la signification ordinaire des mots pour ne se point perdre en des déclamations vaines, il importe de remarquer que celui-ci a un sens juridique bien défini. Il exprime l'acte par lequel un accusé, condamné par une juridiction et ne reconnaissant pas la justice de l'arrêt qui le frappe, soit au point de vue du droit, soit au point de vue du fait, invoque le jugement d'une juridiction supérieure dans le but de faire réformer par elle la sentence rendue. Voir dans ce document « *le recours d'un fidèle mécontent du Saint-Siège*[^12] », qui demande « *à plaider devant le concile sa propre cause*[^13] », n'est-ce point y découvrir l'acte juridique que nous venons de définir? L'exécution d'un tel dessein aurait eu, pour son auteur, les conséquences les plus graves. Le fait d'en appeler des sentences papales au jugement d'un concile encourait de soi (*ipso facto*) l'excommunication et l'interdit, et rendait le coupable passible des peines réservées au crime d'hérésie et de lèse-majesté. Cette sanction pénale s'étendait à tous ceux qui favorisaient cet appel, le conseillaient, ou y prêtaient les mains (Bulle *Execrabilis. In synodo Mantuana 1459*). Cette bulle de Pie II avait été confirmée par Sixte IV. — Plus tard elle devait l'être à nouveau par Jules II et étendue par lui à toutes les catégories de complices.
+
+Mais où peut-on lire dans ces lettres un appel du Pape au concile? Quelle phrase en peut-on citer où il soit question d'un arrêt rendu par le pontife romain? Où y est-il dit que le condamné n'accepte pas cet arrêt et qu'il s'en remet à la juridiction suprême de l'assemblée des Évêques de la révision de la sentence pontificale et de la proclamation de sa propre innocence? Y trouve-t-on un seul mot, une allusion si lointaine qu'elle soit, à un jugement rendu, à un accusé qui se croit opprimé? Pourrait-on, à l'aide de ce seul document, établir, avec quelque apparence, que son auteur a subi un jugement et encouru une condamnation quelconque? Évidemment non! À peine y est-il fait mention *des persécutions des méchants* que la haine de la vérité a soulevés contre lui. Et c'est tout. On y voit un accusateur qui s'offre à faire la preuve du crime qu'il allègue, mais rien qui fasse supposer que cet accusateur soit lui-même accusé.
+
+Aussi bien pensons-nous qu'une pareille interprétation est l'effet d'un écart de langage[^14] plus encore qu'une défaillance de pensée. Mais toute formule qui porte en elle une équivoque l'introduit avec elle dans la pensée du lecteur, et il n'est pas rare d'entendre répéter, sur la foi de semblables affirmations, que Savonarole, pour éviter de se soumettre aux décisions pontificales, en a appelé du Pape au concile.
+
+C'est là une erreur grave. Elle est grave en soi parce qu'elle contredit les faits, parce que rien dans ces lettres ne fournit le moindre fondement à une pareille interprétation: elle est grave aussi dans ses conséquences.
+
+Il est question dans *ces Lettres* de la convocation d'un concile. Oui. — Pour réformer les sentences pontificales? — Non. — Mais pour citer Alexandre VI et le déclarer déchu de la primauté comme hérétique et infidèle.  
+
+Mais quoi ! n'est-ce pas là précisément la doctrine de la supré-matie du concile ?
+
+Mon Dieu ! il nous faut bien reconnaître que tous ou presque tous [^15] jusqu'ici, admirateurs et adversaires du réformateur, ont cru l'y voir. Cette unanimité d'interprétation est certes faite pour nous inspirer plus d'une réflexion et plus d'une hésitation. C'est si terrible et cela semble si peu sage de prétendre avoir raison contre tout le monde ! Si notre acte semble étrange, nous n'en sommes que plus autorisé à demander la permission de le justifier, c'est une obligation qui nous incombe. Pour nous en acquitter, il nous suffira :
+
+1° D'énoncer brièvement la doctrine de la suprématie conciliaire et les applications pratiques qui en découlent ;
+
+2° D'exposer en quelques mots la doctrine de la suprématie pontificale et les conséquences qu'elle implique dans le gouvernement de la société chrétienne ;
+
+3° Enfin, de mettre en regard de l'une et l'autre de ces deux théories les termes mêmes des lettres aux princes.
+
+La conclusion qui résultera de cette comparaison, immédiatement et avec évidence, croyons-nous, sera celle-ci : voilà l'œuvre d'un théologien romain ; ce ne peut être l'œuvre d'un gallican.
+
+### LA DOCTRINE DE LA SUPRÉMATIE CONCILIAIRE
+
+*L'erreur des Grecs* touchant la suprématie pontificale constitue par elle-même un schisme : car, ne reconnaissant à l'Evêque de Rome qu'une *primauté d'honneur*, ils brisent par là même tout *lien réel* avec lui.
+
+Il n'en était pas ainsi pour ce qui fut la *doctrine gallicane*. Suivant elle, l'Église de Rome était, *par une puissance de juridiction*, au-dessus de chaque Église particulière ; chaque évêque devait se tenir pour obligé au Pape, non seulement par les liens du respect, mais aussi *par ceux de l'obéissance*.
+
+Le Pape, dans l'Église universelle, est le juge de chaque évêque. — Mais qui jugera le Pape? — car l'Évêque de Rome, pour si élevé qu'il soit, n'est pas impeccable. Cette autorité même, supérieure à celle de chacun de ses frères dans l'épiscopat, il en peut abuser, non pour édifier, mais pour détruire. Qui voudrait reconnaître à un seul homme un pouvoir si redoutable sans un recours contre lui ?
+
+Qui jugera les jugements du Pape, pour les réformer s'ils sont entachés d'injustice ou d'erreur, pour le corriger lui-même s'il use mal du pouvoir qui lui a été confié? — L'assemblée des Évêques. Supérieur à chacun, il demeure inférieur à tous.
+
+Cette théorie voulait voir sa confirmation officielle dans ces canons du concile de Constance : « Hæc sancta synodus declarat quod ipsa in Spiritu Sancto legitime congregata, concilium generale faciens et Ecclesiam catholicam repræsentans, *potestatem a Christo immediate habet*, cui quilibet cujuscumque status vel dignitatis *etiamsi papalis* existat, obedire tenetur, in his quæ pertinent ad fidem et extirpationem dicti schismatis et reformationem dictæ Ecclesiæ in capite et in membris.
+
+« Item declarat quod quicumque cujuscumque conditionis status, dignitatis *etiamsi papalis* qui mandatis, statutis, seu ordinationibus aut præceptis hujus sacræ synodi et cujuscumque alterius concilii generalis legitime congregati super præmissis, seu ad ea pertinentibus factis vel faciendis, obedire contumaciter contempserit, nisi resipuerit, condignæ pænitentiæ subjiciatur et debiti puniatur, etiam ad alia juris subsidia, si opus fuerit, recurrendo. »
+
+D'où il suit que :
+
+1° Le concile universel possède une autorité qui lui vient immédiatement du Christ;
+
+2° Le Pape lui est soumis et lui doit obéissance;
+
+3° Le concile possède sur le Pape un pouvoir coercitif pour lui imposer ses décisions.
+
+Cependant il est manifeste que cette autorité suprême n'existe pas à l'état permanent dans l'Église. Qui donc convoquera les évêques pour constituer le concile? *Régulièrement*, c'est le Pape. Mais, *exceptionnellement*, en certains cas où prévaut la loi qui domine toutes les autres : « Salus populi suprema lex », si le Pape à ce requis refuse de réunir le synode œcuménique, on peut passer outre, le convoquer sans lui et malgré lui.
+
+*Quels sont les cas qui légitiment cette exception d'un concile assemblé sans le Pape et contre le Pape ?*
+
+1° Quand il n'y a plus de Pape, ce qui peut se vérifier de trois façons, — soit par la mort naturelle, — soit par la mort civile, par exemple si le pontife est atteint, sans espoir de guérison, d'aliénation mentale — soit par la mort canonique, ou la déposition ;
+
+2° Quand le Pape, suffisamment requis de convoquer le concile, s'y refuse obstinément, au grand dommage de l'Église qui appelle une réforme, surtout s'il est personnellement en cause, à raison des désordres et des scandales de sa vie ;
+
+3° Si, dans un concile légitimement convoqué par le Pape, il est statué un lieu et un temps où devra s'assembler le synode futur, par exemple tous les cinq ans ou tous les dix ans, le concile peut se réunir en temps et lieu marqués, malgré l'opposition du Pape. Dans ce cas, le concile assemblé sans l'Évêque de Rome a pour chef Jésus-Christ lui-même qui lui garantit l'indéfectibilité ;
+
+4° Quand le Pape doit être légitimement déposé.
+
+Car, comme il appartient au concile, distinct du Pape, de déposer le Pape, pour certains crimes, il faut, par le fait, que le concile ait le pouvoir de s'assembler lui-même : il est manifeste, en effet, que ce serait trop exiger de l'Évêque de Rome de convoquer lui-même l'assemblée chargée d'entreprendre sa déposition.
+
+*Quels sont les circonstances ou les crimes pouvant motiver la déposition du Pontife?*
+
+C'est le cas d'un Pape douteux, ou de plusieurs sans qu'on puisse déterminer sûrement quel est le vrai Pape ; l'Église a droit à un Pape ; elle a droit, par conséquent, à être tirée de cette incertitude, dans laquelle elle ne sait si elle possède ou non un pontife.
+
+C'est le crime d'hérésie, par lequel le pontife s'exclut lui-même de l'Église, et c'est aussi toute faute grave et manifeste, dont le pontife refuse de se corriger et de nature à nuire à l'honneur ou au bien de l'Église, comme la vente simoniaque des bénéfices, les faveurs prodigués aux indignes, l'exclusion des bons, l'oppression tyrannique, des vices publics et manifestes et généralement tout crime pour lequel l'Évêque de Rome peut déposer un autre prélat. Comme le pontife romain peut, pour cause d'indignité, enlever ses pouvoirs à l'un de ses collègues dans l'épiscopat, ainsi l'assemblée des évêques, qui est, en définitive, la *primauté plénière* de l'Église, peut dépouiller l'Évêque de Rome d'un pontificat qui n'est dit suprême que par rapport à chacun de ses frères. Et *pour tous ces crimes*, le Pape *est cité par le concile, jugé par le concile, déposé par le concile*, comme par une *autorité de soi supérieure* à la sienne.
+
+Suivant cette doctrine, le Souverain Pontife était moins l'Évêque *des* Évêques que l'Évêque de *chaque* Évêque.
+
+### DOCTRINE DE LA SUPRÉMATIE PONTIFICALE
+
+*Vicaire du Christ*, le pontife romain possède dans l'Église la plénitude de l'autorité; le concile la participe de lui. Aucune puissance dans l'Église, — pas même le concile, — n'est au-dessus de lui parce qu'aucune puissance n'est intermédiaire entre le Christ et lui. Les Évêques, par conséquent, ne sauraient avoir le droit de s'assembler sans lui et malgré lui.
+
+Quel motif d'ailleurs assigner à cette réunion, et quel en sera le juge? Ce ne peut être le Concile. Car, à supposer que son autorité soit au-dessus du Pape, encore faut-il qu'il existe pour l'exercer. Or il n'existe pas avant sa réunion. Quelle autorité donc sera juge de sa nécessité et du refus du Pape de le réunir?
+
+Si, régulièrement, le droit de convoquer l'assemblée œcuménique appartient à l'Évêque de Rome, c'est en vain que l'on cherche une exception à cette loi. S'il en est pour les lois humaines, il n'en est pas pour les lois divines, qu'autant du moins que Dieu lui-même les a formellement réservées. Or, où trouve-t-on dans la constitution divine de la Primauté Pontificale les réserves introduites par la doctrine de la suprématie conciliaire? Donc:
+
+1° Jamais un concile ne peut se réunir *sans le Pape et malgré le Pape*, pour entreprendre la réforme de l'Église. Une assemblée constituée dans ces conditions ne sera jamais qu'un conciliabule, une ombre de concile suspecte à bon droit, de ce seul chef, de conspiration sacrilège et de tendances schismatiques.
+
+2° Quelles que soient les lois portées par les conciles, relativement à la convocation des synodes suivants, ces décrets positifs, n'ayant de force que par la confirmation du Pape et non par l'autorité supérieure du Concile, ne peuvent obliger le Pontife Romain. Les lois positives peuvent varier suivant les circonstances; le Pape en demeure juge, et la loi qui n'a de force que par lui peut être abrogée ou suspendue par lui.
+
+3° Le Pape étant au-dessus du concile, celui-ci ne saurait prétendre exercer sur lui aucune juridiction doctrinale, législative ou coercitive. Toute tentative de ce genre ne serait jamais qu'une usurpation.
+
+Mais s'il ne peut y avoir de vrai concile sans *le* Pape et malgré *le* Pape, il peut cependant se rencontrer un vrai concile *sans Pape*, dans certaines circonstances douloureuses ou extraordinaires, où l'assemblée des Évêques reste la seule autorité debout et fixe dans l'Église de Dieu.
+
+Quels sont ces cas?
+
+Ils peuvent varier à l'infini, dit Cajetan; par exemple, si une épidémie emportait à la fois le Pape et les électeurs, avant que ceux-ci n'aient pu nommer un successeur, ou si les circonstances étaient telles que les cardinaux jugeassent eux-mêmes ne pouvoir assurer l'élection sans la convocation d'un concile, pour réprimer certaines manœuvres, s'éclairer sur le choix du sujet, ou faire l'apaisement au milieu des compétitions ou des intrigues.
+
+Mais il est surtout deux cas bien définis qui se sont vérifiés dans la vie de l'Église, ou qui peuvent se rencontrer encore.
+
+1° Quand on se trouve en présence d'un Pape dont l'élection reste douteuse ou de plusieurs, sans pouvoir déterminer quel est le vrai Pape, comme il arriva dans le grand schisme. Dans cette occurrence, pour tirer l'Église d'une semblable perplexité, le concile peut s'assembler pour juger quel est le véritable Pontife. S'il ne le peut définir, il peut convoquer les électeurs; et si les électeurs eux-mêmes demeurent douteux, comme ayant été nommés par des Pontifes douteux, l'élection est dévolue à l'Église et le concile peut instituer le collège électoral, comme il arriva au synode de Constance. La déclaration de juridiction immédiatement reçue du Christ et s'exerçant sur le Pape lui-même, dont voudraient s'autoriser les défenseurs de la suprématie conciliaire, ne vise que ce cas particulier, de Papes *douteux*, en vue de l'extinction du schisme, « *ad extirpationem schismatis* ». Mais l'autorité d'un semblable concile, issue tout entière de la nécessité présente à laquelle il doit subvenir, ne saurait s'étendre plus loin et cesse avec elle.
+
+2° Si le Pontife romain, dans son enseignement officiel, ne peut défaillir dans la doctrine, — comme chrétien, il peut pécher non seulement contre la loi morale, mais contre la vérité, devenir infidèle, hérétique. — Et, dans ce cas, il déchoit de la suprématie. C'est la seule exception réservée par le pape Boniface martyr à son intangible Primauté (40 Dist. Si Papa): « Nisi si a Fide deviaverit Papa, redarguere ejus culpas nullus præsumit. » Et Augustin d'Ancône nous dit que le Pape ne doit être déposé pour aucun crime, si notoire qu'il soit, sinon pour le crime d'hérésie volontaire et opiniâtre.
+
+Quel est le rôle et l'action du concile, l'objet propre de son intervention dans cette déchéance ?
+
+Sur ce point, les théologiens de la suprématie pontificale demeurent partagés.
+
+Cajetan (et après lui, Suarez)[^16] admet que le concile ainsi assemblé juge, condamne et dépose le Pape. Cependant, suivant lui, il n'agit point en ce cas par une autorité qui lui soit propre, mais comme ministre du Christ, et son action ne s'étend pas directement sur le Pontificat lui-même. L'action conciliaire s'exerce sur la personne du Pontife : comme, par l'élection, l'Église l'a député à cet honneur, de même, par la déposition, elle révoque en quelque sorte sa désignation. Elle n'enlève pas la Primauté au Pape, elle soustrait la personne du Pape à la Primauté. Ainsi, il reste vrai, dans cette explication quelque peu subtile, que même en déposant le Pape, le concile n'est pas supérieur au Pape, puisque son action ne s'exerce pas sur le souverain Pontificat lui-même.
+
+D'autres, qui ne veulent, même suivant aucune apparence, accorder le moindre droit au concile de rien entreprendre contre le Pape, disent qu'en cette circonstance, le concile juge et détermine le fait d'hérésie, et constate simplement, pour le signifier à l'Église, que celui qui fut Pape est déchu de la Primauté. Qui la lui enlève et qui l'en prive? — Nul autre que lui-même. De même que, par un acte de sa volonté, il peut abdiquer la souveraineté, de même volontairement, par son hérésie, il accomplit lui-même sa propre déchéance. Le concile ne peut qu'en prendre note comme d'un fait accompli. La raison en est qu'en reniant la foi, il cesse par là même de faire partie de l'Église, d'être membre de l'Église et qu'il ne saurait continuer à en être la tête. Cette opinion était commune aux théologiens romains du temps de Savonarole.
+
+S'il fallait établir une hiérarchie parmi les tenants de la suprématie pontificale, qui ne voit que les plus intransigeants seraient précisément ces derniers qui veulent en toute circonstance mettre la Papauté hors de toute atteinte directe ou indirecte, de la part de l'assemblée conciliaire? L'élu du Seigneur n'a plus de juge sur la terre. Il ne peut perdre sa suprématie que par un suicide spirituel. Ce suicide, c'est l'hérésie.
+
+Maintenant, mettons en regard de ces doctrines les passages des lettres aux Princes chrétiens, concernant la déchéance d'Alexandre VI, et nous déterminerons à quelle école théologique elles se rattachent.
+
+— « Le Seigneur, irrité de cette intolérable corruption de son Église, a permis que celle-ci fût sans Pasteur. Car je vous atteste, au nom de Dieu, que cet Alexandre VI n'est en rien Pontife, et d'aucune façon ne peut l'être. Car, *outre* le crime exécrable de simonie par lequel il a dérobé une tiare sacrilège, et par lequel chaque jour il met aux enchères les bénéfices ecclésiastiques, outre ses vices manifestes que je passerai sous silence, voici ce que je déclare tout d'abord, *hoc primum assero et certissime affirmo*: cet homme n'est pas chrétien, il ne croit même pas en Dieu, il a passé toute limite d'infidélité et d'incrédulité... »
+
+Remarquez cette formule. Alexandre n'est plus Pape et ne peut l'être! Pourquoi? Parce qu'il est hérétique. Et dites-moi de quelle école théologique elle s'inspire? Peut-on y découvrir la trace de la suprématie conciliaire? Mais, d'après cette doctrine, aucun crime n'entraîne de soi la *déchéance* du Pape. Celui-ci conserve sa primauté, et dans cette concession qu'il lui fait, c'est la suprématie du concile qu'affirme le gallican. La dignité qu'il lui reconnaît encore, il ne la lui laisse que pour réserver au concile le droit et le pouvoir de la lui enlever.
+
+Seul, un théologien de l'école romaine a pu écrire cette phrase, et dans cette école un membre du groupe le plus intransigeant qui n'accepte pas que d'aucune manière le concile ait d'action sur le Pape. Seul, il peut porter cette sentence définitive : « *cet homme n'est plus Pape.* » Car, en effet, la sentence est portée, c'est le Pontife lui-même qui l'a rendue contre lui par son infidélité, et cette sentence est sans appel, puisqu'il n'est point d'autorité au-dessus de la sienne.
+
+Cette conclusion s'imposerait d'ores et déjà avec évidence, s'il n'était point parlé, dans cette accusation, d'autres crimes que celui d'hérésie. N'y est-il pas question de la simonie qui entache l'élection de Rodrigue Borgia, des trafics des bénéfices, des désordres publics de sa vie? Comment dès lors peut-on ranger l'auteur des *Lettres aux Princes* parmi les partisans de la suprématie pontificale qui ne reconnaissent qu'un seul crime entraînant la déchéance du Pape?
+
+La difficulté est plus apparente que réelle. Pour voir *qu'il est question*, dans l'énoncé de l'accusation, de la simonie, et des vices d'Alexandre VI, c'est ce qu'une lecture, même très superficielle, suffit à établir. Mais qu'ils soient invoqués *comme motifs de nullité*, c'est ce que ne saurait admettre un examen un peu attentif et tel qu'il s'impose, dès qu'il s'agit d'un sujet de cette importance et dont la solution met en cause l'honneur d'un chrétien comme Jérôme Savonarole.
+
+Lisez : *Ultra execrabile simoniæ scelus quo sacrilega mitram emptione subripuit, et quotidiè conferendo sacra beneficia licitatoribus exponit, manifestaque vitia obmittam*. Je laisserai de côté la simonie et les désordres publics, et voici ce que j'affirme en premier lieu, *hoc primum assero et certissimè affirmo*.
+
+De la simonie et autres vices, il en parle, oui : mais pour les exclure de la preuve qu'il veut faire; et les laissant de côté, il va droit au point précis, à la raison formelle, dirait un scolastique, dont il veut faire le nerf de son argumentation, *l'infidélité absolue d'Alexandre* : cet homme ne croit même plus en Dieu. Peut-on trouver une formule plus explicite et plus intransigeante de la théorie de la suprématie pontificale en pareil cas? Pour le crime d'hérésie, mais pour celui-là seul, Alexandre VI *est déchu, par le fait*, du Pontificat. *Il passe outre* aux motifs insuffisants que peuvent invoquer diverses écoles et il ne s'arrête que là où il trouve le terrain ferme pour sa preuve, *hoc primum assero et certissimè affirmo*.
+
+Pourquoi donc, dira-t-on, parle-t-il de ces faits? Mon Dieu! à vrai dire, lui seul pourrait s'en expliquer en toute certitude. Mais il n'est peut-être pas impossible de définir l'état de son esprit au moment où il écrivait ces lignes, de reconstituer, comme on dirait aujourd'hui, sa mentalité.
+
+Il atteste à ces princes, au nom de Dieu, qu'Alexandre n'est plus Pape, et prévenant la pensée de ses augustes correspondants : « Oui, sans doute, les entend-il dire, nous savons que son élection fut simoniaque, et de bons esprits tiennent que de ce chef elle peut être nulle; il vend aux plus offrants toutes les fonctions et tous les bénéfices, ses vices sont le scandale et la honte de la chrétienté. Laissons cela de côté, dit-il, *omittam. Hoc primum assero*...
+
+Et certes, pour qui connaît un peu la nature de son esprit, vif, intuitif, véhément, qui ne sait que précisément c'est là la note de son génie comme la caractéristique de ses discours. Il semble lire dans la pensée de son interlocuteur, il va au-devant de l'objection, il est homme à tenir une conversation ou à soutenir une discussion à lui tout seul, et de ce chef, combien de ses sermons qui ne sont qu'un dialogue continu entre son auditoire et lui.
+
+Il est une autre raison de parler ici de ces crimes, bien qu'ils n'entraînent pas juridiquement la déchéance d'Alexandre et qu'il les écarte à ce titre. Ils préparent naturellement l'esprit de ses correspondants à la révélation qu'il va leur faire de l'infidélité du Pontife. Ils constituent ce qu'on appelle, en plaidoirie, *l'argument de moralité*, par lequel le réquisitoire ou la défense recherchent dans les antécédents de l'accusé, dans son caractère, ses actes, ses habitudes, ses tendances, des analogies qui disposent au crime dont on le charge ou des contradictions qui s'y opposent.
+
+Et c'est sans doute pourquoi ces allusions sont venues d'elles-mêmes et instinctivement sous sa plume.
+
+Concluons déjà, en ce qui concerne la lettre à l'Empereur. Le seul fait invoqué dans ce document pour établir que l'Église n'a plus de pontife, c'est l'hérésie d'Alexandre VI. Les autres crimes, il n'en parle que pour les exclure de sa preuve, ou rendre plus acceptable la révélation de celui-là.
+
+Examinons maintenant la teneur de la lettre au roi de France. « Cet Alexandre VI n'est pas pape, ni ne peut l'être, *non pas tant à cause (non tam ob)* de son élection simoniaque et sacrilège et des vices de sa vie, *que parce qu'il* n'est pas chrétien, qu'il n'a aucune espèce de foi, qu'il l'a en horreur comme le plus détestable des hommes ».
+
+Une première remarque qui s'impose, c'est que Savonarole accorde si peu d'importance, au point de vue de la preuve à faire, à l'énoncé de ces griefs préliminaires, qu'ici il en omet un, et pourtant des plus graves, le trafic simoniaque des charges et bénéfices.
+
+Quant aux autres, l'élection simoniaque, la vie scandaleuse, nous les voyons mis en avant tout d'abord, mais pour les écarter. Que si l'on veut urger et faire sortir de la rigueur matérielle des mots tout ce qu'ils peuvent exprimer, on en tirera ceci, et rien de plus : l'élection simoniaque, les scandales du Pape, peuvent prouver quelque chose, mais point autant que ce fait que je vous révèle, l'apostasie. Or qu'est-ce qu'une preuve qui n'est pas aussi forte qu'une autre, sinon une preuve qui ne saurait jamais faire qu'une probabilité? Car s'il y a des degrés dans la connaissance, il n'y en a point dans la certitude. Ce serait donc simplement une opinion qui serait négligemment touchée en passant, pour arriver à la raison démonstrative.
+
+Mais cela même, nous ne le pensons pas. Il faut prendre ces tours de phrase pour autant qu'ils signifient suivant les conventions du langage humain. Or qui ne sait que, dans le langage universel, même dans le langage philosophique, cette formule : *ce n'est pas tant pour... que pour, non tam ob... quam ob...* n'est qu'une circonlocution, d'une politesse élémentaire et d'une modestie qui n'a rien d'excessif, pour écarter les raisons d'un interlocuteur ou d'un adversaire et leur substituer la sienne propre. Et l'on ne voudrait pas sans doute que Savonarole, écrivant au roi de France, eût manqué de tout élément de politesse ou de modestie.
+
+Dans la lettre aux roi et reine d'Espagne, nous trouvons encore un tour de phrase différent :
+
+Scitote ergo hunc Alexandrum VI minime pontificem esse, qui nec potest, *non modo* ob simoniacam sacrilegamque Pontificatus usurpationem et manifesta ejus scelera, *sed propter* secreta facinora. Ex quibus hoc primum, Deo jubente, aperio et certissime affirmo ipsum non esse christianum, neque ullam prorsus fidem vel informem habere.
+
+C'est des trois textes le seul, à notre avis, qui souffre quelque difficulté.
+
+Et tout d'abord, il est évident que, s'il présente un sens douteux, il serait de bonne exégèse de le déterminer par les deux autres, mais nous espérons le fixer à l'aide de la seule analyse intrinsèque.
+
+« Alexandre n'est plus pape, *non pas seulement parce qu'il* est simoniaque et de vie scandaleuse, *mais parce qu'il* est infidèle. »
+
+Le premier membre de phrase,considéré à part du reste,peut avoir un double sens. Il peut signifier qu'Alexandre n'est plus pape, non pas *à cause de son élection simoniaque seule*, et le sens en est que la simonie n'emporte pas d'elle même la déchéance.
+
+Il peut vouloir dire aussi qu'Alexandre n'est plus pape, non seulement à cause de l'élection simoniaque qui suffirait à l'établir ; mais encore à raison de son infidélité : deux motifs pour un.
+
+Entre ces deux significations opposées, qui fixera notre choix et notre pensée ? Ce sera le second membre de phrase.
+
+Le second sens, pour être soutenu, doit aboutir à cette locution : *mais aussi, mais encore. Non seulement* pour cette raison, *mais aussi, mais encore* pour cette autre. Ce tour de phrase est conjonctif.
+
+Le premier sens s'exprime au contraire ainsi : non pas *seulement pour cette raison, mais pour* cette autre. Le mot *etiam, adhuc, aussi encore*, se trouve supprimé. Ce tour est disjonctif et exclusif. Les deux membres de phrase s'opposent.
+
+Eh bien ! relisons le texte de la lettre : *non modo* ob simoniacam sacrilegamque pontificatus usurpationem et manifesta ejus scelera ; *sed propter* secreta facinora.
+
+Les deux membres de phrase sont en opposition. Ce n'est pas, seulement à cause de l'élection simoniaque qu'Alexandre n'est plus pape, *mais c'est à cause* de son apostasie.
+
+Ainsi nous établissons le même sens pour chacune de ces trois Lettres et la signification qu'il comporte encore une fois c'est qu'elles sont le fait du plus intransigeant théologien de la suprématie pontificale.
+
+Ici, une autre question peut se poser. L'hérésie du Pape, de soi, entraîne sa déchéance; mais, pour provoquer de ce chef la réunion d'un Concile, encore faut-il qu'elle puisse être établie ! Un crime occulte ne saurait motiver une action judiciaire, disent les canonistes, puisque la preuve n'en peut être faite dans un débat. Or, ce crime d'hérésie dénoncé par Savonarole est, de son propre aveu, *secret*: il fait partie de ces « *secreta facinora* »,de ces « occulta vitia » qu'il se propose de révéler en temps et lieu opportuns, si Dieu le lui inspire. Comment donc légitimer canoniquement une démarche aussi grave et aussi solennelle de sa part ? Elle ne pourrait l'être que par la dénonciation d'une forfaiture « publique », dont la preuve pourrait être juridiquement faite dans un procès.
+
+La solution de cette difficulté est, comme bien souvent en pareil cas, dans une définition nette et précise des termes.
+
+Quand les canonistes parlent de crime « *public* », ils ne veulent point dire que ce crime soit nécessairement connu *du public*, quoiqu'il puisse l'être, comme on pourrait l'entendre d'ordinaire, mais seulement *qu'il peut être juridiquement prouvé* devant les juges chargés de rendre la sentence. Aussi, pour éviter l'équivoque, quelques-uns l'appellent-ils « *notoire* ».
+
+Or, quand Savonarole dénonce[^17] ce crime d'hérésie dans Alexandre VI, il s'offre à faire la preuve et non seulement il fait appel au témoignage de Dieu même, mais aussi il s'engage à satisfaire à toutes les exigences et promet d'en fournir les raisons les plus convaincantes : « *rationibus efficacissimis, argumentis certissimis, probationes certissimas.* » Ce crime, il n'entend donc point qu'il soit *secret* et occulte au sens canonique du mot. Pourquoi donc le qualifie-t-il ainsi ? Uniquement pour l'opposer aux autres qu'il veut laisser de côté et dont il dit : « *manifesta vitia omittam ea quæ palam extant ipsius flagitia, manifesta ejus scelera* », crimes de simonie et d'immoralité qu'il appelle publics et manifestes parce que la preuve n'en est plus à faire. Ils sont le scandale de l'Église, la chrétienté toute entière en pourrait témoigner. Il est évident qu'un crime, canoniquement notoire ou public, peut passer pour secret en regard d'une pareille publicité[^18]. Le texte des Lettres aux princes ne signifie pas autre chose, ou il ne signifie rien.
+
+Que si quelqu'un de nos lecteurs conserve encore le moindre doute sur la teneur de ces Lettres, qu'il les relise, la plume à la main, notant chaque mot, pesant dans sa conscience la pensée de l'auteur, et il n'y verra rien d'autre. Il y a des années que nous les avons lues nous-même avec les préjugés communs. Et quand nous sommes arrivés à ces mots : *nullum esse pontificem*... hoc primum assero et certissime affirmo *ipsum non esse christianum*, du coup il nous est apparu que cette proposition n'avait pu être écrite par un défenseur de la suprématie conciliaire. Nous nous sommes tu jusque-là, dans l'espoir qu'une pensée plus pénétrante, qu'une plume plus habile et plus autorisée rectifierait l'erreur commise ; c'est en constatant que les meilleurs amis de l'apôtre florentin passaient à côté de la vérité, que toujours étaient renouvelées contre lui les mêmes accusations, que nous nous sommes décidé à parler. S'il s'était agi de quelque doctrine abstraite livrée aux éternelles disputes d'école, nous aurions pu continuer à garder le silence, mais il y va de l'honneur d'un chrétien, et quel chrétien ! il y va de l'orthodoxie de Jérôme Savonarole et de l'intégrité de sa foi. Il est notre frère, il est notre sang. Nous nous sommes souvenu des paroles du bienheureux Dominique notre Père, vendant ses livres pour secourir la détresse d'un chrétien : « Peut-on étudier sur des peaux mortes, quand nos frères souffrent de la faim ? »
+
+Nous avons établi jusqu'ici qu'en fait, ce document émane de la plus pure doctrine touchant la suprématie pontificale ; mais, puisque ce travail est avant tout une étude doctrinale, il n'est peut-être pas inutile d'indiquer ici quelles conséquences il impliquerait dans la doctrine, s'il le fallait lire comme l'a entendu M. Pastor ! « Savonarole s'engagea dans la voie de tous les rebelles et réclama la convocation d'un concile qui prononcerait la déposition du Pape comme *simoniaque, hérétique et infidèle*. »[^19]
+
+Et encore M. Pastor omet quelques-uns des griefs. Il faudrait dire : *comme simoniaque dans sa propre élection, comme simoniaque dans la collation des fonctions ecclésiastiques, comme scandaleux dans sa vie, comme hérétique et infidèle*.
+
+Comme Savonarole n'invite point le concile à *déposer* Alexandre VI, mais le déclare *déchu par le fait*, « *minime est Pontifex* », la question qui se poserait serait celle-ci : que faut-il penser de ces affirmations ?
+
+1° Alexandre VI n'est pas pape, à raison de son élection simoniaque, et le concile doit s'assembler pour déclarer sa déchéance.
+
+2° Alexandre n'est plus pape, à cause de la vente simoniaque des bénéfices et des scandales publics de sa vie.
+
+La réponse à ces deux questions sera aussi brève et aussi catégorique que possible.
+
+L'élection simoniaque est-elle invalide?
+
+Dans la Somme théologique (II^e II^e, q. c.), saint Thomas traite de la simonie, en tant qu'elle est un crime contre la vertu de Religion. Il établit que le fait d'acheter et de vendre les choses spirituelles pour de l'argent ou toute autre compensation matérielle appréciable à prix d'argent est de soi un péché. — Car les choses spirituelles, ne sauraient être compensées par rien de terrestre — car elles sont de Dieu et de Dieu, et nulle autorité humaine ne peut faire sur elles acte de propriétaire pour les aliéner ainsi — car enfin elles sont des *grâces* faites par la libéralité divine, et qu'à ce titre elles ne sauraient encore être l'objet d'un contrat qui confère un droit. — Un pareil trafic est donc un outrage direct au droit de Dieu comme à sa bonté, il est contraire par conséquent à la vertu de religion par laquelle nous rendons à Dieu l'honneur qui lui est dû (art. 1^er).
+
+Comme on le peut voir, la conclusion de saint Thomas repose sur la nature même des choses spirituelles, comme sur la défense positive de Dieu. La simonie est contraire au droit divin naturel et positif.
+
+Parlant de la peine encourue par les simoniaques, le Docteur Angélique établit cette peine par un décret disciplinaire du concile de Chalcédoine, c. 2 : « Qui ordinatus est (simoniace) nil ex ordinatione vel promotione quæ est per negotiationem facta proficiat, sed sit alienus a dignitate vel sollicitudine quam pecuniis acquisivit. »
+
+Puis il démontre la légitimité de cette peine, par la défense po­sitive faite par Dieu. Nul ne peut légitimement garder ce qu'il a acquis contre la volonté du propriétaire. Par exemple, si un admi­nistrateur donnait quelque chose des biens de son maître contre la volonté de celui-ci, celui qui l'aurait reçu ne pourrait le retenir à aucun titre. Or, le Seigneur, dont les prélats d'Église ne sont que les ministres et les dispensateurs, a ordonné que les choses spiri­tuelles fussent distribuées gratuitement... *Quod gratis accepistis gratis date*. Aussi quiconque a acquis à prix d'argent les choses spirituelles ne peut légitimement les retenir.
+
+Ainsi, saint Thomas conclut seulement que la simonie est un crime de soi et bien justement puni par la perte des bénéfices ou des offices obtenus par un semblable moyen. Mais il ne pose point la question de savoir si les *choses spirituelles sont acquises réelle­ment* bien qu'injustement par cet acte simoniaque. Le possesseur est tenu de restituer comme détenteur injuste. *Mais ce pouvoir, le possède-t-il vraiment, bien que criminellement?* — On ne trouve point cette solution dans les conclusions de saint Thomas.
+
+Mais il faut reconnaître qu'à l'encontre de certains dialecticiens dont les conclusions parfois dépassent les prémisses, notre Docteur a cette bonne fortune qui n'est habituelle qu'aux génies de sa trempe, que ses principes débordent ses conclusions, et qu'on en peut déduire non seulement la légitimité de la peine imposée de fait par le décret du concile, mais aussi la nécessité de cette peine comme impliquée naturellement et nécessairement dans la simonie elle-même. De sorte que le décret positif du synode de Chalcédoine n'est qu'une application ou une promulgation plus explicite du droit naturel divin.
+
+Il n'est point malaisé de concevoir en effet que si le pouvoir spi­rituel, essentiellement et *par sa nature même*, ne peut être l'objet d'un pareil contrat, et s'il n'est conféré qu'à ce titre, son acqué­reur ne l'obtient point par là même. Il en peut posséder l'ombre, les dehors, les bénéfices, en accomplir les actes extérieurs, bien qu'injustement; mais *le pouvoir lui-même, il n'en est pas détenteur*; *et la restitution qu'il doit faire est bien plus des insignes du pouvoir que du pouvoir lui-même*.
+
+Ces conséquences s'appliquent-elles au pouvoir suprême dans l'Église visible du Christ?
+
+Du temps de saint Thomas, quelques théologiens ne le voulaient point admettre : « Secundum quosdam Papa non potest committere simoniam » (art. 1er, obj. 7). Thomas Campegius ne manquerait point de voir dans une telle affirmation un acte de courtisanerie et d'adulation vis-à-vis du Pontife Romain « quem plures plus nimio faventes, ne dicamus adulantes, Romano Pontifici. » Ce qui nous amène à reconnaître qu'il n'y eut jamais dans l'Église pénurie de théologiens assez subtils pour faire état d'ingénieuses virtuosités, ni de canonistes de cour empressés à recueillir comme des perles ces précieux distinguo.
+
+Le Docteur Angélique ne s'attarde pas à ces réflexions. Avec la gravité ordinaire qu'on lui connaît et qui semble ici se faire plus solennelle, il répond : « Le Pape peut encourir ce vice de simonie comme un simple mortel. La faute ne disparaît point à raison de l'élévation de celui qui la commet : elle n'en devient que plus criminelle. Bien qu'il soit le dispensateur premier des biens l'Église, il n'en est pas le maître ni le propriétaire. Et s'il vendait à prix d'argent les choses spirituelles, il serait simoniaque comme tout autre » (art. 1er, ad 7).
+
+Si les conséquences de la simonie atteignent le Pontife lui-même dans la collation faite par lui des bénéfices par un semblable trafic, que sera-ce si, n'étant pas encore Pape, il cherche à s'assurer par ce moyen le souverain Pontificat?
+
+Le Pontificat, il est vrai, ce n'est pas l'élection qui le confère : son pouvoir, le Pontife ne le tient pas de ses électeurs comme de ses mandants. Il est le mandataire, le vicaire du Christ. Il ne représente pas l'Église, il représente le Christ, chef essentiel de l'Église. C'est de lui et de lui seul qu'il tient sa Primauté. Les électeurs n'ont fait que le désigner au Sacre du Christ. Ce pouvoir n'a donc pu être visé dans le contrat qui l'achemine à la dignité suprême, et sa collation ne saurait donc être simoniaque.
+
+Saint Thomas (art. 4) avait déjà pourvu à cette subtilité en nous disant que ce qui est connexe aux biens spirituels comme les bénéfices ne peut être pour cette raison objet de trafic; à plus forte raison, peut on conclure, l'élection pontificale qui est ordonnée de soi à la création du pouvoir spirituel dans l'élu, comme l'acte générateur bien que ne produisant pas l'âme humaine, est liée de soi à la création du principe spirituel et l'appelle autant qu'il est en lui.
+
+*L'invalidité de l'élection simoniaque* était donc une *conclusion théologique* des plus sûres.
+
+Or, une conclusion théologique aussi motivée que celle-là fait loi *pour la conscience chrétienne*. Aussi bien, si Savonarole, au lendemain de l'élection du 11 août 1492, eût été appelé à confesser le nouvel élu, il eût eu plein droit de lui dire, avant de l'entendre : « Cardinal Borgia, le Pasteur ne doit pas entrer dans la Bergerie par la porte des Loups. Je vous ordonne, au nom de Dieu, de restituer à l'Église ce pouvoir usurpé dont vous n'avez d'ailleurs que l'apparence, ou bien je ne puis vous absoudre au nom du Christ. »
+
+Certes, nous ne croyons pas calomnier Alexandre Borgia en pensant qu'il eût fait comme Laurent de Médicis, qu'il eût tourné le dos au Frate, regardé vers la muraille et conservé son Pontificat. Mais, à Rome, comme à Florence, frère Jérôme n'eût fait que son devoir, et, comme il est des devoirs dont l'accomplissement demande une trempe d'âme peu commune, on peut dire qu'en remplissant celui-là, il eût mérité la reconnaissance et l'admiration de toutes les âmes vraiment catholiques et vraiment romaines.
+
+Pouvait-il, du même droit, faire appel à l'Église, et provoquer la réunion d'un concile pour proclamer la nullité de l'élection?
+
+Nous ne le pensons pas.
+
+C'est que, si les théologiens fournissent, par leurs déductions, une règle de vie à la conscience individuelle qu'ils éclairent, si même ils peuvent ainsi fournir les motifs et les considérants d'une loi, leurs conclusions, cependant, ne peuvent suffire à faire une loi générale s'imposant *au for extérieur*, et devenant, par là même, le principe d'une action juridique. De même que les conclusions théologiques, dans l'ordre doctrinal, ne peuvent par elles-mêmes faire un article de foi, s'imposant universellement, nécessairement et essentiellement à la croyance des fidèles, sans la définition faite par l'autorité infaillible, de même, les déductions des théologiens, dans l'ordre pratique du gouvernement de l'Église, ne peuvent constituer une loi dont l'observation oblige tous les fidèles, et dont on puisse s'autoriser pour une action juridique, tant qu'elles ne sont pas sanctionnées par un décret positif, émané de l'autorité législative dans la société chrétienne.
+
+Or, à ce point de vue tout canonique, quel était l'état de la législation concernant l'élection du Pape, et sur ce chef spécial de la simonie, au moment où furent écrites les Lettres aux Princes chrétiens?
+
+En 1059, par sa Bulle *In nomine Jesu*, Nicolas II avait voulu mettre un terme à ces marchandages sacrilèges. Après s'être lamenté sur les meurtrissures sans nombre qu'avait reçues le souverain Pontificat sous les coups de marteau de *l'hérésie simoniaque*, il décrète, pour rendre ces tentatives plus difficiles, de réserver l'élection de l'Evêque de Rome aux cardinaux-évêques. Les cardinaux laïcs ne sont appelés qu'à donner leur adhésion; le clergé inférieur et les fidèles n'apportent que leur consentement: ni les uns ni les autres n'ont l'initiative du choix:
+
+Un Pontife élu contre les règles de ce décret, fût-il ordonné et intronisé, encourrait ainsi que ses complices l'anathème perpétuel: il est déclaré séparé de l'Eglise comme un antéchrist, envahisseur et destructeur de toute la chrétienté, et déchu par là même de toute dignité antérieure.
+
+Mais, pour échapper à cet anathème, il suffit d'observer la teneur du décret, c'est-à-dire, d'être élu par la majorité des cardinaux-évêques, considérés comme métropolitains dans l'Église romaine.
+
+Ce dispositif pouvait mettre des entraves à la corruption, il ne frappait pas la simonie au cœur en déclarant invalide l'élection obtenue par ce moyen.
+
+Alexandre III (1180, par sa bulle *Licet de vitanda*) détermine et précise le nombre des électeurs et le nombre des suffrages requis pour être élu.
+
+Le collège électoral est constitué non seulement des cardinaux-évêques, mais de tous les cardinaux.
+
+De plus, l'élection était assurée jusque-là par la simple majorité. La détermination en demeurait parfois incertaine et surtout pouvait être discutée: de là, une porte ouverte au schisme. Désormais, si les cardinaux ne peuvent s'accorder pour l'élection unanime du Souverain Pontife, celui-là seulement qui sera élu par les deux tiers des cardinaux sera sans aucune exception ni opposition considéré par toute l'Eglise comme vrai Pape.
+
+Celui qui n'ayant pas obtenu les deux tiers des voix usurperait l'Episcopat, encourrait l'excommunication et la privation de tout ordre sacré; mais, pour y échapper, il suffit de les obtenir. Il n'est point question de la simonie.
+
+Grégoire X (1272, Bulle *Ubi periculum*) confirme les dispositions antérieures, spécialement le décret d'Alexandre III, sur le nombre des voix requises, qui est toujours demeuré depuis la base de toute élection pontificale. Il institue le conclave et en règle le cérémonial. Enfin il menace les cardinaux électeurs des châtiments divins et les exhorte à mettre de côté toute considération étrangère au bien et à l'honneur de l'Église. Ils doivent procéder à l'élection, l'esprit libre et la conscience nue. Et pour ce, dit-il, « *nous cassons et annulons tous les contrats, obligations, conventions et serments faits ou consentis à l'avance, de sorte qu'aucun ne se croie tenu à les observer, ni ne puisse craindre de manquer à la parole donnée en les transgressant, mais qu'au contraire il juge méritoire de les enfreindre, car, la loi humaine elle-même l'atteste, il est plus agréable à Dieu de violer que de tenir de pareils serments.* »
+
+La conséquence de ce décret est celle-ci : Quels que soient les engagements antérieurement pris, le conclaviste ne doit pas se tenir obligé par eux quand il vote, toutes ces conventions ne peuvent lier sa conscience, et il la délivre au contraire en ne les observant pas. L'élu également n'est point tenu à l'accomplissement de ses promesses. Toute obligation est annulée par ce décret. Et il pourrait faire répondre à ses électeurs, par une bulle en grand style de Curie, qu'il ne veut point prendre part au crime en leur payant le prix de leur honte. Mais rien, dans ce décret, qui invalide l'élection elle-même: il n'annule que les marchés qui la précèdent et dont elle est le fruit.
+
+Jusqu'à la Bulle de Jules II (*Cum tam divino* 1505); on ne trouve aucun décret positif déclarant nulle toute élection de l'Evêque de Rome, obtenue par des moyens simoniaques.
+
+A défaut d'une loi positive, trouvons-nous une jurisprudence? Quelques canonistes ont tenté d'en établir une en s'appuyant *a*) sur le décret du pape Boniface, reconnaissant qu'en cas d'hérésie le Pape doit être déposé. Or *b*) la simonie est une hérésie. Nicolas II ne parle t-il pas dans les considérants de sa bulle de l'hérésie simoniaque? Les anciens canons emploient fréquemment cette appellation et aux IXe et Xe siècles on traitait couramment les simoniaques d'hérétiques.
+
+Ce n'est là, il faut bien le dire, qu'une équivoque de mots, que saint Thomas nous explique lui-même (IIª IIae q. c., art. 4er, ad 1m).
+
+Quand Simon le mage, après avoir vu les prodiges accomplis par les apôtres, *crut* que l'on pourrait acheter à prix d'argent la vertu de l'Esprit-Saint, il fut hérétique. Mais on peut agir comme Simon sans partager sa croyance. Si la simonie est appelée une hérésie, c'est que les pratiques simoniaques, surtout lorsqu'elles s'étalent au grand jour, sans pudeur comme sans répression, peuvent *amener à croire* que vraiment l'on achète le don de Dieu. Mais quand il est dit que le Pape peut être déposé *pour hérésie*, on le doit entendre d'une erreur volontaire et obstinée dans la croyance et non d'une défaillance dans la conduite.
+
+Aussi la plupart des canonistes antérieurs à la bulle de Jules II (nous n'avons pas à parler de ceux qui ont suivi) réservent-ils toujours la validité de l'élection simoniaque du Pontife romain. « *Et nota*, dit saint Antonin, *quod ex hoc quod electio Papæ simoniacè facta esset a cardinalibus, dummodo aliàs rite, cassari non potest nec tolli quin sit verus Papa.* »
+
+Et Cajetan, commentant la bulle de Jules II, ou mieux, l'excommunication qui la sanctionne, ajoute : Ubi nota quod *secundum antiqua jura* (c'est-à-dire antérieurs à la bulle Cum tam divino) — non potuisset excipi contra Papam simonicæ electum (*quia quantumcumque simoniacus, erat verus Papa*) post hanc tamen constitutionem Papa simoniace electus non est Papa in veritate.
+
+Quelque valeur, d'ailleurs, que l'on veuille donner à la théorie de ceux qui assimilant la simonie à l'hérésie veulent qu'elle entraîne la nullité de l'élection — et entendue de cette manière la simonie pratiquée par un Pape régulièrement élu, dans la collation des bénéfices, entraînerait sa déchéance, — quelque autorité que l'on veuille tirer d'exemples plus ou moins bien établis, — et quant aux faits eux-mêmes et quant à leurs causes, — on n'arriverait jamais qu'à cette conclusion : la question était canoniquement douteuse.
+
+Or ce doute ne pourrait fonder une action juridique.
+
+La valeur que l'on pourrait lui donner ne pourrait être autre que celle-ci.
+
+S'il demeure douteux au for extérieur, que l'élection soit valide, le Pape sorti de cette élection, ne devient-il pas lui-même douteux. Et n'est-ce pas le cas de convoquer le concile pour tirer l'Eglise de cette incertitude ? 
+
+Nous répondons, non :
+
+Canoniquement, un Pape sorti d'une élection douteuse est douteux, quand le doute porte sur la substance même de l'élection quant à ses conditions essentielles, telles qu'elles sont *définies* par le droit naturel ou le droit positif. Par exemple, s'il y avait eu de sérieuses raisons de croire que l'élection eût été violentée, que l'élu n'eût pas eu les deux tiers des voix. De l'observation de ces conditions dépend *certainement* la validité et par conséquent la réalité de l'élection. Si les cardinaux opposants contestent sérieusement la liberté des opérations électorales, ou le nombre des voix obtenues, etc., alors s'applique le principe *factum non supponitur sed probatur*, le fait de l'élection libre et régulière doit être établi. Et l'on trouve pour le recours au concile un principe de poursuite incontestable dans des lois certaines. Mais ici le doute porte sur cette circonstance de simonie, non quant au fait, mais pour autant qu'elle peut vicier l'élection et l'entacher de nullité. Le doute est un doute de droit. Dans ce cas, en dehors d'un décret positif tranchant la question, on doit régler sa conduite par ce principe : *Lex dubia, lex nulla*. L'élu est en possession de son élection par l'accomplissement des conditions *certaines* nécessairement requises, ce n'est pas l'infraction *d'une loi douteuse* qui l'en peut dépouiller. Ce n'est pas *une loi douteuse*, et par là même de nul effet, qui peut servir de fondement pour requérir la déclaration de nullité, et, par conséquent, pour justifier un acte aussi grave que celui de mettre en cause la réalité du pouvoir pontifical dans le titulaire de la Primauté, au risque de jeter le trouble dans l'Église.
+
+On comprend dès lors que, pratiquement, le Pape sorti d'une élection notoirement simoniaque était ou devait être tenu pour vrai Pape, *juridiquement* du moins.
+
+L'était-il *réellement*? — Rien de moins certain.
+
+Il est manifeste, en effet, que si une semblable élection est nulle de soi, comme on le peut croire théologiquement, l'absence d'un décret positif expliquant le droit divin et permettant d'en poursuivre canoniquement l'invalidité ne saurait suffire à la valider.
+
+Mais il demeure avéré que si l'élu ne sortait pas Pape des opérations du Conclave, il le pouvait devenir. Comment? — Par l'acceptation de l'Église.
+
+Il faut remarquer, en effet, que le droit initial d'élection appartient originairement à la société chrétienne. Les Souverains Pontifes ont pu limiter l'usage de ce droit, en en réservant l'exercice au collège des cardinaux, mais ils n'ont point entendu l'éteindre, pour le cas précisément où il devient la seule ressource pour parer à cette détresse de la société. L'Église, dans ce cas, ne supplée pas la juridiction, comme le disent à tort certains théologiens ; elle supplée l'élection par le serment d'obédience prêté par les différentes parties de la chrétienté [^20].
+
+Alexandre VI avait reçu ces serments d'obédience, obédience assez hésitante il est vrai, pour ne pas dire quelque peu marchandée, toujours prête à se reprendre, assez sûre cependant pour que Charles VIII, par exemple, résistât aux suggestions des cardinaux et s'estimât heureux d'être admis à faire à Alexandre VI ses trois révérences, avant de lui baiser les pieds.
+
+Nous ne pensons donc point que le seul fait de simonie, même aussi bien établi que pouvait l'être le honteux marché auquel Rodrigue Borgia devait son élévation, pût justifier l'initiative de Savonarole en vue de faire assembler un concile. Le doute juridique était insuffisant au moment même de l'élection, et il perdait même sa valeur dès que l'élu avait été reconnu par l'Église.
+
+En ce cas, la bonne foi du Frate pourrait bien ne pas être en cause, sa conviction intime et spéculative de la nullité de l'élection à ce titre théologiquement motivée, sa conduite n'en demeurerait pas moins attaquable au point de vue de la prudence chrétienne comme au point de vue du droit canonique. Il serait aisé de lui trouver mille excuses, comme on en accorde à Joseph de Maistre, peu suspect de sympathie pour la suprématie conciliaire et qui écrivait pourtant dans son livre *Du Pape* [^21]; « Lorsque des courtisanes toutes-puissantes, des monstres de crime et de scélératesse, profitant des désordres publics, s'étaient emparés du pouvoir, disposaient de tout à Rome, et portaient sur le trône de saint Pierre, par les moyens les plus coupables, ou leurs fils ou leurs amants, je nie *expressément que ces hommes aient été Papes*. Celui qui entreprendrait de prouver la proposition contraire *se trouverait certainement fort empêché*. De Maistre ajoute en note qu'il pourrait défendre ou expliquer ce paragraphe, mais qu'il préfère l'abdiquer.
+
+Ainsi pourrait-on défendre Savonarole, expliquer sa conduite, montrer que, si certains désordres sont capables de soulever, à des siècles de distance, une indignation aussi violente, chez un Pontifical comme Joseph de Maistre, il n'est pas malaisé de comprendre quelles saintes fureurs ils devaient allumer dans l'âme si religieuse et si fière de Savonarole, quand il les voyait de ses yeux, quand cette corruption venait battre les murs de Saint-Marc et mettre en péril, non seulement sa vie, mais la dignité soumise de son obéissance religieuse et l'honneur de sa foi.
+
+Mais c'est tout ce qui serait permis pour expliquer cet acte de sa vie : en définitive il faudrait faire comme Joseph de Maistre, il faudrait l'abdiquer.
+
+Nous avons établi que cette faute, il n'y a pas à l'expliquer, il n'y a pas à en accuser Savonarole ni à l'en justifier : cette faute, il ne l'a pas commise[^22].
+
+Enfin, si l'on voulait entendre que tous les griefs énoncés dans les Lettres aux Princes sont invoqués comme motifs de déchéance, il faudrait aussi comprendre ceux-ci : la simonie dans la vente des bénéfices, et les scandales donnés par Alexandre VI. Ici l'affirmation serait de la dernière gravité.
+
+Ce n'est pas seulement de gallicanisme que l'auteur de la Lettre aux Princes pourrait être accusé. Sans doute, pour les gallicans, ces crimes pouvaient suffire pour *provoquer la déposition d'Alexandre VI* par un concile, mais ils n'ont jamais prétendu dire que le Pape perdait par le seul fait de ses désordres son pouvoir et sa Primauté. Une semblable proposition ne parait pas très différente de celles-ci, dont elle n'est que l'application pratique :
+
+1° Si un Pape, un évêque, un prélat est en état de péché mortel, il n'est ni Pape, ni évêque, ni prélat.
+
+2° Si le Pape est méchant et réprouvé comme Judas, il est diable, larron, fils de perdition, et nullement chef de l'Église militante, puisqu'il n'en est pas membre.
+
+3° Si un Pape vit d'une manière contraire à Jésus-Christ et au Prince des Apôtres quand même il aurait été élu canoniquement et légitimement selon l'élection humaine, il ne laisserait pas d'être monté par ailleurs que par Jésus-Christ.
+
+Toutes propositions dérivant de cette erreur commune que la perte de la grâce entraîne de soi celle de tout pouvoir et juridiction spirituels.
+
+Ces propositions furent condamnées par le concile de Constance, comme hérétiques, — elles sont de Jean Huss, — et Martin V sur ce point spécial confirma la sentence de l'assemblée œcuménique.
+
+Voilà un argument que nous signalons à tous ceux qui veulent voir dans la doctrine de Savonarole une parenté avec celle de Jean Huss[^23]. Mais nous les invitons auparavant à s'assurer si les doctrines qu'ils lui prêtent, il les a vraiment professées.
+
+### LA RÉFORME GÉNÉRALE DE L'ÉGLISE SANS LE PAPE, MALGRÉ LE PAPE
+
+Enfin l'on a voulu découvrir, dans l'invitation adressée aux princes chrétiens d'assembler un concile, un acte anticatholique et révolutionnaire pour accomplir sans le Pape et contre le Pape la réforme générale de l'Église, ce qui était le plus sûr moyen de compromettre la cause de la véritable Réforme[^24] ».
+
+Avant de porter contre l'auteur des Lettres aux Princes, une si grave accusation, il eût été prudent et équitable de bien se rendre compte, s'il est bien question dans ces Lettres *de la Réforme générale de l'Eglise*. Si les accusateurs s'étaient engagés au préalable à *subir la peine due à la faute* dont ils chargent Savonarole, il est à croire qu'ils auraient mis un peu moins de légèreté ou d'inconscience dans une pareille accusation, et s'ils s'étaient un peu souciés du devoir qui leur incombe à ce titre, de *faire la preuve*, il n'est point de doute qu'ils se fussent enquis avec plus de soin des moyens d'appuyer leur réquisitoire, et ils eussent été amenés à donner un peu plus d'attention à la seule pièce qui puisse motiver un jugement. Puisque cet examen ne semble pas avoir été fait avec la circonspection et le sérieux que demande l'équité, il nous faut le reprendre avec cette liberté qui veut que toujours soient révisables les sentences de l'histoire[^25].
+
+Quel est donc le but assigné à la réunion d'un concile dans ces Lettres?
+
+Il s'agit de *subvenir à cette détresse particulière* de la chrétienté. *L'Eglise est sans Pontife, la barque de Pierre sans Pilote*. « C'est pourquoi de la part du Dieu tout-puissant dont vous tenez l'empire, je vous prie et vous adjure, Sérénissime César, parmi tous les défenseurs de la République chrétienne, de laisser de côté toute rivalité et dissension terrestres, et d'employer vos soins à la réunion d'un concile solennel, qui puisse subvenir sans retard à un *tel* désastre si mortel pour les âmes *et secourir la nacelle de Pierre en péril* ». — Et aux Roi et Reine d'Espagne : « Pressez la réunion d'un Concile pour mettre *fin à une détresse si mortelle pour la société chrétienne* ».
+
+Il n'y a point à prétendre que ces termes sont assez vagues pour s'appliquer à la situation générale de l'Eglise. Ils sont déterminés par le contexte lui-même. Cette invitation est encadrée dans la lettre, par la déclaration que fait l'auteur, qu'il n'y a plus de Pontife, et par l'obligation qu'il assume de faire la preuve de l'hérésie d'Alexandre. C'est donc à ce fait qu'elle se réfère, c'est à cette misère particulière qu'il faut porter secours. S'il restait encore quelque doute, il suffirait pour le faire disparaître de lire le texte de la Lettre au Roi de France où nous trouvons la formule la plus précise et capable de satisfaire à toutes les exigences : « De la part, du Dieu tout-puissant, je vous avertis et vous adjure d'employer tous vos soins à la réunion d'un concile... *pour que au grand péril des âmes l'Église ne périsse faute de Pasteur*. Ne tanto animarum periculo, sine pastore labatur Ecclesia ».
+
+Aucun autre but n'est proposé à l'activité du Concile que de donner un pilote à la barque de Pierre qui n'en a plus. Et ce n'est pas là, la moindre preuve, que ces Lettres n'ont pu être l'œuvre d'un théologien « imbu de la fausse théorie de la suprématie du Concile ».
+
+Comment! voilà un gallican qui professe que le Concile est supérieur au Pape, que si le Pape à ce requis refuse de le convoquer, quand le désordre est partout dans l'Église, quand la corruption menace toutes les âmes, il peut se réunir malgré lui, et accomplir sans lui, en commençant par lui, cette réforme à laquelle il se refuse ; voilà un gallican qui se trouve être Savonarole, c'est-à-dire, un homme qui, depuis que sa voix a pu se faire entendre, n'a cessé de flétrir les vices du clergé et du peuple, d'appeler de tous ses vœux le moment où sera remise en honneur la morale de l'Évangile, l'heure où l'on retrouvera « des Prélats qui soient d'or, les calices dussent-ils être de bois » et dans un recours au concile, il ne dit rien de cette œuvre à accomplir, il n'a pas un mot pour cette réforme qui occupe toute sa pensée et lui prend toute sa vie! Après avoir parlé de l'état de l'Église, envahie par la lèpre des pieds à la tête, il détermine pour unique objectif à la réunion de l'assemblée des Évêques, de donner un Pape à l'Église qui n'en a plus!!! — Quelle explication donner d'un semblable oubli? sinon — que, précisément, Savonarole n'est pas gallican, mais romain, — qu'il sait que la Réforme de l'Église ne saurait s'accomplir sans le Vicaire du Christ et malgré lui, — que s'il demande un concile sans Pape et en dehors d'un Pape, c'est uniquement parce qu'il n'y a plus de Pape, — qu'il réserve pour l'heure ou l'assemblée conciliaire aura subvenu à cette affliction de l'Église et redonné un Pilote à la nacelle du Pêcheur, de lui confier cette suprême prière — qu'il croit que seule, la barque de Pierre porte, avec l'autorité du Christ, l'espoir de la Rédemption, le salut qui est par l'Évangile, et avec l'Évangile la fortune de la chrétienté?
+
+Certes il parle au début de cette lettre de la corruption, des vices qui règnent dans l'Église de Dieu, mais il ne les mentionne que pour préparer les esprits à la révélation de ce désordre extrême, châtiment de tous les autres, qu'il n'y a plus de Pontife, — comme il parle de la simonie et des autres scandales d'Alexandre VI pour conduire à cette autre révélation qu'il fait de son hérésie totale. Voilà la logique de sa pensée. Mais quand il s'agit de fixer un but à l'action du concile, il n'en définit point d'autre que celui de donner un Pasteur à l'Église *"ne sine Pastore labatur Ecclesia"*. Pourquoi encore une fois? sinon parce qu'il professe que l'activité d'un concile sans Pape, légitime en ce cas, deviendrait usurpatrice si elle osait prétendre à franchir ces limites pour s'étendre plus loin.
+
+Mais alors qu'y a-t-il d'anti-catholique dans une semblable entreprise? Serait-ce le moyen employé qui serait révolutionnaire : le recours aux Princes séculiers?
+
+Sur ce point il ne serait point inutile de s'entendre.
+
+Quand des chrétiens, fermes croyants et grands serviteurs de l'Église par ailleurs, parlent, à raison des circonstances présentes, d'affranchir la société spirituelle de la tutelle des princes, devenue trop facilement oppressive, on leur inflige cette épithète de *Libéraux*, qui peut vouloir tout dire, depuis que l'on a pris l'habitude de lui faire signifier, la plupart du temps, le contraire de ce qu'elle veut dire. Quand, d'autre part, des chrétiens aussi vaillants font appel à cette protection pour le bien de l'Église, il se trouve encore des esprits pour censurer leur conduite, en les accusant de soumettre au pouvoir séculier, le pouvoir ecclésiastique, qui dérive immédiatement du Christ lui-même.
+
+Il faut pourtant reconnaître que si les princes *temporels* n'ont de ce chef aucun droit d'intervenir dans les choses d'Église, comme *princes chrétiens*, ils ont des devoirs et des droits qui leur sont reconnus par l'Église elle-même, et qui sont la base même de *l'État chrétien*.
+
+Quels étaient ces droits et ces devoirs dans la question présente, c'est-à-dire pour la convocation d'un concile, dans le cas où l'Église est sans Pasteur, par suite de l'hérésie du Pontife? — Consultons Sylvestre Prieras, un intransigeant de la suprématie Pontificale, auquel on a reproché précisément — quoique injustement — de n'opposer que ce seul argument d'autorité à tous les raisonnements de Luther[^26].
+
+Dans ces circonstances extrêmes, la mission de convoquer le concile, revient en premier lieu, aux cardinaux, spécialement associés par le Pape au gouvernement général de l'Église, en vertu de cette parole prononcée à leur création : « *Estote Fratres mei et Principes mundi.* »
+
+Ce droit revient ensuite aux Patriarches et primats, s'ils sont catholiques, spécialement, au patriarche de Constantinople, s'il est en communion avec l'Église romaine.
+
+En troisième lieu, à l'Empereur puis aux Rois chrétiens, puis aux autres Princes; enfin à tout fidèle qui par sa puissance, sa sagesse, l'autorité qu'il possède, la considération dont il jouit, peut s'y employer efficacement. Ce, en vertu de ce principe, que régulièrement le pouvoir descend en pareil cas du supérieur à l'inférieur par la négligence du premier.
+
+Si les cardinaux sont laissés de côté dans les Lettres aux Princes, on pourrait donc exciper de leur négligence, mais ce jugement ne serait peut-être pas en conformité parfaite avec les faits. Il est plus vrai de dire que Savonarole connaissait sur ce point la pensée des cardinaux.
+
+Lors de l'occupation de Rome par Charles VIII, l'Evêque de Saint-Malo, Briçonnet, écrivait à la Reine: 13 janvier 1495 : « Notre Saint-Père est plus tenu au Roy qu'on ne pense. Car, si le dit seigneur eût voulu obtempérer à la plupart de Messeigneurs les cardinaux, ils eussent fait un autre Pape, en intention de réformer l'Église ainsi qu'ils disaient ». — « Avec le Roi, raconte Commines, étaient bien dix-huit cardinaux et d'autres qui tous voulaient faire élection nouvelle et qu'au Pape fût fait procès. Deux fois l'artillerie fût prête, comme m'ont conté les plus grands, mais toujours le Roy par sa bonté y résista »...
+
+Et, il le faut remarquer, dans cette Lettre il n'est pas fait appel aux Princes chrétiens *pour qu'ils convoquent* eux-mêmes le concile. Cajetan ne craint pas de dire qu'en cette occurrence, l'Empereur peut convoquer le synode œcuménique, car il est entendu qu'il ne le fait que comme vicaire de l'Église. Mais comme les termes dont se sert l'auteur des Lettres, définissent bien ce rôle, sa nature et ses limites! Il les adjure de *procurer* un concile, de hâter un concile, « *procurare, maturare* », ils n'ont point à le convoquer d'autorité, mais ils sont tenus d'y apporter leurs soins, agissant comme princes-chrétiens, par *procuration* de l'Église. Il n'est point dit qu'ils le doivent réunir eux-mêmes, mais qu'ils s'emploient à le faire assembler. Comment donc y voir une pensée qui ne soit d'essence catholique et qui ne sauvegarde pleinement la vraie doctrine concernant l'autorité du Sacerdoce vis-à-vis de l'Empire.
+
+Enfin, avons-nous dit, si l'on rapproche la Lettre aux Princes des circonstances dans lesquelles elle fut écrite, le but que se propose son auteur et les moyens qu'il préconise, loin d'être regardés comme *un acte révolutionnaire*, peuvent être considérés au contraire *comme un mouvement réactionnaire* en faveur de la Primauté Pontificale.
+
+Charles VIII attiré en Italie par Julien de la Rovère n'avait point donné suite aux desseins de l'implacable cardinal : il n'avait point « entrepris de la déposition » d'Alexandre VI, comme disait Briconnet, et avait remis à plus tard ses projets de réforme. Il avait bien fait « d'appointer, dit Commines, car il était jeune et mal accompagné pour conduire un si grand dessein que réformer l'Église. » Le cardinal de Saint-Pierre aux Liens, voyant ses espoirs trompés, avait eu un de ces accès de colère violente que le Roi avait eu beaucoup de peine à apaiser.
+
+A son retour de Naples, celui-ci reçut la visite de Savonarole. Le Frate le menaça de la colère céleste pour avoir abandonné l'œuvre pour laquelle Dieu l'avait élu, et lui prédit que s'il essayait de se soustraire aux ordres divins, il passerait par des épreuves plus grandes que toutes celles qu'il avait connues jusque-là.
+
+Charles VIII, une fois en France, se souvint-il des prédictions de Savonarole? les malheurs qui l'atteignirent, lui remirent-ils en mémoire les menaces du Réformateur? Toujours est-il qu'il provoquait une consultation de la Sorbonne, sur les questions suivantes:
+
+1° Le Pape est-il tenu de rassembler un concile tous les dix ans, en vertu des décrets de Pise et de Constance et peut-on l'y obliger actuellement à cause des graves désordres qui règnent dans l'Eglise?
+
+2° S'il refuse obstinément, les membres dispersés de l'Église ont-ils le droit de se réunir, avec le concours des Princes chrétiens, et représenteraient-ils dans ce cas, l'Église universelle?
+
+3° Si les autres Princes refusent de s'en mêler, le Roi peut-il prendre sur lui de le réunir, afin de pourvoir aux besoins généraux de l'Église?
+
+La Faculté répondit affirmativement à ces trois questions par un acte du 11 janvier 1497.
+
+Certes voilà des décisions, sanctionnant des moyens qu'aujourd'hui, à bon droit, nous qualifierions de révolutionnaires? Mais convient-il, par un effet rétroactif des définitions vaticanes, d'appliquer à l'erreur de ces docteurs qui furent des croyants, vrais fils de l'Église, cette note d'infamie? N'est-il pas d'un sens catholique plus sûr, de s'inspirer de l'exemple de Léon XIII, qui parlant de Bossuet, oublie certaines opinions, discutables alors, condamnées depuis, pour ne se souvenir que des services rendus par lui à l'unité même de l'Église.
+
+Quoi qu'il en soit, la consultation de la Sorbonne sur la réunion d'un concile, avec les doctrines dont elle s'inspire, dut être connue à Florence, avant la rédaction des lettres aux princes, par le rapport de l'ambassadeur florentin à la cour de France. La République était encore engagée dans la politique française et certes le dessein de réunir un concile au milieu des circonstances où se trouvait l'Église ne pouvait passer inaperçue. Notez qu'au moment où Savonarole dut rédiger ces lettres (mars 1494) l'orateur florentin à la cour du roi, était Joachim Guasconi, ami intime de Dominique Mazzinghi, naguère gonfalonier de justice, actuellement l'un des dix de Balie, et *piagnone* fervent. Mazzinghi devait donc connaître par Guasconi, et comme ami et comme membre de Balie, ce qui se préparait en France, et il n'est pas croyable qu'il n'en ait rien dit au Frate, surtout si l'on considère que Dominique Mazzinghi était spécialement chargé, par le prieur de Saint-Marc, de correspondre avec l'orateur à Paris, pour que celui-ci préparât les voies, et amenât Charles VIII à s'employer activement, pour la réunion d'un concile.
+
+Or il ne manque pas d'intérêt de mettre en regard de la décision des docteurs de Paris, les lettres aux princes chrétiens.
+
+Si les autres princes refusent d'y prêter les mains, disait la Faculté, le roi de France peut prendre sur lui de réunir le concile.
+
+N'aboutissait-on pas ainsi à un concile national, qui facilement se prétendrait œcuménique? Le projet était gros de conséquences schismatiques.
+
+Pas de concile national, *mais un concile solennel*, disent les lettres. Et pour y réussir, avec quelle ardeur il adjure tous ces princes, d'oublier toutes leurs ambitions personnelles, de mettre de côté tout ce qui n'est pas le salut de l'Eglise, pour agir de concert, avec union, et tous ensemble *unanimiter, concorditer, afin que l'Eglise ne reste pas plus longtemps sans Pasteur*.
+
+Si le Pape, à ce requis, refuse de convoquer l'assemblée, continuait la Sorbonne, les membres dispersés de l'Eglise ont le droit de se réunir. Ils représenteront dans ce cas l'Eglise universelle; et pourront entreprendre la réforme générale, de la chrétienté.
+
+A cette proclamation de la suprématie du concile assemblé sans le Pape et malgré le Pape, l'auteur de la lettre aux princes, substitue le seul principe unitaire, qui permette de réunir le concile en dehors du Pape et sans Pape, qui est le cas, où le titulaire de la primauté pontificale s'est mis lui-même en dehors de l'Eglise et est déchu par l'hérésie de sa suprématie.
+
+Ainsi Savonarole, au lieu de se rendre coupable d'un acte révolutionnaire n'aurait fait que reprendre suivant l'enseignement de la plus pure doctrine romaine, un projet révolutionnaire, pour le redresser et l'aiguiller dans le sens de la suprématie papale. Il n'aurait fait, comme nous l'avons dit, qu'accomplir un *acte régulier bien qu'exceptionnel* dans la vie de l'Eglise, et qui revêt, à raison des circonstances où il se produit, un caractère de réaction contre la suprématie conciliaire.
+
+Voilà ce que révèle l'étude la plus attentive et la plus scrupuleuse. Ce document pouvons-nous conclure, n'émane pas d'un théologien gallican, mais d'un théologien romain : il n'a de sens que par la théorie de la suprématie pontificale : c'est à cette doctrine qu'il se rattache, et pour l'écrire, Savonarole n'a eu à renier aucun des articles de sa doctrine antérieure.
+
+Pourquoi parmi tous ceux qui ont parlé de Savonarole, ne s'en est-on pas rendu compte plus tôt? La chose ne peut sembler étrange de la part des historiens.
+
+Il ne suffit pas d'être en possession pleine et entière, des documents qui concernent l'histoire de cet homme, et d'avoir établi, de façon indubitable, l'enchaînement des faits de sa vie, pour être en mesure de porter, sur la moralité chrétienne de ses actes, un jugement équitable et vrai. Il n'est pas étonnant que ceux qui n'ont pas la foi catholique, malgré les efforts de la plus sincère et de la plus consciencieuse impartialité, n'arrivent pas à parler de lui avec compétence et pleine équité. Mais les historiens catholiques eux-mêmes, arriveront difficilement à l'apprécier comme il convient. Le jugement à porter sur lui relève de la théologie et du droit plus que de l'histoire. Et il ne suffit pas de notions élémentaires ou de synthèses générales, pour trancher des questions, dont la solution dépend souvent des plus précises déterminations de la doctrine. Nous ne savons même, si des données incomplètes ne sont pas, en ce cas, plus nuisibles qu'utiles, car il n'est point d'arme si dangereuse, croyons-nous, et dont les effets soient si pernicieux que des principes insuffisamment compris dans toute leur extension et leurs exceptions, et aveuglément appliqués, à des faits qui ne relèvent pas d'eux.
+
+Voilà pourquoi un historien[^27], par exemple, qui a rendu à la cause de l'apôtre florentin de signalés services, dont les recherches ne sont point arrêtées avec le succès de son Histoire de Savonarole, et dont toute la vie demeure dévouée à cette grande mémoire, a pu écrire, résumant ces Lettres aux Princes: *« Il comptait plaider devant le concile sa propre cause, flétrir publiquement la vie et les mœurs abominables d'Alexandre Borgia, et faire annuler comme simoniaque l'élection de ce Pape. Il voulait ainsi démontrer que le Souverain Pontife hérétique et infidèle était la cause principale de tous les maux de l'Église. »* Où l'on peut remarquer, d'après ce que nous avons fait voir, qu'il y a presque autant d'inexactitudes que d'affirmations. Il n'est pas jusqu'à cette dernière proposition, — qu'il voulait démontrer que l'hérésie était la cause principale de tous les maux de l'Église, — bien que soutenable en elle-même, dont on puisse dire, qu'elle est en conformité avec la pensée de Savonarole. Celui-ci ne nous dit pas que l'hérésie du Pontife était cause de tous les désordres de l'Église, mais qu'elle en était la résultante et le châtiment « Idcirco Dominus adversus propter intolerabilem fœtorem, jamdudum nullum in Ecclesia pastorem esse permisit ».
+
+Il est moins facile d'expliquer comment des théologiens ont partagé l'erreur commune, sinon par ce qu'ils se sont laissé influencer par un jugement préconçu, qu'ils ont abordé l'étude de ce document comme d'une affaire désormais classée, qu'ils se sont arrêtés à ce fait de la demande d'un concile en dehors du Pape, sans examiner d'assez près les raisons qui la motivaient. Et certes il y avait vingt chances contre une, qu'une pareille démarche s'inspirât, de la doctrine de la suprématie conciliaire. L'on n'a point examiné, si l'unique chance laissée à la théorie de la suprématie papale, n'était point vérifiée ici.
+
+Les actes de Savonarole, ses paroles — et la plupart de ses paroles sont des actes — demandent à être examinés en détail. Il faut peser chacun de ses mots, n'omettre aucune circonstance de ses actions. Car ce Frate est un maître de la doctrine. Non seulement il la sait; mais encore il en vit. Rien, dans sa conduite, n'est laissé au hasard ou au caprice de l'heure. Comme mobile de chacune de ses déterminations, il y a un principe de théologie ou de droit. Ne le jugez point par des lois générales, il ne se dirige que par des principes exceptionnels. Par où, nous n'entendons point dire qu'il se mette en dehors, ni au-dessus du droit commun. Non. Les règles dont il se réclame sont admises des meilleurs docteurs catholiques; elles n'ont d'exceptionnel que les circonstances et les faits qu'elles commandent en droit — et qui les conditionnent dans leur application.
+
+Jusqu'ici nous avons démontré seulement *qu'en doctrine et en droit*, les Lettres aux Princes, sont inattaquables. Le jugement définitif à porter sur elles, suppose encore un autre élément important. Une question est à résoudre! — *En réalité*, Alexandre VI était-il hérétique[^28], infidèle, ne croyant même plus en Dieu? Quelles paroles, quels faits, quels crimes, quelles pratiques monstrueuses peut-être, le pouvaient faire croire? Scélératesses inouïes, disait Savonarole, dont la révélation ferait la stupéfaction et l'horreur du genre humain. — Ce qui revient à dire quelles preuves l'accusateur devait-il apporter pour soutenir une semblable accusation?
+
+Le Frate a emporté son secret dans la tombe!
+
+Nous n'avons pas à le suppléer ici. Il nous suffit d'avoir déterminé le point précis du débat. Dans la solution à intervenir, la première place et la plus large est faite aux recherches de l'histoire.
+
+M. Pastor a dit d'Alexandre VI [^29]; « Cet homme placé comme une sentinelle sur un poste élevé, pour sauver ce qui pouvait être sauvé, a contribué plus que tout autre aux progrès de la corruption dans l'Église. La vie de ce jouisseur adonné à la sensualité la plus effrénée, fut à tous égards, un démenti donné aux leçons de Celui qu'il était appelé à représenter sur terre, Jusqu'à son dernier jour il ne cessa d'étaler aux yeux de tous, avec un sans-gêne absolu, son existence coupable. Et cependant, fait digne de remarque, dans les questions purement religieuses, Alexandre VI n'a donné prise à aucun blâme fondé, et jamais ses ennemis les plus acharnés n'ont pu formuler contre lui une accusation précise de quelque portée. La pureté de la doctrine religieuse resta intacte. Il semble que la Providence ait voulu démontrer que si les hommes sont capables de faire du mal à l'Église, ils sont incapable de la détruire. »
+
+Si l'on veut parler de l'enseignement officiel garanti par l'Esprit de Dieu, ces lignes ne sauraient soulever la moindre objection. Mais il est manifeste que l'accusation de Savonarole ne met pas en question l'infaillibilité du Pontife, mais la foi du chrétien. L'assistance divine spéciale, qui lui est accordée pour ses fonctions de Docteur suprême, n'assure point du même coup sa propre croyance. Il peut définir infailliblement ce qu'il faut croire, sans donner aux vérités qu'il propose à la foi de l'Église, cette adhésion personnelle de son intelligence, qui suppose cette grâce surnaturelle de Dieu, commune à tous les croyants.
+
+Les vices d'Alexandre VI, — et l'on sait que sur ce point l'imagination la plus audacieuse n'a que peu de chances de dépasser la réalité! — cette « tyrannie du démon de la luxure » sous laquelle il vécut de plus en plus esclave jusqu'à la fin, ne sauraient être pareux-mêmes une accusation contre sa foi. Mais qui ne sait que le résultat naturel de « cette sensualité effrénée », c'est la perte de « tout sens moral », l'aveuglement de l'esprit, et une hostilité sourde contre Dieu et tout ce qui le rappelle à la conscience humaine, qui amènent par degrés, dans une âme ainsi enlisée dans la volupté, la perte de toute croyance[^30]? Penserait-on, par hasard, que la foi privée de Rodrigue Borgia était à l'abri de ces atteintes, parce qu'à tous ses crimes, il ajoutait cette forfaiture d'étaler sa honte sur la chaire de saint Pierre ? Est-il bien sûr qu'il ne reste aucun témoignage qu'il *ait tenté de justifier sa vie* par des principes contraires à la morale de l'Évangile, avec la même audace, qui lui faisait légitimer par bulles authentiques quoique secrètes les fruits adultérins et sacrilèges de ses propres désordres? Est-ce qu'il ne resterait pas trace, d'accusations analogues à celle de Savonarole?...
+
+Encore une fois, la réponse est aux historiens. Un témoignage ne se suppose pas, mais M. Pastor nous en a dit assez pour rendre parfaitement acceptables toutes les révélations qui pourraient être faites désormais.
+
+Nous avons fini :
+
+Daigne Dieu bénir ces pages et faire qu'elles ne soient point inutiles à la cause de son serviteur Frère Jérôme Savonarole.
+
+Fr. JOURDAIN HURTAUD, O. P.,
+
+Professeur de Théologie Dogmatique.
+
+[^1]: {org. 1} Histoire des Papes depuis la fin du moyen âge, t. V et VI.
+
+[^2]: {org. 1} La traduction est faite sur le texte latin publiée par M. PERRENS (*Vie de Savonarole*). Appendice. — Avec les corrections et restitutions faites par le prof. Alex. GUÉRARDI, *Nuovi Documenti*, p. 281-288.
+
+[^3]: {org. 1} PERRENS, Vie de Savonarole. — Histoire de Florence.
+
+[^4]: {org. 2} PASTOR, Histoire des Papes.
+
+[^5]: {org. 3} VILLARI, Jérôme Savonarole, t. II, p. 399 et seq.
+
+[^6]: {org. 4} MARCHESE, Arch. stor. ital., app. VIII, p. 85.
+
+[^7]: {org. 5} LUOTTO, Il vero Savonarola, p. 594.
+
+[^8]: {org. 6} P. BAYONNE, Étude sur Savonarole. — GHERARDI, dans le Quarto centenario, p. 221, appuie d'observations sérieuses la thèse de Luotto, sans toutefois se résoudre à conclure contre l'authenticité.
+
+[^9]: {org. 1} VILLARI, II. p. 308.
+
+[^10]: {org. 2} PERRENS, *Histoire de Florence*. II. p. 285.
+
+[^11]: {org. 3} PASTOR, *Histoire des Papes*, VI. p. 32.
+
+[^12]: {org. 1} PEHRENS, *l. c.*
+
+[^13]: {org. 2} VILLARI, *l. c.*
+
+[^14]: {org. 1} Le Prof. Villari (IV° Centenario) reproduit plus clairement encore cette interprétation (Conferenze, p. 223). « Arrivata la scommunica, non tacque *e se ne appello a concilio*». Et il en félicite Savonarole. Que le célèbre Professeur nous le pardonne, c'est là une affirmation, que l'Histoire ne saurait faire sienne, non plus qu'un catholique sincère ne saurait accepter ses félicitations. — La Rédaction de la *Revue* en rejette d'ailleurs la responsabilité.
+
+[^15]: {org. 1} Nous ne connaissons du moins aucun auteur historien ou théologien qui ait donné nettement de ces lettres l'interprétation doctrinale que nous soumettons nous-même aux lecteurs.
+
+[^16]: {org. 1} CAJETAN. — De auctoritate Papæ et Concilii, passim.
+
+[^17]: {org. 1} Nous nous servons indifféremment des termes de *dénonciation* ou d'*accusation*, — mais il faut dire qu'en réalité Savonarole ne fait pas que *dénoncer* l'hérésie d'Alexandre VI au concile. Il se porte *accusateur*. C'était s'obliger, tous les canonistes le savent : 1° à désigner le crime et son auteur; 2° à poursuivre lui-même la cause, c'est-à-dire à faire la preuve et à requérir contre le coupable; 3° à encourir lui-même la peine demandée contre l'accusé s'il ne peut faire la preuve du crime. C'est ce qu'exprime cette phrase de la Lettre à l'Empereur : *Ego vero quibuscumque nexibus me obstringens talia probabiliter promitto me non tam probaturos certissimas, etc.* Les clercs et les réguliers n'avaient pas le droit de se porter accusateurs pour les crimes de droit commun, s'il ne s'agissait d'une injure les atteignant eux-mêmes ou leurs proches. Mais ils le pouvaient, pour les crimes exceptionnels contre l'honneur de Dieu, blasphème, apostasie, hérésie, simonie, magie, sacrilège. La dénonciation n'est que la révélation du crime et du coupable faite au juge qui prend sur lui de poursuivre. — La poursuite par mode d'accusation particulière est hors d'usage aujourd'hui.
+
+[^18]: {org. 2} Nous trouvons même ces termes chez certains canonistes; saint Antonin en donne l'explication, tit. IX, c. VII, p. 101 : « De modo procedendi per accusationem. » « Aliud famosum, aliud manifestum aliud notorium. Fama quandoque ex scientia quandoque ex suspicione procedit manifestum, quod ex scientia et certo auctore procedit et quod potest probari. « Et etiam dicitur *quandoque occultum quod potest probari*. Et occultum dicitur quod quinque sciunt. Item notorium dicitur manifestum quod patet per probationem vel per evidentiam rei. »
+
+[^19]: {org. 1} Op. c., t. VI, p. 32.
+
+[^20]: {org. 1} Ce principe s'applique même après la Bulle de Jules II, dans le cas où le secret du trafic simoniaque serait si bien gardé, qu'on n'en pourrait juridiquement faire la preuve.
+
+[^21]: {org. 2} *Du Pape*, t. II, chap. VII.
+
+[^22]: {org. 1} On nous a soumis, comme nous achevions ce travail, une étude du Dr Commer sur cette question (*Jahrbuch für Philosophie und spekulative Theologie*, 1899). Ses conclusions diffèrent des nôtres en plusieurs points : 1° En ce qu'il suppose que le fait de l'élection simoniaque est invoquée dans ces Lettres *comme raison suffisante et vraie* de la nullité; 2° En ce que, après avoir établi théologiquement et canoniquement que cette élection était tenue pour douteuse, il croit Savonarole justifié par la raison; 3° Bien qu'il distingue soigneusement le point de vue théologique du point de vue canonique, il nous semble se départir, dans l'application, de cette précieuse distinction, autant du moins que nous avons pu suivre sa pensée au milieu de citations des plus grands canonistes accumulées sans compter. Le venerable et docte professeur nous pardonnera si nous lui disons que nous n'avons rien trouvé, dans sa savante étude, qui puisse modifier notre sentiment.
+
+[^23]: {org. 1} Le rapprochement a été fait sur ce point particulier, par M. PERRENS (*Vie de Savonarole*, t. III, c. IX, p. II s'attache dans ses lettres à développer cette maxime de Jean Huss que le Pape n'est pas le successeur véritable du chef des apôtres, si ses mœurs ne sont pas semblables à celles de Pierre. » Si vous voulez la preuve continuez à lire : « Il montra qu'Alexandre VI n'était pas même chrétien, et que par conséquent il ne pouvait être considéré comme pape, et qu'il fallait le déposer au plus tôt. » — Voilà du hussisme! — O théologiens improvisés!
+
+[^24]: {org. 2} PASTOR, *Op. c.*, t. V, p. 209, 210.
+
+[^25]: {org. 1} Nous n'entendons pas faire, de ce chef, un grief spécial à M. Pastor. Le P. Bartoli (*Apologia* c. XIX, p. 914) tout en doutant de l'authenticité de ces Lettres, soutient que leur auteur ne demande pas la déposition d'Alexandre, mais uniquement la réforme de l'Eglise. « C'est faux! » dit simplement le P. Marchese. Il aurait pu ajouter : C'est bien maladroit comme apologie.
+
+[^26]: {org. 1} *De irrefragabili veritate Romanæ Ecclesiæ*, c. XI.
+
+[^27]: {org. 1} VILLARI. Histoire de Savonarole, t. II, p. 313.
+
+[^28]: {org. 1} Op. c., t. VI, p. 131.
+
+[^29]: {org. 1} Savonarole, croyons-nous, avant de dénoncer solennellement l'hérésie d'Alexandre, dut faire entendre au Pontife des admonitions particulières. Ces documents s'ils existent, ne sont pas encore mis à jour. Il est aisé cependant de trouver trace de cette pensée dans la lettre qu'il lui écrivait après l'assassinat du duc de Gandie (17 juillet 1497) où il lui prêche la foi en Dieu, non pas seulement la confiance, mais tout d'abord la foi « qui s'appuie sur les miracles innombrables et le témoignage des martyrs », qui, fondée sur la puissance et la bonté de Dieu, communique à l'âme humaine une incomparable grandeur. »
+
+[^30]: {org. 1} Ie Ier q. CLIII. a. 5.
