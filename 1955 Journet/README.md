@@ -11,7 +11,21 @@
 
 ## Chapter VIII, Excursus VIII
 
-EXCERPT TBD
+**(5) Validity and certitude of election.** The election, remarks John of St. Thomas, may be invalid when carried out by persons not qualified, or when, although effected by persons qualified, it suffers from defect of form or falls on an incapable subject, as for example one of unsound mind or unbaptized.
+
+But the peaceful acceptance of the universal Church given to an elect as to a head to whom it submits is an act in which the Church engages herself and her fate. It is therefore an act in itself infallible and is immediately recognizable as such. (Consequently, and mediately, it will appear that all conditions prerequisite to the validity of the election have been fulfilled.)
+
+Acceptance by the Church operates either negatively, when the election is not at once contested; or positively, when the election is first accepted by those present and then gradually by the rest (cf. John of St. Thomas, II-II, qq. I-7; disp. 2, a. 2, nos. I, 15, 28, 34, 40; pp. 228 et seq.).
+
+The Church has the right to elect the Pope, and therefore the right to certain knowledge as to who is elected. As long as any doubt remains and the tacit consent of the universal Church has not yet remedied the possible flaws in the election, there is no Pope, *papa dubius, papa nullus*. As a matter of fact, remarks John of St. Thomas, in so far as a peaceful and certain election is not apparent, the election is regarded as still going on. And since the Church has full control, not over a Pope certainly elected, but over the election itself, she can take all measures needed to bring it to a conclusion. The Church can therefore judge a Pope to be doubtful. Thus, says John of St. Thomas, the Council of Constance judged three Popes to be doubtful, of whom two were deposed, and the third renounced the pontificate (loc. cit., a. 3, nos. 10-11; vol. VII, p. 254).
+
+To guard against all uncertainties that might affect the election the constitution *Vacante Sede Apostolica* counsels the elect not to refuse an office which the Lord will help him to fill (no. 86); and it stipulates that as soon as the election is canonically effected the Cardinal Dean shall ask, in the name of the whole College, the consent of the elect (no. 87). "This consent being given—if necessary, after a delay fixed by the prudence of the cardinals and by a majority of voices—the elect is at once the true Pope and possesses in act, and can exercise, the full and absolute jurisdiction over all the world" (no. 88).
+
+**(6) Sanctity of the election.** These words do not mean that the election of the Pope is always effected with an infallible assistance since there are cases in which the election is invalid or doubtful, and remains therefore in suspense. Nor does it mean that the best man is necessarily chosen.
+
+It means that if the election is validly effected (which, in itself, is always a benefit) even when resulting from intrigues and regrettable interventions (in which case what is sin remains sin before God) we are certain that the Holy Spirit who, overruling the Popes, watches in a special way over His Church, turning to account the bad things they do as well as the good, has not willed, or at least permitted, this election for any but spiritual ends, whose virtue will either be manifest, and sometimes with small delay, in the course of history, or will remain hidden till the revelation of the Last Day. But these are mysteries that faith alone can penetrate.
+
+Let us single out this passage from the constitution *Vacante Sede Apostolica*: “It is manifest that the crime of simony, odious at once to God and man, is absolutely to be condemned in the election of the Roman Pontiff. We reprobate and condemn it once more, and we declare that those guilty of the same incur the penalty of excommunication *ipso facto.* However, we annul the measure by which Julius II and his successors have invalidated simoniacal elections (from which may God preserve us!) that we may remove all pretext for contesting the validity of the election of the Roman Pontiff.”
 
 ```json
 {
