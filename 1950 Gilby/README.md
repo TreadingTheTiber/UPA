@@ -11,7 +11,9 @@
 
 ## Logic of Development, Page 25
 
-EXCERPT TBD
+[...]
+
+Four parts may be distinguished in the complex body of truths proposed to us by the Church, namely a. the gift revealed in Scripture, to reject which is infidelity; b. the dogmas or articles of faith defined by the Church, to reject which is heresy; c. theological conclusions or necessary inferences from the truths of faith, the denial of which may be censured as erroneous; d. dogmatic facts, or that historical setting to theological statements which has to be accepted if these are to have any force, for instance that Jansenism really was found in the Augustinus, **that Pius IX was a lawful pope,** and that the First Vatican Council was ecumenical.
 
 ```json
 {
