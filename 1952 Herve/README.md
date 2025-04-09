@@ -12,7 +12,13 @@
 
 ## Pars II, Caput III, Articulus III, 3° De factis dogmaticis
 
-EXCERPT TBD
+**514. The Notion of a Dogmatic Fact.** — A *dogmatic* fact in general is any *fact* which is not revealed *in itself*, but is so *connected with dogma* that it is necessary for recognizing, preserving, explaining, or properly presenting dogma. *Three* types can be distinguished: 1.\ primarily *historical*, by which the rule of faith is recognized, e.g., the legitimacy of some ecumenical council or of a Pope; 2.\ *doctrinal*, such as a judgment concerning the meaning of some book in relation to faith; 3.\ *hagiographical*, such as the canonization of saints.
+
+We speak only of the last two in the present discussion, since the infallibility of the Church regarding the first naturally flows from what has been said above concerning councils, the Pope, and the indefectibility of the Church itself. "For what would it profit to profess in the abstract the infallible authority of ecumenical councils (or of Roman Pontiffs), if it were permitted to doubt the *legitimacy* of any council" or Pope?.
+
+[...]
+
+**a) From the very nature of infallibility**: For the Church is infallible in questions of *law*, as all concede; but unless it were also infallible in questions of *fact*, it could neither preserve the deposit of faith intact nor effectively safeguard the faithful from errors, and its infallibility would be entirely vain and illusory, since anyone could spread false doctrines with impunity and escape condemnation by saying that the Church had not correctly understood the meaning of his book. Therefore.
 
 ```json
 {
