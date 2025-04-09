@@ -11,7 +11,13 @@
 
 ## Treatise IV, Chapter VI, N. 211
 
-EXCERPT TBD
+[...]
+
+First, then, the Church is infallible when she declares what person holds the office of Pope; for if the person of the Pope were uncertain, it would be uncertain what Bishops were in communion with the Pope; but according to the Catholic faith, as will be proved hereafter, communion with the Pope is a condition for the exercise of the function of teaching by the body of Bishops (n. 208); if then the uncertainty could not be cleared up, the power of teaching could not be exercised, and Christ's promise (St. Matt. xxviii. 20; and n. 199, II.) would be falsified, which is impossible.
+
+This argument is in substance the same as applies to other cases of dogmatic facts. Also, it affords an answer to a much vaunted objection to the claims of the Catholic Church, put forward by writers who think that they find proof in history that the election of a certain Pope was simoniacal and invalid, and that the successor was elected by Cardinals who owed their own appointment to the simoniacal intruder; from which it is gathered that the Papacy has been vacant ever since that time. A volume might be occupied if we attempted to expose all the frailness of the argument which is supposed to lead to this startling conclusion; but it is enough to say that if the Bishops agree in recognizing a certain man as Pope, they are certainly right, for otherwise the body of the Bishops would be separated from their head, and the Divine constitution of the Church would be ruined.
+
+[...]
 
 ```json
 {
