@@ -12,7 +12,11 @@
 
 ## Section II, Titulus VII, Caput I
 
-EXCERPT TBD
+[...]
+
+*Cardinal Franzelin*, in the cited work p. 232, n. 4, at the end; *Camarda*, in the cited work p. 233 ff., 256 ff., where he discusses legitimate objections against an elected Roman Pontiff and correctly notes that no objection is admitted against a Pope who has been elected *and received by the entire Church*. This *consensus* of the Church is not an election nor by its own power does it make one who was not elected become elected, because one canonically elected by the Cardinals prior to the acceptance of the Church is the legitimate Pope. Cf. *Franzelin*, in the cited work p. 234. Therefore, that acceptance by the Church is not the *cause*, but the *sign and infallible effect of a valid election*. Conversely, if the *entire* Church abandons an elected Pope, e.g., Peter de Luna or Benedict XIII, it is a *certain sign that he was never a legitimate Pope*. Cf. *Cardinal Hergenroether-Kirsch*, in the cited work vol. II, p. 867 ff.; *Bouix*, in the cited work p. 684 ff.
+
+[...]
 
 ```json
 {
