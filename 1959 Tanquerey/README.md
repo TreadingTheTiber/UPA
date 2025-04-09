@@ -11,7 +11,7 @@
 
 ## Part I, Tract IV, Chapter II
 
-255 d.\ **The Church is infallible in regard to dogmatic facts.** A *dogmatic* fact is one which is *so much connected with a doctrine of the Church that knowledge of it is necessary in order to understand the doctrine and to preserve it safely*.
+255 d. **The Church is infallible in regard to dogmatic facts.** A *dogmatic* fact is one which is *so much connected with a doctrine of the Church that knowledge of it is necessary in order to understand the doctrine and to preserve it safely*.
 
 Dogmatic facts can be *threefold*: historical, doctrinal and hagiographical. Thus, dogmatic facts are **the legitimacy of the Holy Pontiff**, the *ecumenical (universal) nature of a Council*.
 
