@@ -11,7 +11,11 @@
 
 ## Part II, Chapter XV, Article II
 
-EXCERPT TBD
+[...]
+
+### c) DOGMATIC FACTS.
+
+A dogmatic fact is one that has not been revealed, yet is so intimately connected with a doctrine of faith that without certain knowledge of the fact there can be no certain knowledge of the doctrine. For example, was the Vatican Council truly ecumenical? **Was Pius IX a legitimate pope? Was the election of Pius XI valid? Such questions must be decided with certainty before decrees issued by any council or pope can be accepted as infallibly true or binding on the Church.** It is evident, then, that the Church must be infallible in judging of such facts, and since the Church is infallible in believing as well as in teaching, it follows that the practically unanimous consent of the bishops and faithful in accepting a council as ecumenical, or a Roman Pontiff as legitimately elected, gives absolute and infallible certainty of the fact.
 
 ```json
 {
