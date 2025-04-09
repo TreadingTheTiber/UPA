@@ -12,7 +12,11 @@
 
 ## Tract. III, Thesis LV
 
-EXCERPT TBD
+[...]
+
+**Demonstration, Part I.** There are three kinds of facts: some are *revealed*, such as the resurrection of Christ and the conversion of Paul, regarding which the Church is most certainly infallible; others are *not revealed*, merely historical, such as Pompey being defeated by Caesar, about which the Church is not concerned; **and others, which are called *dogmatic facts*, which, although they are not revealed, are nevertheless so connected with revelation that they cannot be called into doubt without endangering revealed truth itself or dogma. Such are, for example, that the Holy Scripture which we now use is genuine; that the Councils of Nicaea, Ephesus, Trent, etc. were legitimate; that Pius IX, Leo XIII, etc. were legitimately elected and therefore are legitimate successors of Peter in the Roman episcopate. Indeed, if any of these were called into doubt, it would immediately follow that the definitions issued in councils would be uncertain, that the center of Catholic unity would be uncertain—in other words, it would result in the collapse of faith itself and the destruction of revelation.** Concerning such facts, we contend that the judgment of the Church must be considered not only naturally and historically certain, but also supernaturally *infallible*. The reason seems quite clear from the very purpose of the authentic magisterium. For regarding these facts, doubts of greater or lesser gravity can arise, and there can be controversies and disagreements among the faithful. Since revealed truths are so intertwined with these facts that if the latter waver, the former cannot stand firm: the deposit of revelation and the unity of faith cannot be preserved intact unless the Church can judge these controversies and dogmatic facts themselves with a judgment that is beyond all doubt and therefore infallible. Therefore, in judging these matters, she must be considered infallible.
+
+[...]
 
 ```json
 {
