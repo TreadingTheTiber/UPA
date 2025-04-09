@@ -11,7 +11,11 @@
 
 ## Part I, Tract IV, Chapter II
 
-EXCERPT TBD
+255 d.\ **The Church is infallible in regard to dogmatic facts.** A *dogmatic* fact is one which is *so much connected with a doctrine of the Church that knowledge of it is necessary in order to understand the doctrine and to preserve it safely*.
+
+Dogmatic facts can be *threefold*: historical, doctrinal and hagiographical. Thus, dogmatic facts are **the legitimacy of the Holy Pontiff**, the *ecumenical (universal) nature of a Council*.
+
+That the Church is infallible in regard to dogmatic facts is certain. **For if the Church could make a mistake concerning the authority of the Holy Pontiff or of a Council, then there would always be grounds for doubting whether their decisions were infallible and accordingly for rejecting these decisions.** So, too, for the question of whether a certain book contains orthodox teaching or heretical doctrine. Theologians commonly teach that the Church can infallibly determine what sense or meaning the words of a book convey once the context has been considered; also whether this sense is orthodox or not. Otherwise, the Church would not be able to prevent heretics from spreading their errors and from avoiding condemnation.
 
 ```json
 {
