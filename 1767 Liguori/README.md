@@ -1,6 +1,6 @@
 # Verità della Fede: Opera data fuori dall'Illustrissimo e Reverendissimo Monsignor D. Alfonso de Liguori, Vescovo di Sant'Agata de' Goti, e Rettor Maggiore della Congregazione del SS. Redentore (*Truth of the Faith: A Work Published by the Most Illustrious and Reverend Monsignor St. Alphonsus Liguori, Bishop of Sant'Agata de' Goti and Superior General of the Congregation of the Most Holy Redeemer*)
 
-**by St. Alphonsus Liguori, 1767**
+**by St. Alphonsus Liguori (St. Alphonsus Liguori), 1767**
 
 [Online Location of Text Here](https://www.google.com/books/edition/Verit%C3%A0_della_fede_Opera_data_fuori_dall/In3wgpb6mLoC?hl=en&gbpv=1&pg=PA99&printsec=frontcover)
 
@@ -16,7 +16,11 @@
 
 ## Volume II, Part III, Ch. VIII
 
-EXCERPT TBD
+[...]
+
+**9.** It is of no consequence that in past centuries some Pontiff may have been illegitimately elected, or fraudulently intruded into the Pontificate; it suffices that he was afterward accepted by the whole Church as Pope, since by such acceptance he has already been rendered a legitimate and true Pontiff. But if for some time he was not truly and universally accepted by the Church, in such a case for that period the Pontifical See would have been vacant, as it is vacant upon the death of Pontiffs. Similarly, it is of no consequence that in cases of Schism there has been doubt for a considerable time as to who was the true Pontiff; because then one would have been the true one, although not sufficiently recognized; and if none of the Antipopes were true, then the Pontificate would have likewise been vacant.
+
+[...]
 
 ```json
 {
