@@ -12,7 +12,15 @@
 
 ## Title VI, Section X
 
-EXCERPT TBD
+[...]
+
+**98.** Question 8: Does one who has accepted his election as pontiff by the cardinals immediately become the true pontiff? Response: A distinction must be made between whether he was legitimately elected or not.
+
+*In the first case*, he immediately possesses full administration [of papal powers], conferred on him directly by God, as established in *canon "In nomine"* 1, verse *"electus tamen"* distinction 23, even if he has not yet been consecrated; for consecration only enables him to exercise those functions which pertain to [holy] orders. The reason for this response is that the pope does not require confirmation; for confirmation of an election must be done by a superior, but the pope has no superior on earth. His acceptance is necessary, however, so that the spiritual marriage which exists between himself and the church may be ratified. Furthermore, this spiritual marriage is finally consummated through consecration and coronation, before which he indeed calls himself bishop in papal bulls, yet not absolutely, but with the addition of the word *"elect"*; moreover, the time between both [consecration and coronation] and the election, he calls not simply *"of his apostolate"* but *"of the apostolic office assumed,"* as Laymann observes with the gloss in *chapter "Licet"* 6, number 7.
+
+*If it is the second case*, the election by the Cardinals, having been invalid, can confer no right upon the one elected. Hence, the acceptance of the universal Church must be awaited, which, if it should follow, will heal the defect of an invalid election made by the Cardinals, if only a condition required by human law is lacking, such that he becomes a true pontiff. I said *a condition required by human law*; for the Church cannot heal the defect of a condition required by divine law. Since indeed, according to the common opinion of theologians, it is credible by divine faith that any Supreme Pontiff, after he has been accepted as such by the universal Church, is the true Vicar of Christ and successor of Blessed Peter, there will be no danger that the Church would consent to a pontiff who has a defect in a condition required by divine law. But theologians treat this more extensively elsewhere.
+
+[...]
 
 ```json
 {
