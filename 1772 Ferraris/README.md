@@ -16,7 +16,11 @@
 
 ## "Papa" A. 2 n. 63–88
 
-EXCERPT TBD
+[...]
+
+**70.** Nor is it valid to object that it is not a matter of Faith that Benedict XIV was validly baptized and canonically elected, since this has not been revealed, and therefore it is not a matter of Faith that he is the true Pope. This objection, I say, is invalid, because although it has not been explicitly revealed, it is nevertheless implicitly revealed through the peaceful acceptance of the universal Church: for by the very fact that God reveals someone to be the legitimate Pope, He also implicitly reveals that this person possesses all the necessary requirements for the Papacy.
+
+[...]
 
 ```json
 {
