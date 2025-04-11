@@ -41,7 +41,6 @@ Then, because the arguments posed here recur: when it is said that this object i
 [...]
 
 **22.** First, one might doubt to whom the power of electing the Pope has been given. I respond firstly that this power was given by Christ to men, which is certain and is gathered from the usage and practice of the Church. This indeed was fitting, so that the Church, which is constituted of men, might also be governed in a human manner, insofar as possible. **It would not have been consonant with this natural character of the Church, nor indeed with the state of the law of grace, to always expect a sign from heaven discerning and identifying the individual whom God, according to His own disposition, would choose as the legitimate successor of Peter.**
-**
 
 [...]
 
