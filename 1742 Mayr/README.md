@@ -16,7 +16,9 @@
 
 ## Lib. 1, Tit. 6, S. 5
 
-EXCERPT TBD
+[...]
+
+**146.** Note, however, that although such an election conducted contrary to the form or conditions prescribed by human law is invalid by the law itself, **sometimes nevertheless, where the defect is hidden, it may be validated by the acceptance of the universal Church, according to the mind of the Most Eminent Palavicini on faith, chapter 7, number 104, Haunold, and other Theologians. By which reasoning, in past centuries, many elections of Pontiffs who were intruded either by force or through simony were healed by the subsequent acceptance of the universal Church, and those so elected became true and legitimate Successors of St. Peter.**
 
 ```json
 {
