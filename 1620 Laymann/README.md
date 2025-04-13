@@ -16,7 +16,11 @@
 
 ## Chapter XII
 
+[...]
+
 **CXXVI.** *If the election of a Supreme Pontiff might contain some defect or flaw, does it follow from this that it is uncertain whether the Church has a true Pontiff and Pastor?* Answer: By no means. For either the defect is manifest to the Church, or it is hidden. If the former, there can be no danger, because the Church will not accept such a Pontiff. **If, however, the latter—because we suppose, for example, that a secret heretic is elevated to the pontificate—although he is not truly the head of the Church, due to public ignorance, God (who does not fail in necessities) will supply the defect, and all his acts and decrees will be as valid and binding as if he were the true Pontiff; nor will God permit him to propose his heresy to the Church ex Cathedra.** Nevertheless, it is highly probable that divine providence prevents anyone who is a heretic or who labors under a similar substantial but hidden defect from ever being elected as Pontiff.
+
+[...]
 
 ```json
 {
