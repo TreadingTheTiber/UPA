@@ -16,7 +16,15 @@
 
 ## Disputatio V, Dubium Ultimum (Dub. IV), Sectio II
 
-EXCERPT TBD
+[...]
+
+The second reason for the distinction, which is assigned by our Ferre, lies in this: that a definition given by the Pope ex cathedra is a definition of the whole Church, whereas a definition of a Council, even an Ecumenical one, is not a definition of the whole Church before papal confirmation, but rather a definition of the body of the Church as distinguished from the head. And since the whole Church cannot err, according to the saying: "The gates of hell shall not prevail against it," when the Pope defines ex cathedra, we are bound to believe that he has done what is necessary on his part not to err. A Council, however, which is the body of the Church, can err without its head, just as it can also fail in obedience to the Supreme Pontiff; and therefore we are not bound to believe that it has done what is necessary on its part not to err before the confirmation of the Supreme Pontiff.
+
+**And if against this distinction of Master Ferre you should object: The acceptance by which the Church concordantly accepts a newly elected Pontiff, in the more probable opinion which we have followed, renders it a matter of faith that the man whom the Cardinals elected is the Supreme Pontiff; and yet this acceptance is made only by the body of the Church as distinct from the head, for the head himself cannot accept himself as Pope; therefore, the body of the Church as distinguished from the head can establish matters of faith.**
+
+I respond with Master Ferre himself by denying the minor premise. **For the acceptance of the Church, which makes it a matter of faith that the one elected is Pope, also includes the Pope himself. Indeed, it would not be a matter of faith that this man is Pope, and indeed he would not be Pope, unless the one elected accepts himself as Pope; for in accepting himself as Pope, he believes himself to be the true Pope, and thus proceeds to make definitions.**
+
+[...]
 
 ```json
 {
