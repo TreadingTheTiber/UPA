@@ -16,7 +16,11 @@
 
 ## Book 1, Title 6, Section 9
 
-EXCERPT TBD
+[...]
+
+**437.** It may be objected here that if the election of the Supreme Pontiff can be invalid due to some defect, either on the part of the electors or on the part of the elected, it follows that it is not certain whether the Church has a true Pontiff and Pastor. Laymann responds in the cited chapter "Licet," number 4, under this title, that such a defect is either manifest before the Church or not manifest but hidden. In the first case, the Church will not receive such a Pontiff, but will openly protest against his election and oppose it. In the latter case, if, for example, a hidden heretic is elected to the supreme Pontificate, he indeed will not truly be the Head of the Church; nevertheless, on account of public error or ignorance, with God supplying the defect, all acts performed by him will be valid and binding, just as if he were the true Pope, as argued in the Lex Barbarius 3 and what the Doctors teach there, in the Digest on the Office of Praetor. Nor will God permit him to publicly propose error or heresy to the Church from the Chair. Indeed, it is probable that Divine Providence will prevent anyone who is a heretic, or who has a similar substantial hidden defect, from ever being elected as Pope.
+
+[...]
 
 ```json
 {
