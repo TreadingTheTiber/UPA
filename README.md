@@ -5,6 +5,8 @@ This repository will contain documentation pertaining to the concept of the Univ
 **Key:** 
 - EN = English
 - LA = Latin
+- IT = Italian
+- FR = French
 - MD = Markdown Format (.md)
 - Word = Word Document Format (.docx).
 - PDF = PDF Format (.pdf)
