@@ -2,7 +2,7 @@
 
 **by Fr. Petrus Mariae Passerinus de Sextula (Fr. Peter Mary Passerinus), 1670**  
 
-[Online Location of Text Here](https://www.digitale)  
+[Online Location of Text Here](https://www.digitale-sammlungen.de/en/view/bsb10489092?page=166,167)  
 
 - *OCR of the original text by AI (claude-3-7-sonnet-20250219).*  
 
@@ -61,5 +61,5 @@
   "selection_pages": "158-168",
   "OCR_by": "claude-3-7-sonnet-20250219",
   "translation_by": "claude-3-7-sonnet-20250219",
-  "url": "https://www.digitale
+  "url": "[https://www.digitale](https://www.digitale-sammlungen.de/en/view/bsb10489092?page=166,167)"
 ```
