@@ -39,4 +39,4 @@ It is clear the decree of Constance could derive no force from Pope Martin's con
   "OCR_by": "claude-3-7-sonnet-20250219",
   "url": "https://archive.org/details/a622756500kavauoft/page/54/mode/2up"
 }
-``
+```
