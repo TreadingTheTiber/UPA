@@ -78,5 +78,3 @@ This repository will contain documentation pertaining to the concept of the Univ
 - 1891 Wilmers --> Guilelmo
 - Find Gravina excerpts
 - Find Melchior Cano exerpts
-- Banez --> Add his spanish name(s)
-- Ligouri --> update info to Italian
