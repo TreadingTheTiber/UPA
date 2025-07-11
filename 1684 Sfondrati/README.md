@@ -33,7 +33,7 @@ We respond: **If it cannot be established with certain faith that the Pope has b
   "title_original_short": "Regale Sacerdotium",
   "title_english_short": "Royal Priesthood",
   "excerpt_title": "Lib. III, Sec. IX, Num. 17-18",
-  "author": "Sfondrati Celestino (Pseudonym "Eugenio Lombardo")",
+  "author": "Sfondrati Celestino (Pseudonym Eugenio Lombardo)",
   "author_anglicized": "Celestine Sfondrati",
   "year_written": "1684",
   "year_published": "1684",
