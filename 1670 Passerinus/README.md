@@ -62,4 +62,5 @@
   "OCR_by": "claude-3-7-sonnet-20250219",
   "translation_by": "claude-3-7-sonnet-20250219",
   "url": "[https://www.digitale](https://www.digitale-sammlungen.de/en/view/bsb10489092?page=166,167)"
+}
 ```
