@@ -39,7 +39,7 @@
 ```json
 {
   "title_original_long": "Opera Omnia, Tomus Duodecimus Complectens Commentaria in Secundam Secundae Divi Thomae, Scilicet, Viginti Quatuor De Fide, Duas De Spe, Tredecim De Charitate Disputationes, Cum Indicibus Necessariis",
-  "title_english_long": "Complete Works, Volume Twelve Containing Commentaries on the Second Part of Thomas Aquinas' Second Part, Namely, Twenty-Four Disputations on Faith, Two on Hope, Thirteen on Charity, With Necessary Indexes",
+  "title_english_long": "Complete Works, Volume Twelve Containing Commentaries on the Second Part of Thomas Aquinas Second Part, Namely, Twenty-Four Disputations on Faith, Two on Hope, Thirteen on Charity, With Necessary Indexes",
   "title_original_short": "Opera Omnia, Tomus XII",
   "title_english_short": "Complete Works, Vol. XII",
   "excerpt_title": ["Tractatus Primus, Disputatio V, Sectio VIII; Tractatus Primus, Disputatio X, Sectio V]",
