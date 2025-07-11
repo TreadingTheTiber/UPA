@@ -2,7 +2,7 @@
 
 **by Fr. Francisco Marin-Sola, 1924**
 
-*No online location available*
+[Online Location of Text Here](https://isidore.co/calibre#book_id=10025&library_id=CalibreLibrary&panel=book_details)
 
 - *OCR of the original text by AI (claude-3-7-sonnet-20250219).*
 - *Translation of the original text performed by Antonio T. Piñón.*
@@ -67,6 +67,6 @@ Nonetheless, it has been defined, or it is definable as of divine faith and, hen
   "selection_pages": "485-490, 505-507, 616-617",
   "OCR_by": "claude-3-7-sonnet-20250219",
   "translation_by": "Antonio T. Piñón",
-  "url": "n/a"
+  "url": "https://isidore.co/calibre#book_id=10025&library_id=CalibreLibrary&panel=book_details"
 }
 ```
