@@ -1,6 +1,6 @@
 # Manuale Theologiae Dogmaticae (*Manual of Dogmatic Theology*)
 
-**by J. M. Hervé (J. M. Herve), 1950**
+**by J. M. Hervé (J. M. Herve), 1952**
 
 [Online Location of Text Here](https://archive.org/details/manualetheologid0000herv/page/500/mode/2up?view=theater)
 
