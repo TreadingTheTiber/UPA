@@ -2,7 +2,7 @@
 
 **by Giuseppe Siri (Joseph Siri), 1965**
 
-[Online Location of Text Here](https://isidore.co/calibre/#panel=book_details&book_id=10300)
+[Online Location of Text Here](https://archive.org/details/siri-la-chiesa)
 
 - *OCR of the original text by AI (claude-sonnet-4-5-20250929).*
 
@@ -61,6 +61,6 @@ These historical considerations give to the magisterium conceived by Christ a **
   "selection_pages": "64-66",
   "OCR_by": "claude-sonnet-4-5-20250929",
   "translation_by": "claude-sonnet-4-5-20250929",
-  "url": "https://isidore.co/calibre/#panel=book_details&book_id=10300"
+  "url": "https://archive.org/details/siri-la-chiesa"
 }
 ```
