@@ -1,0 +1,66 @@
+# Corso di Teologia Dogmatica per Laici, Volume 2: La Chiesa - La Rivelazione Trasmessa (*Course of Dogmatic Theology for Laity, Volume 2: The Church - The Transmitted Revelation*)
+
+**by Giuseppe Siri (Joseph Siri), 1943**
+
+[Online Location of Text Here](https://isidore.co/calibre/#panel=book_details&book_id=10300)
+
+- *OCR of the original text by AI (claude-sonnet-4-5-20250929).*
+
+- *Translation of the original text performed by AI (claude-sonnet-4-5-20250929).*
+
+- *Last Edit: November 20, 2025.*
+
+- *Version: 1.0*
+
+- *Selection pages: 70-73*
+
+## Part I, Chapter VI, Natura del Potere Magisteriale
+
+[...]
+
+### Object of infallible magisterium
+
+But what then did Jesus give to be transmitted unalterably to men? What is, in other terms, the object, the content of apostolic magisterium?
+
+Jesus has entrusted to the apostles everything that he himself has said. The apostolic catechesis will coincide with the evangelical. He insists on the identity of this doctrinal content. He says it to the Father in the final prayer: *"The words that you have given to me I have given to them"*[^239]. He repeats it to the apostles: *"The Holy Spirit... will remind you of all that I have said to you"*[^240]. It should be noted that here Jesus speaks precisely of the magisterial office. What must be announced to the entire world is the "Gospel," the good news[^241]; indeed, it is specified, it is the "Gospel of the kingdom"[^242], that is, the entire doctrine of the messianic kingdom. Moreover, the troubles that will come to the apostles will be precisely caused by the preaching of the Gospel[^243]. Whoever reads well the discourses of Jesus senses with surprising evidence that, for him, what he says is destined to become the patrimony of humanity. This identity of object between his ministry and the apostolic magisterium is contained in the more general affirmation by which Jesus has placed, as we have seen, the office of the twelve in his very same plan. On the mountain of Galilee he recapitulated his entire will thus: *"Teach all nations, instructing them to practice all that I have commanded you"*[^244].
+
+The object of preaching is, in this way, determined. We speak of the direct object: it is as extensive as the preaching of Jesus. Taking into account the nature of this, one can say that the direct object consists of all truths concerning faith and morals.
+
+But it is necessary to make precise and to extend. We say above all "extend." This, even if we consider Jesus from a purely human point of view, by a very simple principle. When one affirms a fact or a proposition, it must be held that he had present to his spirit those elements too obvious or too radiant that were necessarily connected with that fact or with this proposition. An intelligent person, when it concerns profound ideas and frequently cherished ones, never has compartmentalized visions, does not become desiccated in the skeleton, but necessarily embraces the contours.
+
+Now, the truths of faith and morals are connected in an immediate and evident form with other philosophical and juridical truths. For example, the concept of moral responsibility receives reflections from the concept of personality, personal unity, union of soul and body. Error in truths not strictly revealed, but connected with them, would bring about error in these latter. And it should be noted that such connection is not had only by truths of philosophical and juridical order, but also by the deductions made from revealed truths, through the application of rational principles (these are called *theological conclusions*). To admit a possibility of error of the ecclesiastical magisterium with regard to such conclusions would mean admitting the same possibility as to revealed principles, which is false according to the thought of Christ.
+
+But this is not sufficient; the same reasoning extends to other matters, because there are facts upon which the ecclesiastical magisterium can or must make affirmations. These resolve doctrinal elements; on one hand they constitute acts by which the Church fulfills its office of guiding to eternal life by indicating the means, on another hand they still concern certainties without which the Church itself would become ineffective. The facts which constitute the object of such affirmations are, for example, the legitimacy of a determined Pope, of an ecumenical council, the orthodoxy or lack thereof of a book, the canonization of saints.
+
+It is clear that if, in making such affirmations, the magisterium of the Church could err, it would deny itself precisely in its doctrinal function and that endowment of infallibility of which we have spoken would fail. That is: an error in consequent truths, in truths and connected facts, is irreconcilable with what Jesus clearly thought and established. No less irreconcilable would be doctrinal or moral errors in the laws with which the Church moderates and leads, in its free manifestations even of cloistered life, the great family of Christ.
+
+In conclusion: **the magisterium of the Church also has a secondary and indirect object. There is a halo around the nucleus. It is the logic of the nucleus that postulates the halo.** Jesus, who saw the nucleus clearly, did he also see the halo? If he demonstrated the divinity of his revelation, this is full guarantee and of such completeness that it is necessary that he knew in a perfect manner both the one and the other. Moreover, only a very distracted man — we repeat — could fail to notice that, for the concrete framing of the nucleus in a living society of men, the halo was necessary.
+
+These historical considerations give to the magisterium conceived by Christ a **complete, continuous, immutable character and at the same time flexible to the needs of men.** This magisterium, precisely because it enters into a universal conception and is an instrument of the idea and of truth, studied on a broader plane, will permit one to see Jesus Christ in the face of the general problem of truth. In due time.
+
+[...]
+
+```json
+{
+  "title_original_long": "Corso di Teologia Dogmatica per Laici, Volume 2: La Chiesa - La Rivelazione Trasmessa",
+  "title_english_long": "Course of Dogmatic Theology for Laity, Volume 2: The Church - The Transmitted Revelation",
+  "title_original_short": "La Chiesa",
+  "title_english_short": "The Church",
+  "excerpt_title": "Part I, Chapter VI, Natura del Potere Magisteriale",
+  "author": "Giuseppe Siri",
+  "author_anglicized": "Joseph Siri",
+  "year_written": "1943",
+  "year_published": "1943",
+  "volume": "2",
+  "edition": "1",
+  "editors": "n/a",
+  "publication_place": "Roma",
+  "chicago_citation": "Siri, Giuseppe. Corso di Teologia Dogmatica per Laici, Vol. 2: La Chiesa - La Rivelazione Trasmessa. Roma: Editrice Studium, n.d.",
+  "last_edit": "November 20, 2025",
+  "version": "1.0",
+  "selection_pages": "70-73",
+  "OCR_by": "claude-sonnet-4-5-20250929",
+  "translation_by": "claude-sonnet-4-5-20250929",
+  "url": "https://isidore.co/calibre/#panel=book_details&book_id=10300"
+}
+```
