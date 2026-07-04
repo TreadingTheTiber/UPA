@@ -14,6 +14,9 @@
 
 - *Selection pages: 127–147*
 
+*Editorial note: this text — including the col. 142 passage ("solum habetur ex humana prudentia... cui potest subesse falsum speculative") quoted by the later citation tradition — must be read with Báñez's own public clarification of 1602 (see the 1602 Báñez entry in this repository): at Valladolid, 2 July 1602, he explained that the col. 142 passage was a tentative solution to a conditional hypothesis (an unbaptized pope), expressly flagged as needing explanation and not his resolution; that his resolution is col. 143 § nihilominus (after the Church's acceptance, denial is punishable as heresy); that infused faith produces the assent "Clemens VIII est summus Pontifex" per se secundo; and that no falsehood, practical or speculative, can underlie what is de fide per se secundo.*
+
+
 ## Quaestio I, Art. X
 
 [...]
