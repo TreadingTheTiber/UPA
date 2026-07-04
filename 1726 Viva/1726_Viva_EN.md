@@ -2,7 +2,7 @@
 
 *Is it a matter of Faith that Clement XI is the true Vicar of Christ?*
 
-I. FROM what has been said follows the resolution of this most celebrated question. Namely, whether this truth—that Clement XI is the true Pope and successor of Peter—is a material object of faith? This is commonly affirmed by Amicus [Franciscus Amicus] in disputation 3, section 5, against Cajetan [Thomas de Vio Cajetan] in his commentary on the Summa Theologica II-II, question 1, article 3, and also by Báñez [Domingo Báñez], Cano [Melchor Cano], and Córdoba [Antonio de Córdoba].
+I. FROM what has been said follows the resolution of this most celebrated question. Namely, whether this truth—that Clement XI is the true Pope and successor of Peter—is a material object of faith? This is commonly affirmed — the defenders being cited in Amicus [Franciscus Amicus], disputation 3, section 5 — against Cajetan [Thomas de Vio Cajetan] in his commentary on the Summa Theologica II-II, question 1, article 3, Báñez [Domingo Báñez], Cano [Melchor Cano], and Córdoba [Antonio de Córdoba].
 
 It must therefore be said that it is a material object of Faith that Clement XI is the true Vicar of Christ our Lord.
 
