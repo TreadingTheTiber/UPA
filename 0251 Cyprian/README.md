@@ -1,0 +1,60 @@
+# Epistula LV ad Antonianum, de Cornelio et Novatiano (*Letter 55 to Antonianus, on Cornelius and Novatian*)
+
+**by St. Cyprian of Carthage († 258), written A.D. 251/252**
+
+[Online Location of Text Here](https://archive.org/details/CorpusScriptoruEcclesiasticorumLatinorum3.2Cyprian)
+
+- *Latin text: W. Hartel's critical edition, CSEL III.2 (Vienna, 1871), pp. 629–630 and 642–643, transcribed from the page images; Hartel's orthography (adque, conpellit, quisque for quisquis) retained. In the older numbering of the Ante-Nicene Fathers translation this letter is Ep. 51.*
+
+- *Translation of the original text performed by AI (claude-fable-5).*
+
+- *Last Edit: July 5, 2026.*
+
+- *Version: 1.0*
+
+- *Selection pages: CSEL III.2, pp. 629-630 (cc. 8-9) and 642-643 (c. 24)*
+
+*Note on this selection: the earliest text in this repository, and the fountainhead of the whole tradition it documents. Written a year after the first contested election of the Roman see in the age of persecution (Cornelius elected March 251; Novatian ordained by a rival faction weeks later), the letter answers a wavering bishop — Antonianus, pulled toward Novatian by letters, like the recipients of every later entry down to 1602 and beyond. Cyprian's resolution (c. 8) rests the certainty of Cornelius's title on a fourfold public constitution — the judgment of God, the testimony of almost all the clergy, the suffrage of the people present, the college of venerable bishops — crowned by the worldwide concord of the episcopate: "the whole number of bishops through the whole world consented with concordant unanimity." Once the place of Peter is "occupied, and confirmed by the will of God and the consent of all of us," any subsequent claimant is by that fact outside: "since after the first there cannot be a second, whoever is made after the one who ought to be alone is now not second, but null" — the axiom St. Bernard restates almost verbatim nine centuries later against Anacletus (see the 1132 Bernard entry, Ep. 126 §8: "after a first election there is not a second"), and the root of the canonical rule every later theologian of acceptance presupposes. Chapter 24 then draws the ecclesiology: the self-made claimant, "succeeding to nobody" but ordained against bishops established "through all the provinces and through every city," is no bishop but a pseudo-bishop, "as though he could traverse the whole world with the obstinacy of his new endeavor" — the paucitas-versus-orbis argument of Bernard and the securus judicat of Augustine in embryo. A caution for the reader: Cyprian argues from the public facts of election and communion, not from a formulated doctrine of infallible acceptance; what the later tradition adds is the theological account of why the consent of the whole Church cannot fasten on a false head. But every structural element of that account — the notoriety of the fact, the concord of the worldwide episcopate as its seal, the nullity (not mere illegitimacy) of the rival, and the impossibility of a second head after the first — is already here, in the generation after the apostles' disciples.*
+
+## Chapter 8 — Cornelius's election and its confirmation (CSEL p. 629–630)
+
+I come now, dearest brother, to the person of Cornelius our colleague, that you may know Cornelius more truly with us — not from the lies of the malicious and the detractors, but from the judgment of God, who made him bishop, and from the testimony of his fellow bishops, whose whole number through the whole world has consented with concordant unanimity. For — a thing which commends our dearest Cornelius to God and to Christ and to His Church, and likewise to all his fellow priests, with praiseworthy proclamation — he did not arrive at the episcopate suddenly, but, promoted through all the ecclesiastical offices, and having often deserved well of the Lord in the divine administrations, he ascended to the lofty summit of the priesthood through all the steps of religious service. Then further, he neither asked for the episcopate itself nor wished it, nor did he seize it as others do whom the swelling of their own arrogance and pride inflates; but quiet otherwise, and modest, and such as those are wont to be who are divinely chosen for this place, in keeping with the modesty of his virginal continence and the humility of his inborn and well-guarded reverence, he did not, as some do, use force to become bishop, but himself suffered force, so that he received the episcopate under compulsion.
+
+And he was made bishop by very many of our colleagues who were then present in the city of Rome, who sent to us letters concerning his ordination, honorable and laudatory and distinguished by the testimony of their proclamation. And Cornelius was made bishop by the judgment of God and of His Christ, by the testimony of almost all the clergy, by the suffrage of the people who were then present, and by the college of venerable priests and good men — when no one had been made before him, when the place of Fabian, that is, the place of Peter and the rank of the sacerdotal chair, stood vacant. And this place being occupied, and confirmed by the will of God and the consent of all of us, whoever now wishes to be made bishop must necessarily be made outside; nor does he have ecclesiastical ordination who does not hold the unity of the Church. Whoever he may be — though boasting much about himself and claiming very much for himself — he is profane, he is alien, he is outside. And since after the first there cannot be a second, whoever is made after the one who ought to be alone is now not second, but null.
+
+## Chapter 9 — Cornelius fearless in the chair of Rome (CSEL p. 630)
+
+Then further, after an episcopate neither canvassed for nor extorted, but received from the will of God who makes priests — what virtue there was in his very acceptance of his episcopate, what strength of soul, what firmness of faith! — a thing we ought with simple heart both to perceive thoroughly and to praise: that he sat fearless at Rome in the sacerdotal chair at that time when a tyrant, hostile to the priests of God, was uttering threats speakable and unspeakable — when he would hear with far more patience and tolerance that a rival prince was being raised up against himself, than that a priest of God was established at Rome. [...]
+
+## Chapter 24 — Novatian, self-made against the world's episcopate, is no bishop (CSEL pp. 642–643)
+
+But as to what concerns the person of Novatian, dearest brother — about whom you desired that it be written to you what heresy he had introduced — know that in the first place we ought not even to be curious as to what he teaches, since he teaches outside. Whoever he is and of whatever sort he is, he is not a Christian who is not in the Church of Christ. Though he boast of himself and proclaim his philosophy and his eloquence with proud words, he who has kept neither brotherly charity nor ecclesiastical unity has lost even what he formerly was. Unless he seems to you a bishop who — when a bishop had been made in the Church by sixteen fellow bishops — strives by intrigue to be made an adulterous and alien bishop at the hands of deserters; and although there is from Christ one Church, divided through the whole world into many members, and likewise one episcopate, spread abroad in the concordant multiplicity of many bishops, he, after God's tradition, after the bound-together and everywhere-conjoined unity of the catholic Church, attempts to make a human church, and sends his new apostles through very many cities, to lay some fresh foundations of an institution of his own; and although through all the provinces and through every single city bishops have long since been ordained — ancient in age, sound in faith, proved in trial, proscribed in persecution — he dares to create over them other pseudo-bishops: as though he could either traverse the whole world with the obstinacy of his new endeavor, or tear apart the fabric of the ecclesiastical body by the sowing of his discord — not knowing that schismatics always seethe at the beginning, but cannot have growth, nor increase what they have unlawfully begun, but fail at once together with their own perverse rivalry.
+
+But he could not hold the episcopate even if he had first been made bishop and afterwards seceded from the body of his fellow bishops and from the unity of the Church; since the Apostle admonishes us to bear with one another, lest we withdraw from the unity which God has established, and says: "Bearing with one another in love, taking care to preserve the unity of the spirit in the bond of peace." He therefore who observes neither the unity of the spirit nor the bond of peace, and separates himself from the tie of the Church and from the college of priests, can have neither the power of a bishop nor his honor, since he has willed to keep neither the unity of the episcopate nor its peace.
+
+```json
+{
+  "title_original_long": "Epistula LV ad Antonianum, de Cornelio et Novatiano",
+  "title_english_long": "Letter 55 to Antonianus, on Cornelius and Novatian",
+  "title_original_short": "Epistula 55",
+  "title_english_short": "Letter 55",
+  "excerpt_title": "cc. 8-9 (Cornelius's election and confirmation) and c. 24 (Novatian no bishop)",
+  "author": "Cyprianus Carthaginensis",
+  "author_anglicized": "St. Cyprian of Carthage",
+  "year_written": "A.D. 251/252",
+  "year_published": "CSEL III.2 (Vienna, 1871), ed. W. Hartel",
+  "volume": "CSEL III.2",
+  "edition": "Hartel critical edition",
+  "editors": [
+    "Wilhelm Hartel"
+  ],
+  "publication_place": "Vindobonae",
+  "chicago_citation": "Cyprian of Carthage. Epistula 55 (ad Antonianum). In S. Thasci Caecili Cypriani opera omnia, ed. W. Hartel, CSEL III.2, 624-666. Vienna, 1871.",
+  "last_edit": "July 5, 2026",
+  "version": "1.0",
+  "selection_pages": "CSEL III.2, pp. 629-630, 642-643",
+  "OCR_by": "claude-fable-5 (from the CSEL page images)",
+  "translation_by": "claude-fable-5",
+  "url": "https://archive.org/details/CorpusScriptoruEcclesiasticorumLatinorum3.2Cyprian"
+}
+```
