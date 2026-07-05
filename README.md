@@ -13,7 +13,7 @@ This repository will contain documentation pertaining to the concept of the Univ
 
 ## Taxonomy: the three schools of Universal Peaceful Acceptance
 
-**UPA *simpliciter*** (the genus): the universal, peaceful acceptance of a claimant by the whole Church has **divinely guaranteed effects**. Every source in this repository affirms the genus. The schools divide over *where the guarantee terminates*:
+**UPA *simpliciter*** (the genus): the universal, peaceful acceptance of a claimant by the whole Church has **divinely guaranteed effects — at minimum: (i) the validity and bindingness of his acts and decrees** (jurisdiction supplied, if need be, by God directly — Laymann: "all his acts and decrees will be as valid and binding as if he were the true Pontiff"); **(ii) the veracity and safety of his teaching** — he cannot bind the universal Church to error (Laymann: "nor will God permit him to propose his heresy to the Church ex Cathedra"; Bellarmine/Muratori: Christ "does not fail His Church in necessary matters"); **and (iii) the obligation, under grave sin, of obedience and communion** (Muratori). School 1 adds the fact itself; School 2 stops at these effects; **no school in the tradition stops short of them**. Every source in this repository affirms the genus. The schools divide over *where the guarantee terminates*:
 
 ### School 1 — *UPA stricte*: the fact-guarantee
 
@@ -31,6 +31,8 @@ The fact remains contingently fallible (moral certainty only; the Paul IV discov
 ### School 3 — acceptance-nullism: the empty school
 
 The acceptance neither certifies nor protects: the whole Church could adhere to a non-pope *and be harmed by it*. This is what strict sedevacantism requires — and **it has no witness in this repository, nor in the four centuries of the disputed question the repository documents**. Even the strongest critics of the fact-guarantee (Muratori) prosecute the school-3 move — using "it is not *de fide* that this is the true pope" as a warrant for disobedience — as criminal temerity "preluding schism."
+
+**The sedeprivationist variant is School 3 in substance.** The Cassiciacum thesis concedes to the acceptance only a guarantee of *material designation* — that the man accepted is the designated subject who *would* be pope were an obstacle removed — while denying the formal effects: his acts invalid, his magisterium without authority, obedience refusable or forbidden. No theologian in this repository, and none in the tradition it samples, construes the guarantee this way. A "guarantee" that leaves the Church bound to a bare designation while unprotected in doctrine, jurisdiction, and obedience guarantees precisely nothing that any school guaranteed: the School-2 *minimum* — acts "valid and binding **as if he were the true Pontiff**" (Laymann), no error imposable on the universal Church (Bellarmine, Muratori), the title itself certified de fide the moment the man defines (Gregory of Valencia) — is the direct contradictory of a *materialiter-sine-forma* papacy. Relabeling the void does not move the position out of School 3; the census stands: **a designation-only guarantee appears nowhere in the tradition.**
 
 ### The classifier test
 
