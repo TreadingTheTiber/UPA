@@ -37,7 +37,7 @@ SourcesSCHILL, Die Constitution Unigenitus (Freiburg im Br., 1876); LAFITEAU, Hi
   "title_original_short": "Unigenitus",
   "title_english_short": "Unigenitus",
   "excerpt_title": "Complete CE article (control case for the acceptance-condition)",
-  "author": "Catholic Encyclopedia (vol. XV, 1912)",
+  "author": "Michael Ott",
   "author_anglicized": "Catholic Encyclopedia",
   "year_written": "constitution 1713; article 1912",
   "year_published": "1912",
