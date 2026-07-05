@@ -1,0 +1,31 @@
+# Le cri de la vérité, ou Lettre aux prêtres dissidens — Vingt-troisième mensonge (*The Cry of Truth, or Letter to the Dissident Priests — The Twenty-Third Lie*)
+
+**by M. Normand, Doctor of Theology, honorary canon of the metropolitan church of Tours, curé of Saint-François de Paule; Tours: Letourmy, December 1818**
+
+[Online Location of Text Here](https://books.google.com/books?q=%22Le+cri+de+la+v%C3%A9rit%C3%A9+contre+les+vingt-sept+insignes+fausset%C3%A9s%22)
+
+- *French text from the Google Books scan of the 1818 Tours edition, pp. 50–55; OCR corrected against the page images. Old spellings (dissidens, enfans) retained.*
+
+- *Last Edit: July 5, 2026.*
+
+- *Version: 1.0*
+
+- *Selection pages: 50-55 (Vingt-troisième mensonge)*
+
+## Vingt-troisième mensonge (pp. 50–55)
+
+VINGT-TROISIÈME MENSONGE. — « Si je suis apostat, c'est donc Jésus-Christ qui nous trompe : puis-je être apostat en suivant l'Église universelle ? » (MÉRIEL, pag. 25.)
+
+Il faut, écrivains dissidens, que le mensonge soit devenu votre idole chérie, pour que vous osiez y recourir avec une confiance aussi présomptueuse : vous suivez l'Église universelle ! mais l'Église veut-elle qu'on dénonce le Pape Pie VII pour avoir violé les règles saintes ? (BLANCHARD.) Et en cas que le sieur Blanchard en vienne à cette folie, veut-elle qu'on tienne le Pape pour jugé, avant l'issue qu'aurait la dénonciation ? Répondez.
+
+L'Église universelle traite-t-elle Pie VII d'un faux Pape ? (GACHET.) Répondez. — L'Église universelle regarde-t-elle le Pape Pie VII comme déchu de l'honneur du Sacerdoce, de toutes les prérogatives attachées au souverain Pontificat, de toute jurisdiction ecclésiastique, et de tout droit à l'obéissance des fidèles ? (GACHET.) Répondez. — L'Église universelle regarde-t-elle le Pape Pie VII comme aussi étranger à l'Église que le païen et le publicain ? (GACHET.) Répondez. — L'Église universelle regarde-t-elle le nom du Pape Pie VII comme un blasphème ? (GACHET.) Répondez. — L'Église universelle traite-t-elle le Pape Pie VII comme un hérétique concordatiste ? (MÉRIEL.) Répondez. — L'Église universelle connaît-elle des hérétiques concordatistes, le Concordat n'ayant point été condamné ? Répondez. — L'Église universelle a-t-elle abjuré le décret du saint Concile de Trente, qui anathématise ceux qui osent dire que les Évêques institués par le souverain Pontife ne sont pas des légitimes Évêques ? Répondez. — L'Église universelle a-t-elle abjuré les décrets des Conciles de Florence et de Bâle sur la pleine puissance du Pape ? Répondez. — L'Église universelle a-t-elle abjuré les règles saintes qui défendent aux particuliers de se faire juges des controverses ? Répondez.
+
+Quoi ! vous suivez l'Église universelle, et il n'est pas d'absurdité qui vous effraie ni vous déconcerte, quand elle doit vous servir d'appui ! Par exemple, vous faites retentir le cri de la victoire à chaque fois que vous citez saint Jean, qui ordonne de fuir les hérétiques ; eh bien ! vous prouvez par là combien vous êtes étrangers à la saine Théologie et au Droit canon : qui ne sait pas que l'esprit saint commande la fuite des hérétiques ? Nous en convenons avec vous ; mais le mode de la fuite, mais la rupture publique de Communion d'avec les hérétiques doivent être réglés, non par l'Écriture, mais par l'Église, qui en est l'interprète.
+
+L'Église universelle se dirige, dans cette matière, par les décrets des Papes et par les décrets des Conciles, parce que c'est à l'autorité de l'Église qu'appartient l'interprétation des Livres saints, et non aux individus ; autrement, il y aurait autant d'hérésies que de personnes : la plupart des hérésies ont pris leur source dans la liberté que se sont donnée les novateurs d'interpréter les Livres saints. [...] Dans combien d'erreurs tomberions-nous, si nous nous faisions, comme vous, et les juges des controverses, et les interprètes des saintes Écritures ? Est-ce là la marche reconnue par l'Église ? Répondez. Et vous suivez l'Église universelle ! Non, Prêtres dissidens, vous ne la suivez pas : bien loin de là ! vous avez rompu tous les liens de l'unité, et fait disparaître toute ombre de catholicité.
+
+On appelle schismatique, dit saint Thomas, ceux qui ne veulent pas se soumettre au souverain Pontife, ou communiquer avec les membres qui lui sont soumis ; c'est l'autorité vénérable que Mgr le grand-aumônier de France, et Mgr l'Évêque de Londres, vicaire apostolique, viennent de rappeler aux dissidens de Londres. Les Journaux publient en ce moment le bref de S. S., du 16 septembre 1818, où le très-saint Père munit du sceau de son autorité l'ordonnance de ce digne Prélat au sujet des dissidens de Londres : mais que fera sur vos esprits le jugement du Vicaire de Jésus-Christ contre lequel vous vous êtes déchaînés avec tant de fureur ?
+
+Vous ne manquerez pas de vous prévaloir encore de l'Église universelle contre ce bref : l'Église universelle est-elle formée de quelques cantons du Rochelais, du Poitou, du Maine ? Est-ce là l'Église universelle ? Prenez en main tous vos multiplians, ou sonnez de la trompette dans tout l'univers, faites recrue de tous les bénévoles qui voudront vous appartenir ; réunissez tous vos troupeaux épars, vous ne remplirez pas la petite île que l'insensé Lucifer voulait être l'Église catholique : « Si l'Église, qui est l'héritage des Nations, est réduite à votre île, lui écrivait S. Jérôme, que Jésus-Christ est donc pauvre ! »
+
+Voilà cependant, Prêtres dissidens, selon vous, toute l'Église catholique de la terre ! voilà tout ce que le Dieu tout-puissant a promis à Abraham pour héritage ! Que vous êtes donc d'incorrigibles rêveurs ! Ah ! du moins ne nous faites plus parade de vos prétendus caractères d'unité, de sainteté, de catholicité, et regardez comme un songe non moins absurde de vous croire des apostoliques. Par quelle porte êtes-vous entré dans votre ministère ? par celle de Jésus-Christ ou par celle des Coré, des Dathan, des Abiron ? Je ne vois à la tête de vos petites églises que des prêtres interdits : et vous vous dites apostoliques, tandis que vous n'obéissez même pas aux Évêques que l'autorité apostolique vous a donnés ! Nous ne les reconnaissons pas, dites-vous ; mais en cela vous êtes schismatiques, frappés d'anathème par le saint Concile de Trente. Répondez donc : Qui vous a envoyé dans le bercail ? [...]
