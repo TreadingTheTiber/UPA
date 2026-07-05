@@ -4,6 +4,9 @@
 
 Source: **David Torrijos-Castrillejo, "Un manuscrito inédito de Domingo Báñez: Respuesta del P. Báñez a un informe de los PP. Jesuitas acerca de las 'tesis de Alcalá' (si es de fe o no que este hombre sea el Romano Pontífice)," *Revista Española de Teología* 79 (2019) 93–126.**
 
+
+- *Open access: [article PDF](https://repositorio.sandamaso.es/bitstream/123456789/2307/1/04%20TORRIJOS.pdf) — [item page](https://repositorio.sandamaso.es/handle/123456789/2307) (Repositorio institucional San Dámaso). Related open-access studies by the same editor: ["Manuscritos inéditos de D. Báñez sobre las tesis de Alcalá (1602)"](https://repositorio.sandamaso.es/handle/123456789/1675) — the edition of the printed Valladolid conclusions (Assertio 3ª) and the September 1602 letters — and ["Báñez y las tesis de Alcalá: nuevos documentos"](https://repositorio.sandamaso.es/handle/123456789/1641).*
+
 - *This file gives the pivotal passages only, quoted (with the editor's italicization of Báñez's Latin) from the Torrijos-Castrillejo edition, to which the reader is referred for the complete text with introduction and apparatus. The full English translation of the Respuesta is in the companion file.*
 
 - *Last Edit: July 3, 2026.*
