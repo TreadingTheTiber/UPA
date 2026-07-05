@@ -44,6 +44,9 @@ The response to the objection is to deny the minor premise, because as we said i
 
 [...]
 
+
+*Anti-truncation note (2026): sedeprivationist polemic (Dutertre 2022) quotes n. 26 of this entry — "it is not of faith that it is of faith" — as though it licensed good-faith denial of the reigning pope's legitimacy. Read the sequence: n. 26 is the Salmanticenses' general epistemology of notes, and its authors proceed, eight numbers later (n. 33), to conclude that "Innocent XI is the Supreme Pontiff" pertains IMMEDIATELY to faith, listing Suárez, John of St. Thomas, Gonet, Labat, Ferre, Dominic of the Most Holy Trinity, Valencia, Lugo, Pedro Hurtado, and Ripalda in support. Quoting n. 26 against n. 33 quotes the authors against themselves: the concession about second-order notes lives on the same pages as the first-order thesis it allegedly undermines.*
+
 ```json
 {
   "title_original_long": "Cursus Theologicus, Tomus XI, Tractatus XVII, De Fide",
