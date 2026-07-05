@@ -2,7 +2,10 @@
 
 **by Domingo Báñez, O.P. (1528–1604), written 1602; first published 2019**
 
-Source: the previously unedited Báñez manuscript published by **David Torrijos-Castrillejo, "Un manuscrito inédito de Domingo Báñez: Respuesta del P. Báñez a un informe de los PP. Jesuitas acerca de las 'tesis de Alcalá' (si es de fe o no que este hombre sea el Romano Pontífice)," *Revista Española de Teología* 79 (2019) 93–126** (edition based on the 20th-century typescript in the Dominican archive of Ávila, supplemented from V. Beltrán de Heredia, *La Ciencia Tomista* 28 [1923]).
+Source: the previously unedited Báñez manuscript published by **David Torrijos-Castrillejo, "Un manuscrito inédito de Domingo Báñez: Respuesta del P. Báñez a un informe de los PP. Jesuitas acerca de las 'tesis de Alcalá' (si es de fe o no que este hombre sea el Romano Pontífice)," [*Revista Española de Teología* 79 (2019) 93–126](https://repositorio.sandamaso.es/handle/123456789/2307)** (edition based on the 20th-century typescript in the Dominican archive of Ávila, supplemented from V. Beltrán de Heredia, *La Ciencia Tomista* 28 [1923]).
+
+
+- *Open access: [article PDF](https://repositorio.sandamaso.es/bitstream/123456789/2307/1/04%20TORRIJOS.pdf) — [item page](https://repositorio.sandamaso.es/handle/123456789/2307) (Repositorio institucional San Dámaso). Related open-access studies by the same editor: ["Manuscritos inéditos de D. Báñez sobre las tesis de Alcalá (1602)"](https://repositorio.sandamaso.es/handle/123456789/1675) — the edition of the printed Valladolid conclusions (Assertio 3ª) and the September 1602 letters — and ["Báñez y las tesis de Alcalá: nuevos documentos"](https://repositorio.sandamaso.es/handle/123456789/1641).*
 
 - *English translation prepared from the Torrijos-Castrillejo edition (AI-assisted); Báñez's Latin quotations retained with glosses.*
 
