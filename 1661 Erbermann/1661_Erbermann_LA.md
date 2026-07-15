@@ -1,0 +1,37 @@
+# Nervi sine mole (Bellarminus Vindicatus) — Acceptance as ultima dispositio and the de fide divina conclusion (*Excerpta*)
+
+**by Veit (Vitus) Erbermann, S.J. (1597–1675); Würzburg, 1661; reprinted as the Vindiciae in the Vivès Opera omnia Bellarmini, vol. VII**
+
+[Online Location of Text Here](https://archive.org/search?query=Erbermann+Bellarminus)
+
+- *Pivotal passages, print-verified against both editions in the owner's bellarmine-defenses corpus (July 2026): the 1661 original (Tomus II, Liber I "De Conciliis," cap. 5 §.2 — the Vivès reprint's "Ad Caput IX" renumbering is the editors', not Erbermann's) and the Vivès reprint (vol. VII). Loci: Vivès pp. 317, 325, 291, 370–371 = 1661 Tom. I pp. 313, 358, 389, 436; Tom. II pp. 43–45.*
+
+- *Last Edit: July 15, 2026.*
+
+- *Version: 1.0*
+
+- *Selection: the acceptance-syllogism (Ad Caput IX, vs. Ames); the pacifice-acceptantur reply to Conring; the three conditions; the Alexander VII text*
+
+*Note on this selection: the earliest near-verbatim statement of universal peaceful acceptance as the criterion of papal legitimacy so far documented in this repository — 1661, a full generation before the classic manualist formulations — and stated in direct answer to a proto-sedevacantist objection. Erbermann, defending Bellarmine against the Calvinist William Ames and the syncretist Hermann Conring, does four things. (1) Against Ames's objection that "it is not certain de fide that this or that council was legitimate," he builds the acceptance-syllogism: the whole Church, pillar and ground of the truth, cannot err in matters pertaining to the common religion of the whole Church; but the judgment by which the Church accepted both Pius IV and the council of Trent confirmed by him so pertains; therefore "de fide divina est, illud fuisse legitimum" — upgrading Bellarmine's own De Conciliis II.9 (which gave posterity only fides humana certissima) to divine faith, and expressly bracketing the per-se-primo/secundo machinery ("no need here to dispute more laboriously whether one premise of faith and another naturally or morally evident yield a conclusion of faith or a theological one"): the conclusion rides on the Church's own inerrant acceptance-judgment, not on syllogistic inference. (2) He states the pope/council equivalence in five words: "est enim par ratio hujus numero concilii et hujus Papae." (3) Against Conring's objection — the very objection of modern sedevacantism: "how do we know God does not sometimes permit the multitude to adore as Pontiff one who is not the legitimate Pontiff?" — he answers with the acceptance-criterion in nearly Billot's vocabulary: all are legitimate successors of Peter who, however elected, are peacefully accepted without any contradiction, "whom, whether legitimately or faultily elected, the Church accepts without controversy," acceptance operating as the ultima dispositio on which Christ willed the conferral of full and infallible power to depend — justified teleologically: "lest all things waver, and we lack a living infallible rule of faith, thus plainly it had to be." (4) He names the reigning pope: "the pontificate of Alexander VII arises immediately from the election of the Cardinals and the acceptance of the Church... though this were perhaps not of divine law, it is nevertheless of divine Faith." Classification: School 1a, cause-version (ultima dispositio). Under this repository's taxonomy Erbermann also supplies the bridge between Bellarmine's De Conciliis II.9/II.19 (see the 1588 entry) and the eighteenth-century formulations of Pallavicino, Kirsch, and Billot.*
+
+## Ad Caput IX (vs. Ames) — the acceptance-syllogism (1661 Tom. II, lib. I, cap. 5, §.2, pp. 43–45 = Vivès VII, pp. 370–371)
+
+[Objectio Amesii:] Non est certum de fide, hoc aut illud concilium legitimum fuisse, et legitime haec vel illa decrevisse. Ergo conciliorum decreta firmam, infallibilem, ac divinam fidem facere non possunt.
+
+[Responsio:] Est enim par ratio hujus numero concilii et hujus Papae. [...] Tota Ecclesia (utpote columna et firmamentum veritatis) non potest errare in rebus ad communem totius Ecclesiae religionem pertinentibus: atqui judicium quo Ecclesia acceptavit et Pium IV. et ab eodem confirmatum concilium Tridentinum [eo pertinet]: Ergo in hoc judicio non potest errare Ecclesia; et consequenter de fide divina est, illud fuisse legitimum.
+
+Unde non opus est hic operosius disputare, an propositio una de fide, altera naturaliter aut moraliter evidens, inferant conclusionem de fide, vel Theologicam. Videantur hac de re Scholastici in prooem. 1. part. et in 2.2.
+
+[Ad objectionem I, ubi resideat Spiritus:] Residet infallibiliter in eo, cui Christus id promisit, videlicet in S. Petri haerede, eique adhaerentibus.
+
+## The pacifice-acceptantur reply to Conring's proto-sedevacantist objection (Vivès VII, p. 317 = 1661 Tom. I)
+
+[Objectio Conringii:] Unde novimus ejusdem permissu non fieri interdum, ut multitudo illum adoret ceu Pontificem, qui Pontifex legitimus non est?
+
+[Responsio:] [Omnes legitimi Petri successores censendi sunt] qui quovis demum modo electi pacifice acceptantur et coluntur ut tales a maxima parte fidelium sine ulla contradictione [...] quos sive legitime, sive vitiose electos sine controversia acceptat Ecclesia; cum ab hac acceptatione tamquam ab ultima dispositione censeretur Christus velle pendere [...] potestatem [...] plenissimam et infallibilem a se immediate conferendam. Et hoc [...] merito asserimus nos de facto contingere; et ne omnia nutarent, et non haberemus regulam vivam infallibilem fidei, sic plane debuit fieri.
+
+## The three conditions, and the pontificate of Alexander VII (1661 Tom. I, pp. 389, 358 = Vivès VII, pp. 325, 291)
+
+[Tres conditiones regulae fidei infallibilis:] cum et ipse sit canonice electus, acceptatusque ab Ecclesia, et controversia aliqua agitetur de fide, et Papa ex cathedra pronuntiet.
+
+[De Alexandro VII:] Pontificatus Alexandri VII immediate oritur ex electione Cardinalium et acceptatione Ecclesiae [...] licet hoc forte non esset juris divini, est tamen de Fide divina.
