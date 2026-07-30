@@ -8,13 +8,15 @@
 
 - *Translation of the original text performed by AI (claude-fable-5).*
 
-- *Last Edit: 2026-07-29.*
+- *Last Edit: 2026-07-30.*
 
-- *Version: 1.0*
+- *Version: 1.1*
 
-- *Selection pages: 256-259, 267-269 (editio altera, Cologne 1733; first edition Fribourg 1676)*
+- *Selection pages: 254-269 — the complete Controversia XXVIII (editio altera, Cologne 1733; first edition Fribourg 1676)*
 
 ## Controversia XXVIII: De Electione Summi Pontificis (On the Election of the Supreme Pontiff)
+
+*The entire controversy (intro + §§ I-XLV) is transcribed and translated in this entry's files: the five Catholic doctrinae on election, conferral of power, the de fide status of the reigning pope, and loss of office (§§ I-XXII), and the refutation of the two sectarian errors — against the succession as such (§§ XXIII-XXXVIII) and against the legitimacy of the reigning pope, Innocent XI (§§ XXXIX-XLV). Key acceptance-passages:*
 
 [...]
 
@@ -32,9 +34,17 @@ XVI. [...] Response: the aforesaid Laws neither have, nor can have, place, nor o
 
 [...]
 
+XX. [...] the Church then stands only as the declarer of the crime; but it is Christ who immediately takes the jurisdiction from that Pontiff — just as, conversely, we said above regarding the Election, that **the Church stands as the designator of the person, but Christ as the giver of the jurisdiction.** [...] And certainly, **if a Pope fell from his dignity immediately upon heresy, grave inconveniences would follow in the Church; for we could always doubt whether he were not an occult Heretic** [...]
+
+XXXVII. Of the Pontiffs intruded, or entered by Simony, some were driven off; **others however were subsequently retained by the consent of the Clergy, and afterwards elected as legitimate Pontiffs with the customary rites, and accepted by the Church; because it seemed preferable that they be tolerated and retained than that the Church be torn asunder by a sorrowful schism** [...]
+
+[...]
+
 XLII. [...] **When at once and manifestly the validity of an election is established through common acceptance, however much some may afterwards protest, not even all the Electors together can revoke it, once made and accepted.** And so it happened with the Election of Urban VI [...]
 
 XLIII. [...] For in order that the election of a Pope be of faith, and be held as such, **it does not suffice that it be proposed and accepted by the Church in any way whatsoever; but it must be proposed and accepted without probable contradiction — that is, notable contradiction of prudent men, and resting on apparent foundations** [...] From this, however, it is not inferred that it was then just as if all had adhered to a non-true Pope. For although many adhered to him who really was not Pope, **nevertheless the whole Church was not deceived, but only a part** [...]
+
+XLIV. [...] It is false that he is not the legitimate Pope, of whom it can reasonably be doubted whether he is in the Church; because **the mere doubt of others does not strip the Pope from the possession of his legitimate Pontificate.** [...]
 
 [...]
 
@@ -54,9 +64,9 @@ XLIII. [...] For in order that the election of a Pope be of faith, and be held a
   "editors": "n/a",
   "publication_place": "Coloniae Agrippinae",
   "chicago_citation": "Burghaber, Adamus. Theologia Polemica in qua Doctrinae Catholicorum Doctorum asseruntur ac defenduntur et errores haereticorum hujus temporis proponuntur ac refelluntur. Editio altera. Coloniae Agrippinae: Sumptibus Joannis Wilhelmi Huisch, 1733.",
-  "last_edit": "2026-07-29",
-  "version": "1.0",
-  "selection_pages": "256-259, 267-269",
+  "last_edit": "2026-07-30",
+  "version": "1.1",
+  "selection_pages": "254-269 (complete Controversia XXVIII)",
   "OCR_by": "claude-fable-5",
   "translation_by": "claude-fable-5",
   "url": "https://www.google.com/books/edition/Theologia_Polemica/mIBwrQif1LAC?hl=en&gbpv=1&pg=PA256&printsec=frontcover"
