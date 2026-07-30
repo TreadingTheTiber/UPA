@@ -16,7 +16,7 @@
 
 ## Controversia XXVIII: De Electione Summi Pontificis (On the Election of the Supreme Pontiff)
 
-*The entire controversy (intro + §§ I-XLV) is transcribed and translated in this entry's files: the five Catholic doctrinae on election, conferral of power, the de fide status of the reigning pope, and loss of office (§§ I-XXII), and the refutation of the two sectarian errors — against the succession as such (§§ XXIII-XXXVIII) and against the legitimacy of the reigning pope, Innocent XI (§§ XXXIX-XLV). Key acceptance-passages:*
+*The entire controversy (intro + §§ I-XLV) is transcribed and translated in this entry's files: the five Catholic doctrinae on election, conferral of power, the de fide status of the reigning pope, and loss of office (§§ I-XXII), and the refutation of the two sectarian errors — against the succession as such (§§ XXIII-XXXVIII) and against the legitimacy of the reigning pope, Innocent XI (§§ XXXIX-XLV). In § V Burghaber cites Alfonso de Castro (Adversus haereses Lib. I, c. 9) as an anchor of the older negative side on the note-question — see the 1534 Castro entry and its classification note — and in § XL, following Castro Palao, he declines to censure the theologians of that side even while holding the affirmative as de fide. Key acceptance-passages:*
 
 [...]
 

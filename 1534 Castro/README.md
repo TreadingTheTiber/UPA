@@ -10,13 +10,15 @@
 
 - *Translation of the original text performed by AI (claude-fable-5). A published English translation of the whole work exists: Alfonso de Castro, "Against All Heresies," trans. Paul M. Kimball (Dolorosa Press), against which this passage has been checked.*
 
-- *Last Edit: July 3, 2026.*
+- *Last Edit: July 30, 2026.*
 
-- *Version: 1.0*
+- *Version: 1.1*
 
 - *Selection pages: fol. 14r–14v (Lib. I, cap. 9, "Quis sit dicendus haereticus")*
 
-*Note on this selection: Castro is the textual anchor of the "negative" side in the later dispute over whether it is de fide that this particular man is pope. He is cited by Suárez, Tanner, Gaspar Hurtado, John of St. Thomas, De Lugo, Oviedo, Diana, Dominicus a SS. Trinitate, the Salmanticenses, Gonet, Palanco, and Puteobonelli — and he is the one authority on that side whom the tradition quotes verbatim (Gonet reproduces the "Leo or Clement" sentence nearly word for word). Two cautions arise from the text itself. First, Castro's subject is the definition of a heretic and the censure attaching to denial — his conclusion is that the denier of a given pope's legitimacy, refusing obedience on a claim of defective election, is a schismatic, not a heretic. Second, his supporting example is the Great Western Schism — a Church divided among three obediences — so the case of one claimant peacefully accepted by the whole Church is never posed; his reasoning presupposes that adherence to a putative pope is a fallible matter of fact, but he nowhere asserts that the whole Church's peaceful acceptance could be wrong, nor discusses acceptance as a sign or cause of legitimacy at all. The chapter is numbered 9 in this recension; the "cap. 8" of part of the citation tradition belongs to an earlier recension.*
+*Note on this selection: Castro is the textual anchor of the "negative" side in the later dispute over whether it is de fide that this particular man is pope. He is cited by Suárez, Tanner, Gaspar Hurtado, John of St. Thomas, De Lugo, Oviedo, Diana, Dominicus a SS. Trinitate, Burghaber (Controversia XXVIII, § V — see the 1676 Burghaber entry), the Salmanticenses, Gonet, Palanco, and Puteobonelli — and he is the one authority on that side whom the tradition quotes verbatim (Gonet reproduces the "Leo or Clement" sentence nearly word for word). Two cautions arise from the text itself. First, Castro's subject is the definition of a heretic and the censure attaching to denial — his conclusion is that the denier of a given pope's legitimacy, refusing obedience on a claim of defective election, is a schismatic, not a heretic. Second, his supporting example is the Great Western Schism — a Church divided among three obediences — so the case of one claimant peacefully accepted by the whole Church is never posed; his reasoning presupposes that adherence to a putative pope is a fallible matter of fact, but he nowhere asserts that the whole Church's peaceful acceptance could be wrong, nor discusses acceptance as a sign or cause of legitimacy at all. The chapter is numbered 9 in this recension; the "cap. 8" of part of the citation tradition belongs to an earlier recension.*
+
+*Note on the classification (W, not School 2 or School 3): the schools of this repository's taxonomy are defined by where the acceptance-guarantee terminates, and Castro's text affirms no acceptance-guarantee of any kind, fact or effect, because the question had not yet been formalized when he wrote — this chapter precedes Cano's De locis (1563) and the Valladolid disputes by a generation. School 2 in particular is constituted not by fact-fallibilism but by the affirmative effect-guarantee — jurisdiction supplied by God, no error imposable on the universal Church, obedience obliging under grave sin (Laymann, Pirhing, Muratori) — none of which appears in Castro; to file him under School 2 would be to read Laymann (1620) back into 1534. Nor is he School 3: his worked case is the Great Western Schism, a Church divided among three obediences, in which even the strictest fact-guarantee authors concede that the singular was not de fide (so Burghaber, 1a, at Controversia XXVIII § XLIII: the acceptance that certifies must be "without probable contradiction"); Castro never asserts that a completed peaceful acceptance could fasten on a non-pope. The later School 1 authors accordingly read him as speaking of the election considered in itself, prior to completed acceptance (so Suárez and John of St. Thomas); and Burghaber, following Castro Palao, expressly declines to censure the theologians of Castro's side even while holding the affirmative as de fide (Controversia XXVIII, § XL). What Castro denies is the theological note of the singular — the freely disputed grade (c) of the main README's note-taxonomy — not the guarantee itself, on which he takes no position. He is therefore classified as a pre-systematic witness: the textual anchor the disputants quote, prior to the formulated guarantee.*
 
 ## Book I, Chapter 9 — Who is to be called a heretic (fol. 14r–14v)
 
@@ -50,8 +52,8 @@ Thirdly, in order that someone may truly be called a heretic there is required (
   ],
   "publication_place": "Parisiis",
   "chicago_citation": "Castro, Alfonso de. Adversus omnes haereses libri XIIII. Parisiis: Apud Olivarium de Harsy, 1564.",
-  "last_edit": "July 3, 2026",
-  "version": "1.0",
+  "last_edit": "July 30, 2026",
+  "version": "1.1",
   "selection_pages": "fol. 14r-14v",
   "OCR_by": "claude-fable-5",
   "translation_by": "claude-fable-5",
