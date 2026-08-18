@@ -8,11 +8,15 @@
 
 - *Translation of the original text performed by AI (claude-3-7-sonnet-20250219).*
 
-- *Last Edit: March 20, 2025.*
+- *Last Edit: 2026-08-18.*
 
-- *Version: 1.0*
+- *Version: 1.3*
 
 - *Selection pages: 491-494*
+
+*Note on the classification (1/2, revised 2026-08-18 — previously 1): Bellarmine is claimed by every camp in this controversy, and the reason is that he has real texts on both sides which he never resolves into a theological note. **On the fact-side** he treats the Church's reception as sufficient warrant for a particular man's title: Martin V is the one "**whom the whole Church venerated as true Pontiff, which suffices that Martin could be true Pope**" (De Conciliis II.19, below) — offered precisely to cure a defect of origin, since Benedict XIII never resigned; Vigilius becomes "the sole and legitimate pontiff, **with the Roman clergy and people confirming and accepting him**" (De Rom. Pont. IV.10, below); and against the Cadaver Synod he keeps Formosus's legitimacy intact, holding that Stephen VI and Sergius III "erred, **but in a question of fact, not of law, and by bad example, not by false doctrine**" (De Rom. Pont. IV.13 — the text Burghaber quotes almost verbatim at Controversia XXVIII § XLI). **On the effect-side** he grounds the certitude of conciliar decrees while holding the singular fact by human faith: we know the legitimacy of Nicaea, Constantinople and Ephesus I "**ex naturali evidentia, aut ex fide humana certissima**," and a council of heretics framing a Catholic decree would be "exceedingly hard and violent — **though not impossible to God**" (De Conciliis II.9, below); God "will either convert such a pontiff, or remove him from the midst, before he destroys the Church" (II.19, below); and the definition's infallibility is detached from the definer's personal state — the Pontiff "**whether he can be a heretic or not**, can in no way define anything heretical to be believed by the whole Church" (De Rom. Pont. IV.2), the inherited Petrine privilege being stated see-wise, "**that in his see there would never be found one who would teach against the true Faith**" (IV.3).*
+
+*Hence the label. Suárez read him for the strong effect-guarantee, reporting that deniers of the fact-thesis must say "not only the true Pontiff, but not even one merely **reputed** by the Church, can err in defining — **which Bellarmine holds**" (ap. Murga, 1684 entry, n. 78); that formulation is Suárez's inference, not Bellarmine's words — no* reputatus *or* putativus *occurs in De Rom. Pont. IV.1–4. Mazzella (1879 entry, n. 436) enrols him among the immediate-de-fide authors, but without a locus. Burghaber (1676 entry, § V) cites him on the **negative** side from De Conciliis II.9, and that citation is accurate. A separate question, often confused with this one, is settled elsewhere: De Rom. Pont. II.30 holds that a **manifestly** heretical pope "by that very fact ceases to be Pope and Head" — but that concerns a man who* was *pope ceasing to be, not whether the Church can accept a non-pope, and so bears on neither school. Since Bellarmine supplies both the tradition's cleanest effect-guarantee and one of its clearest acceptance-cures-defect texts, without assigning a note to either, **1/2** ("supplies or straddles both schools") is the accurate label rather than a hedge.*
 
 # De Romano Pontifice, Liber IV, Capitulum X
 
