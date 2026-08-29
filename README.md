@@ -2,6 +2,8 @@
 
 This repository will contain documentation pertaining to the concept of the Universal and Peaceful Acceptance (UPA) of the Roman Pontiff.
 
+**The census at a glance: 138 entries, spanning 123 individual theologians and 3 popes speaking in their own documents** (Boniface VIII, Martin V, and Clement XI's Unigenitus as a control case) — together with the Salmanticenses' collective Cursus, three documentary dossiers for the tradition's contested cases (the Liberius dossier; the Boniface/Eulalius schism in the Collectio Avellana; the Alcalá theses affair), and one reference work (Attwater's Catholic Dictionary). Authors with multiple entries (Augustine, Báñez, Wilmers, Tanquerey, Van Noort, Siri, Wernz) are counted once.
+
 **Key:** 
 - EN = English
 - LA = Latin
