@@ -239,3 +239,6 @@ The oldest skeptical lever against the singular proposition "this man is pope" i
 **TODO:**
 - 1891 Wilmers --> Guilelmo
 - Find Gravina excerpts
+
+**Evaluated, not entered:**
+- Diego Granado, S.J., *In Secundam Secundae* (1629, the *controversiae de Fide* volume; his other three volumes likewise swept): evaluated in full — **he does not address UPA directly**. He never poses the singular-pope question; the nearest material is office-level (papal infallibility "dum aliquid definit ut caput Ecclesiae," with the due-counsel objection answered per Cano and Báñez — God's assistance covers the due diligence itself), the universal-observance rules for divine traditions, and canonization "ex consensu universalis Ecclesiae," with at least the tacit approbation of the Pontiff — genus-adjacent, but no acceptance-guarantee of the pope's identity.
