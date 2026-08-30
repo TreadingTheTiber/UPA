@@ -58,8 +58,32 @@ postquam illi diffinitioni Papali tanquam erroneæ vel in fide suspectæ à Proc
 
 {marg. *Respon.*} ¶ Respon. negando minorem. & ad eius probationes respon. quod licet per testimonia hominū inquirat ecclesia de sanctitatę & miraculis vt ita faciat qđ in se est: non tñ illis tm̄ innititur, sed præcipuè illuminationi diuinę interiori eiusque essistentię speciali: quę vt ꝓbabilissimę creditur nunquam in hoc deest neq; deerit ecclesię canonizanti. Et ita non certum de fide, sed de pietate, & probabilitate magna fidei est quod ecclesia in canonizatione sanctorum errare non potest, vt dictum est. in alijs aūt sententijs actuū & personarum particularibus quæ non ꝑtinent ad fidem & mores ecclesiæ generaliter vtiq; ecclesia falli & fallere potest. Quia non eadem ibi ratio quę in canonizatione sanctorum ad fidem & mores pertinet est.
 
-## I. Liber I, Q. 17: the Immaculate Conception approbation (fol. 353)
+## I. Liber I, Quaestio XVII, § 2 — Sapiens fidem: the census locus (printed p. 151)
 
-{marg. *Argum.* (badly inked)} Si contra prędicta arguatur, ꝗ regula monialium conceptionis facta per Iulium secundum confirmatur per ipsum, & per ecclesiam, vt patet latius infra in 6. conclusione in secūda & tertia probatione. Hæc aūt approbatio videtur habere vim determinationis ecclesiæ, vbi sæpè dicitur quòd beata virgo sine macula originali cōcepta fuit: ergo oppositum tenere est hęreticū, vel mortale peccatum.
+{p. 151}
 
-{marg. *Respon.*} Resp. negando consequentiam, quia illa approbatio regulæ, & ecclesiæ determinatio non est de præcepto, nec est diffinitio iudicialis, aut obligans ad tenendum id tanquam de fide: sed est de consilio proponens, aut statuēs id tāquam de pietate fidei, & nō quoad omnes fideles, sed quoad eos tm̄, qui in honorē immaculatæ conceptionis piè creditæ se cultui religionis illius viuendo sm̃ illam regulam dedicare voluerint. Itaque pia tm̄ credulitas cultus, atq; religio ad hanc pietatem fouēdam ordinata confirmatur, & approbatur sine præiudicio aliorū hanc pietatē non habentiū. Et qñ Papa in dicta regula sępè dicit immaculatā beatæ Virginis conceptionē, id vtiq; dicit sm̃ piam credulitatem suā, & ecclesiæ, & aliorū id acceptare volentium, & nō aliter: sicut & sm̃ talem pietatem statuit officiū immaculatæ conceptionis recitandum. Hmōi enim multa solū de pietate statuuntur, atque legūtur in officio diuino, & lectionib. sanctorum.
+*[Closing paragraph of § 1, left column — the authorities for the whole doctrine, included as context for § 2.]*
+
+De oīb. supradictis speciatim agit Turrecremata in summa de ecclesia lib.4. par.2.c.8.& 9. Et Gerson Alphab.14.e.f.l. Et Ocham lib.1.& 2.dialogorū. Et Gab.in 4.dist.13. q.2. Et liber dictus Axiomata Christiana lib. 2. & præcipue art.6.c.11.Et tandem Castro de punitione hæreticorum lib. 1.c.3.4. & 8. & 9.& 10.dilucide agit. Et Symancas de hæreticis.c.25.26.& 47.
+
+---
+
+*[§ 2 begins]*
+
+{marg. *§. 2. Sapiens fidem.*} Propositio Sapiēs fidem , dupliciter dicitur, primo, vt ait Cano, vbi supra, & multi alij, quādo non quidē aperte est, de fide, vel veritas catholica aliquo modo de supradictis in 1.§.præcedente: sed secundum communē sensum sententiamq́; doctorum censetur esse de fide, vel ad eam pertinere, vt de assumptione.B.virginis in fi.prædicti.§.1. proxime dictum est.
+
+Secundo modo, secundum Gerson, & Gabr. & Simancas, vbi sup.& Medina, vbi infra refertur, & communiter doctores, & videtur melior diffinitio, ꝙ illa propositio sapit fidem , quæ ex vna de fide simul, & ex vna alia, quę licet nō sit de fide, tamen rationabiliter negari non potest in bona consequentia necessaria potest inferri. Vel ex qua simul , & ex vna alia q̄ rōnabiliter negari non pōt, in consequentia necessaria, pōt inferri vna de fide. Vel q̄ in cōsequētia entimematica probabili, q̄ rōnabiliter negari non pōt sequiŧ ex vna, vel plurib.de fide : aut ex ea, vel ex eis, in eadē cōsequentia infertur vna de fide.
+
+Exemplū primi:ista propositio.in hostia altaris est Christus, vel Hostia altaris quę à Sacerdote celebrante eleuatur est adoranda,sapit fidē. Nam si diceretur, ꝙ in Hostia rite cōsecrata est Christus, aut ꝙ illa est adoranda , vtique est de fide.Sed dicere solum ꝙ in Hostia quę eleuatur à Sacerdote est Christus, aut ꝙ illa est adoranda, sapit fidē. Quia bene sequitur in Barbara, vel in darij.in omni Hostia rite cōsecrata est Christus, & illa est adoranda, sed Hostia altaris aut , quæ à Sacerdote celebrante eleuatur est rite consecrata. ergo in illa est Christus, & adoranda est. Ecce quomodo in consequentia necessaria ex maiori de fide, & ex minori, quę rationabiliter sine magna temeritate, negari non potest quāuis de fide non sit, sequitur illa conclusio quę ideo sapit fidem.
+
+Exemplum secundi sic . In Hostia altaris est Christus, & adoranda illa Hostia est quæ à Sacerdote celebrante eleuatur. Sed non esset ibi Christus, neque illa Hostia esset adoranda: nisi esset rite consecrata . ergo in omni Hostia rite consecrata est Christus, & illa adoranda est.
+
+Exemplum tertij sic arguendo.In omni Hostia rite consecrata est Christus , & illa est adoranda. ergo in Hostia altaris, est Christus, & illa , & ea quæ à Sacerdote celebrante eleuatur adoranda est. Vel econuerso sic.In Hostia altaris, vel quæ à Sacerdote celebrāte eleuatur est Christus, & illa est adoranda, ergo in Hostia rite consecrata est Christus, & adorāda est. Patet vtraq; consequentia entimematica; qa rōnabiliter, negari nō pōt, ꝙ Hostia altaris, aut quę à Sacerdote celebrāte eleuaŧ rite consecrata sit.
+
+Hæc autem propositio, confessio vocalis Sacramētalis est necessaria de iure diuino , vel de fide, & eius opposita hæretica est , quia sic decretum est in Concilio Trid.Sessione.4.sub Iulio. III.c.5.quamuis clarissimus Medina de confess.q.4.dixerit sapere fidem,& oppositum sapere hæresim duntaxat .
+
+Similiter sapit fidem hæc propositio.B. Gregor.fuit Papa,quia bene Sequitur.fuit Papa,& non nisi quia fuit canonice electus. ergo omnis Canonice electus in Papam est Papa , quæ est de fide, vt eam decreuit Mart. V. in Concilio. Constantiensi: quę Sequitur ex illa.Vel econtra sic arguendo . Omnis Canonice electus est Papa,B.Gregorius fuit Canonice electus.ergo fuit Papa. Vel sic entimematicæ. B.Gregorius fuit Papa, ergo omnis Canonice electus est Papa. Vel econuerso.omnis Canonice electus est Papa. ergo. B. Gregorius fuit Papa. Patet hoc vtraque consequentia,quia fuit Canonice electus,quod rationabiliter negare non potest, & non propter aliud quispiam est Papa.
+
+Et talis propositio sapiens fidem, est etiam, & dicitur accedens, & pertinens ad fidem.Hæc Gerson.Turecremata,Gabriel, & alij vbi sup. & Medina de confessione. q. 4. de his etiam videatur, infra.§.8.
+
+*[§ 2 ends. The next paragraph, not transcribed, opens § 3:]* {marg. *§. 3. Propositio de probabilitate fidei.*} Propositio de probabilitate fidei est q̄ ex diffinitis per papam, vel ecclesiam, vel per omnes Doct. sacros, vel scholasticos in reb. fidei, & morum sequitur solū probabiliter, vel in cōsequētia | *(catchword* tia*, continued on p. 152)*
