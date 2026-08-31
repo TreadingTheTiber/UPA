@@ -37,3 +37,39 @@ As to the first: in the time of Clement, that opinion was judged by nearly all t
 As to the second: one or another Doctor has judged it not to be probable. Others, however, have commonly taught the contrary, on the ground that there appears neither a condemnation by a Pontiff, nor a prohibition of his doctrine, such that each one may pass judgment from general principles. **But I judge that at this time it cannot be defended without scandal that the thing is not of faith.**
 
 *P. Luisij de Torres select. disp. Pars I.*
+
+## APPENDIX A — Part I, Disp. XXX, Doubt III: *Whether the Church can err in assigning the censures of propositions* (printed 149–150)
+
+{p. 149}
+
+**DOUBT III.** *Whether the Church can err in assigning the censures of propositions.*
+
+By the name of *censure* in this matter we understand, by the usage of the Scholastics, the **quality of propositions** — for example, whether it be heretical, or erroneous, or whether it be of faith. And it is established that the Supreme Pontiff often condemns some proposition as heretical, or as [...]
+
+We call into question, therefore, whether in assigning these censures the Church can err. Now it is established from what has been said, at the first question, that **the Pontiff cannot err in definitions of faith**; we ask therefore whether he can err in assigning the other censures.
+
+Bañez, *2. 2. q. 11. in fine art.* 2., teaches that it is an error, or proximate to error, to assert that the Church can err in assigning these censures. **To me indeed it is exceedingly certain that the Pontiff cannot err in these censures**: for it is certain that he cannot err in defining the truths of faith, as I have said; but to assign these censures pertains to the truths of faith: therefore it is in no way to be admitted that he can err. And it is explained thus: because when he declares some proposition to be erroneous, plainly the definition pertains proximately to the truths of faith, since an erroneous proposition is contrary to a conclusion evidently deduced from the principles of faith; therefore the Pontiff could not err in this censure without erring in some way concerning the truths of faith; and the same judgment holds if he declare some proposition to be proximate to error, or savouring of heresy.
+
+Next, in the other censures of a proposition, which do not seem to pertain so proximately to the doctrine of faith — as when some proposition is called temerarious — it must likewise be said that the Pontiff cannot err, because it pertains to doctrine, and to the truth of the matters of the Christian religion: for if he could err in this, the definition concerning the truth of faith would not be altogether certain, since it could happen that he should condemn as temerarious some proposition more consonant with the principles of faith than contrary to them, which is in no way to be admitted; **and so I judge it to be an error to assert that the Pontiff can err in these censures**.
+
+A particular difficulty can arise concerning the censure by which the Pontiff judges some proposition to be **probable**, as Clement once defined, *Clementina vnica, de summa Trinitate* [...] But the difficulty is whether the Pontiff can err in this [...]
+
+**And I judge that the Pontiff cannot err in assigning this censure**, for this could tend to the detriment of faith, **because the opinion which the Pontiff approves as probable, or as more probable, the whole Church is bound to embrace as such, and to reason from it to other matters — whence a grave error concerning matters of faith could arise.**
+
+It remains to explain whether the Pontiff can approve a false opinion as more probable. [...] Nevertheless I judge that the Pontiff cannot err concerning the truth of a proposition which he declares to be more probable, for we are speaking always in a matter which can pertain to morals or to faith, although the thing be not of faith: for if in this {p. 150} the Pontiff could err, great detriment could follow in the Church, **for all would embrace and defend that opinion, and would think it true, and its probability would grow from day to day, and consequently the whole Church would be deceived — which is by no reasoning to be admitted.**
+
+Sometimes, however, the Pontiff only permits that two probable opinions may be defended, so that it is lawful for anyone to defend one of them without censure of the other; which is prudently done often by the Pontiff, both to settle controversies, and that with the passage of time the truth may be more and more explained, until the Church decree otherwise.
+
+Annexed to this disputation is what will be brought forward in the following censure on the quality, in particular, of certain propositions, **concerning which I was at various times consulted**.
+
+## APPENDIX B — the *Censura Theologica*: the propositions concerning the Pontiff (printed 150, 157)
+
+{p. 150} A THEOLOGICAL CENSURE, *digested through centuries of doubts, that is, on the quality of certain propositions.* CENTURY I.
+
+{p. 157} **DOUBT LXII.** *Whether it deserves a grave censure to assert that the Pontiff can err in the approbation of a religious order.* — I answer that it deserves a grave censure, **not only of rashness, but also of error**, according to the doctrine which we handed down *2. 2. ad quæst.* 1. *tractat. de regulis orthodoxis.*
+
+**DOUBT LXIII.** *Whether it deserves a grave censure to assert that the Pontiff can err in declaring some contract to be just, or in declaring such a one to be unjust.* — I answer that it deserves the censure of rashness and of error, according to the doctrine handed down in the place just alleged.
+
+**DOUBT LXV.** *Whether it deserves censure to assert that the Pontiff can err in approving some special rule concerning some special act in a religious order.* — I answer that it deserves the censure of rashness and of error, **because he cannot approve either false doctrine for true doctrine, nor a base act for an honest one**.
+
+**DOUBT LXVI.** *Whether it deserves censure to assert that the Pontiff can err concerning the censures of propositions.* — I answer that **it is certain that the Pontiff cannot err in assigning the censure of any proposition, because in matters pertaining to doctrine he cannot err; and to assert the opposite is impious, scandalous, rash, and erroneous.**
