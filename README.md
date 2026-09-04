@@ -2,7 +2,7 @@
 
 This repository contains documentation pertaining to the concept of the Universal and Peaceful Acceptance (UPA) of the Roman Pontiff.
 
-**The census at a glance: 153 entries, spanning 141 individual theologians and 3 popes speaking in their own documents** (Boniface VIII, Martin V, and Clement XI's Unigenitus as a control case) — together with the Salmanticenses' collective Cursus, three documentary dossiers for the tradition's contested cases (the Liberius dossier; the Boniface/Eulalius schism in the Collectio Avellana; the Alcalá theses affair), and one reference work (Attwater's Catholic Dictionary). Authors with multiple entries (Augustine, Báñez, Wilmers, Tanquerey, Van Noort, Siri, Wernz) are counted once; the Walenburch entry is the joint work of two brothers, counted as two.
+**The census at a glance: 153 entries, spanning 142 individual theologians and 3 popes speaking in their own documents** (Boniface VIII, Martin V, and Clement XI's Unigenitus as a control case) — together with the Salmanticenses' collective Cursus, three documentary dossiers for the tradition's contested cases (the Liberius dossier; the Boniface/Eulalius schism in the Collectio Avellana; the Alcalá theses affair), and two reference works (Attwater's Catholic Dictionary and the 1907 Catholic Encyclopedia). Authors with multiple entries (Augustine, Báñez, Wilmers, Tanquerey, Van Noort, Siri, Wernz) are counted once; three entries are the joint work of two hands and counted as two — the Walenburch brothers, Simancas with his annotator Castracani, and Daelman with the Mechelen theses of Maes.
 
 **Key:** 
 - EN = English
