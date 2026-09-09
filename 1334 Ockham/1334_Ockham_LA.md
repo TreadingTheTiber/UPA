@@ -179,9 +179,9 @@ Scire debes quod certum est quod papa potest errare, ut infra distinctione Anast
 
 ...ligare non potest. Quia si papa est haereticus, in eo quod est haereticus minor est quocumque episcopo catholico, quia factum notat ecclesia sine sententia.
 
-**Secunda obiectio cauillosa est.** Secunda obiectio cavillosa est quod papa non habet superiorem in his, et ideo de factis suis nullus debet se intromittere. Sed ista cavillatio non valet, nam de factis illius qui non habet superiorem in terris mortales non habent iudicare; sed de factis papae saltem in crimine haeresis habent mortales iudicare, sicut patet de papa Anastasio (2° [?], dist. 19 c. Anastasius), et de Marcellino papa, dist. 21 c. Nunc autem, et de Liberio papa quem Eusebius haereticum declaravit, et de Simmacho papa qui successit Anastasio, de quo habetur dist. 2[7?] Hinc etiam, ubi dicitur in haec verba: Simmachus papa in Romana synodo dignitate sua spoliatus, primus [primum?] pristino statui reddi decernitur, ut tunc veniret ad causam, et si ita recte videretur, accusantium propositionibus respondere dignanter. Visa est maximo numero sacerdotum, atque meruit [?] effectum. Et cum postmodum ordinaretur quomodo accusandus esset praefatus papa, ut diceret [?] occurreret, sed ab aemulis est impeditus. Ex quibus aliisque quampluribus apparet quod papa potest accusari et iudicari, et per consequens quod saltem in crimine haeresis habet superiorem in terris. Quod aperte testatur glossa ordinaria dist. 19 [pr. 12] c. Anastasius, super verbo "consilio," quae dicit: videtur igitur quod papa tenetur requirere consilium episcoporum, quod verum est ubi de fide agitur; et tunc synodus maior est papa, dist. 1[7?] c. Praeterea.
+**Secunda obiectio cauillosa est.** Secunda obiectio cavillosa est quod papa non habet superiorem in his, et ideo de factis suis nullus debet se intromittere. Sed ista cavillatio non valet, nam de factis illius qui non habet superiorem in terris mortales non habent iudicare; sed de factis papae saltem in crimine haeresis habent mortales iudicare, sicut patet de papa Anastasio (2° [?], dist. 19 c. Anastasius), et de Marcellino papa, dist. 21 c. Nunc autem, et de Liberio papa quem Eusebius haereticum declaravit, et de Simmacho papa qui successit Anastasio, de quo habetur dist. 2[7?] Hinc etiam, ubi dicitur in haec verba: Simmachus papa in Romana synodo dignitate sua spoliatus, primus [primum?] pristino statui reddi decernitur, ut tunc veniret ad causam, et si ita recte videretur, accusantium propositionibus respondere dignanter. Visa est maximo numero sacerdotum, atque meruit [?] effectum. Et cum postmodum ordinaretur quomodo accusandus esset praefatus papa, ut diceret [?] occurreret, sed ab aemulis est impeditus. Ex quibus aliisque quampluribus apparet quod papa potest accusari et iudicari, et per consequens quod saltem in crimine haeresis habet superiorem in terris. Quod aperte testatur glossa ordinaria dist. 19 [pr. 12] c. Anastasius, super verbo "consilio," quae dicit: videtur igitur quod papa tenetur requirere consilium episcoporum, quod verum est ubi de fide agitur; et tunc synodus maior est papa, dist. 15 c. Sic sancti.
 
-Qui potest de papatu deponi, habet superiorem per quem deponitur; sed papa potest propter crimina sua deponi de papatu. [col. b] Unde de papa Iohanne XII sic habetur in cronicis: erat venator et totus lubricus adeo quod publice feminas tenebat; propterea quidam cardinalium et Romanorum scripserunt occulte Ottoni principi Saxonum, et scandalo compatiens ecclesiae, sine mora Romam properaret. Hoc papa percipiens, Iohanni diacono cardinali tanquam huius facti consiliario nasum [amputari fecit], et alteri Iohanni subdiacono qui litteras scripserat manum amputari fecit. Hic cum frequenter per imperatorem et clerum de sua correctione fuisset monitus, non correctus, praeside imperatoris de papatu destitutus, communi voto Leo papa eligitur.
+Praeterea, qui potest de papatu deponi, habet superiorem super quem [Munich: per quem] deponitur; sed papa potest propter crimina sua deponi de papatu. [col. b] Unde de papa Iohanne XII sic habetur in cronicis: erat venator et totus lubricus adeo quod publice feminas tenebat; propterea quidam cardinalium et Romanorum scripserunt occulte Ottoni principi Saxonum, et scandalo compatiens ecclesiae, sine mora Romam properaret. Hoc papa percipiens, Iohanni diacono cardinali tanquam huius facti consiliario nasum [amputari fecit], et alteri Iohanni subdiacono qui litteras scripserat manum amputari fecit. Hic cum frequenter per imperatorem et clerum de sua correctione fuisset monitus, non correctus, praeside imperatoris de papatu destitutus, communi voto Leo papa eligitur.
 
 **Tertia obiectio.** Tertia obiectio cavillosa est quod a papa non potest appellari. Sed ista cavillatio leviter refellitur per praedicta. Nam ab illo qui habet superiorem potest appellari, sicut ostensum est in causa "si papa habet superiorem," quia consilium generale — cum etiam papa effectus haereticus minor sit quocumque catholico, ut ponit glossa 24 q. 1 c. Acacius, ut superius allegatur — igitur a papa potest appellari. Propterea ab illo potest appellari qui potest de haeresi accusari; sed papa potest de haeresi accusari, sicut patet de Simmacho papa qui fuit accusatus de haeresi, 2 q. 7 [?]. Item [balaam? sic], immo papa non posset constituere quod non posset accusari de haeresi, ut aperte dicit glossa dist. 40 c. Si papa, quae loquens de papa ait: hic specialiter fit mentio de haeresi, ideo et si occulte statueret quod non posset accusari de haeresi. Et respondet dicens: respondeo quod non, quia ex hoc particularetur tota ecclesia. Ex quibus verbis aperte...
 
@@ -433,6 +433,8 @@ Divergences: (a) Goldast frames the argument as the **quinta ratio** ("Quinta ra
 
 **f. 67r.** "potest [quaestio] mota deduci" (pr. `pot qo mota`): `qo` taken as an abbreviation of *quaestio*. — Closing scriptural authorities: **1 Cor. 2:5** and **Gal. 1:8–9** ("anathema sit"). — The author refers to "a certain special work... at greater length" (i.e. a fuller treatise against Benedict XII). — **Colophon** identifies the work as the *Compendium errorum papae Ioannis XXII* (see the editorial note at the head).
 
+**Collation with the 1494 Lyons Opera plurima, vol. 2 (quire BB, leaves 4–6).** Lyons confirms the whole span with no substantive variant except in the deposition sentence: Munich's "dist. 1[7?] c. Praeterea" is a mis-parse — Lyons reads "xv di. c. Sic sancti" and "Praeterea" opens the next sentence as a connective (corrected above); Lyons reads "habet superiorem super quem deponitur" where Munich was read "per quem" (the glyph is the *sup-* abbreviation; a worn *per* not fully excludable; both given above). Lyons also reads **"crimina sua"** (not *haeresim*) and prints **"Item balaam"** exactly as Munich does, so *balaam* is the printed tradition's reading, not a Munich singularity (still most plausibly corrupt for *palam*, "openly"). Lyons resolves Munich's uncertain numerals in the same sense: 7 q. 1 *Scire debes*; dist. 19 *Anastasius*; dist. 27 *Hinc etiam*; C. 2 q. 7 (Symmachus); dist. 40 *Si papa*. One shared error: both witnesses cite the Anastasius gloss as "di. 12" where the content requires dist. 19. Colophon identical ("vicesimisecundi" set as one word).
+
 ## Notes — BLOCK E
 
 - **f. 1r, col. a (title):** "docmatibus" printed thus (for *dogmatibus*), expanded to *dogmatibus*. "okam" = *Okam* (Ockham); left as printed.
@@ -465,3 +467,240 @@ Divergences: (a) Goldast frames the argument as the **quinta ratio** ("Quinta ra
 - **f. 3r, col. b:** "ad philipen c. z" = *ad Philippenses, capitulo 2*; "actuu z" = *Actuum 2*; "prima ad cor. 14/15" — the numeral for 1 Corinthians reads like "14" but the star-differs-from-star citation is 1 Cor 15:41, read *15*. `[?]`
 - **f. 2v, col. b:** "Sic igitur non credimus pro tanto apostolo... rapto" — the print reads *credimus*; the received Gloss (from Augustine) reads *non incredibile est tanto apostolo... rapto*. Transcribed as printed; sense is "we find it not incredible." `[?]`
 - **f. 2r, col. b:** "Quia ista duo cotineant verba predicta" — printed subjunctive *contineant*; sense is *quod ista duo contineant / quia continent*; kept as printed with normalized spelling.
+
+---
+
+# Collation with the 1494 Lyons Opera plurima (Trechsel), the original incunable of the Dialogus and the Compendium
+
+**Base transcription collated:** `ockham/depose_v1.md` (Munich incunable, 1494, fols. 64r–67r).
+**Witness:** `ockham/lyons/lyons_v2_compendium.pdf` (Internet Archive scan of the Lyons/Trechsel *Opera plurima* vol. 2, 1494–96). The *Compendium errorum papae Ioannis XXII* stands first in this volume.
+
+## How the witness is cited here
+This copy carries **no ink foliation** in the top outer corners. The recto pages are marked only by **printed quire signatures** at the foot of the outer column. The relevant leaf is quire **BB**, and the target span runs **BB4 verso through BB6 recto**. The colophon is on BB6r. I cite each passage by signature, then the IA/PDF page number, then column (col. a = left, col. b = right). Signature "BB 4" is legible at the foot of PDF 29 (col. b); the sequence is therefore:
+
+| PDF page | Leaf | Running head |
+|---|---|---|
+| 29 | BB4 recto | Joannis / vicesimisecundi |
+| 30 | BB4 verso | Compendium / errorum |
+| 31 | BB5 recto | Joannis / vicesimisecundi |
+| 32 | BB5 verso | Compendium / errorum |
+| 33 | BB6 recto | Joannis / vicesimisecundi |
+
+The running title spreads across each opening: verso "Compendium errorum" + recto "Joannis vicesimisecundi" = *Compendium errorum Joannis vicesimi secundi*.
+
+## Location table
+
+| # | Passage (cue) | Lyons location |
+|---|---|---|
+| 1 | Per praedicta exempla … maculari | BB4v (PDF 30), col. b, upper |
+| 2 | … nisi deprehendatur a fide devius … A recta … non de ipso papa qui ecclesia dicitur | BB4v (PDF 30), col. b, middle |
+| 3 | Scire debes … hic est casus in quo papa papam ligare potest | BB4v (PDF 30), col. b, lower |
+| 4 | Quia si papa est haereticus … factum notat ecclesia sine sententia | BB4v (PDF 30), col. b, foot |
+| 5 | … de factis papae saltem in crimine haeresis … Liberio … Simmacho | BB5r (PDF 31), col. a |
+| 6 | Qui potest de papatu deponi … propter crimina sua | BB5r (PDF 31), col. a, middle |
+| 7 | Item **balaam** immo papa non posset constituere … | BB5r (PDF 31), col. a foot → col. b top |
+| 8 | Colophon | BB6r (PDF 33), col. b |
+
+---
+
+## The eight Lyons readings (lightly expanded; abbreviations silently resolved)
+
+**1. BB4v col. b.**
+> Per praedicta exempla et plura alia hic causa brevitatis omissa evidenter ostenditur quod papa potest contra fidem errare et per consequens haeretica pravitate maculari.
+
+Identical to Munich. No substantive variant.
+
+**2. BB4v col. b.**
+> Quod etiam per auctoritates quamplures posset probari, de quo pauca adducam. Unde in decretis di. xl. [Si papa] sic legitur: [Huius sanctae] papae culpas redarguere praesumat nullus mortalium, quia cunctos ipse iudicaturus a nemine iudicatur, nisi deprehendatur a fide devius. Ubi aperte supponitur quod papa potest a fide deviare, et per consequens haereticari. Quod aperte asserit glossa 24 q. 1 c. A recta, [quae] dicit: quod, de qua ecclesia intelligas quod dicitur quod non possit errare, non de ipso papa qui ecclesia dicitur, [ut lxiiij] di. Quicumque, et 7 q. 1 Scire debes.
+
+No substantive variant. Lyons resolves two of the Munich `[?]` flags in the **same** sense: the citation reads "**et 7 q. 1** [c.] Scire debes" (Munich had "7[?] q.1"), and the distinctio for the papal-culpa canon is "**di. xl**" = 40 (Munich "dist. 40").
+
+**3. BB4v col. b (running into BB5r col. a top for sentence 4).**
+> Scire debes quod certum est quod papa potest errare, ut infra di. Anastasius, et xl. di. Si papa. Praeterea qui potest cadere in sententiam latae sententiae et fieri minor quocumque catholico [potest] errare contra fidem et haeretica pravitate maculari; sed papa est huiusmodi, 24 q. 1 [c.] Acacius, quae sub verbis (quicumque in haeresim damnatam labitur, ipsa damnatione seipsum involvit) dicit sic: hic est casus in quo papa papam ligare potest, in quo papa in canonem latae sententiae incidit. Nec obviat regula illa quia par parem solvere vel ligare non potest.
+
+No substantive variant. (Munich's supplied "[verba]" in "quae [verba] sub verbis" is editorial; Lyons prints "quae sub verbis," which is what Munich actually printed too.)
+
+**4. BB4v col. b, foot.**
+> quia si papa est haereticus, in eo quod est haereticus minor est quocumque episcopo catholico, quia factum notat ecclesia sine sententia.
+
+Identical to Munich. No substantive variant. (In Lyons this clause finishes at the foot of BB4v col. b; in Munich it opens f. 65r — a pagination difference only.)
+
+**5. BB5r col. a.**
+> Secunda obiectio cavillosa est quod papa non habet superiorem in his, et ideo de factis suis nullus debet se intromittere. Sed ista cavillatio non valet. Nam de factis illius qui non habet superiorem in terris mortales non habent iudicare; sed de factis papae saltem in crimine haeresis habent mortales iudicare, sicut patet de papa Anastasio (ii, di. xix c. Anastasius), et de Marcellino papa di. xxi c. Nunc autem, et de Liberio papa quem Eusebius haereticum declaravit, et de Simacho papa qui successit Anastasio, de quo habetur di. xxvii Hinc etiam, ubi dicitur in haec verba: Simachus papa in romana synodo dignitate sua spoliatus, primus pristino statui reddi decernitur …
+
+No substantive variant. Lyons resolves Munich's `[?]` numerals **in the same sense**: Anastasius = "**di. xix**" (19); Symmachus = "**di. xxvii Hinc etiam**" (27, incipit *Hinc etiam*).
+
+**6. BB5r col. a, middle.**
+> … et tunc synodus maior est papa, **xv di. c. Sic sancti**. **Praeterea**, qui potest de papatu deponi habet superiorem **super quem** deponitur; sed papa potest **propter crimina sua** deponi de papatu. Unde de papa Iohanne XII sic habetur in cronicis: erat venator …
+
+**Variants against Munich — see Verdict.**
+
+**7. BB5r col. a foot → col. b top.**
+> … sed papa potest de haeresi accusari, sicut patet de Simacho papa qui fuit accusatus de haeresi, ii q. vii. **Item balaam**, immo papa non posset constituere quod non posset accusari de haeresi, ut aperte dicit glossa di. xl. c. Si papa, quae loquens de papa ait: hic specialiter fit mentio de haeresi, ideo et si occulte statueret quod non posset accusari de haeresi. Et respondet dicens: respondeo quod non, quia ex hoc particularetur tota ecclesia. …
+
+Lyons reads "**Item balaam**" (`Jtẽ balaã`, macron for final -m) — the same anomalous word as Munich. No other substantive variant; Lyons confirms the citation "**ii q. vii**" (C.2 q.7) that Munich flagged `[?]`.
+
+**8. BB6r col. b (red/large type, set off after the text ends "…huic opusculo in hoc loco concedo.").**
+> Compendii errorum Iohannis vicesimisecundi finis.
+
+Word-for-word the same as Munich (Munich prints "vicesimi secundi" as two words; Lyons "vicesimisecundi" as one — spelling/word-division only).
+
+---
+
+## Variant list (substantive only; spelling and abbreviation ignored)
+
+Across all eight passages there is **one** cluster of substantive variants, all in sentence 6 (the deposition syllogism, BB5r col. a):
+
+1. **Citation of the "synodus maior est papa" authority.**
+   - Munich transcription: "…synodus maior est papa, **dist. 1[7?] c. Praeterea**." (the transcriber took *Praeterea* as the canon incipit and flagged the number).
+   - Lyons: "…synodus maior est papa, **xv di. c. Sic sancti**." (Distinction **15**, canon *Sic sancti* / *Sicut sancti*), and then **Praeterea** begins the next sentence.
+   - **Effect:** the two witnesses divide the sentence differently. In Lyons the citation is *dist. 15 c. Sic sancti*, and *Praeterea* ("Moreover") is the connective opening the deposition argument. The Munich transcription appears to have mis-parsed, folding the opening *Praeterea* into the citation and guessing "17." Lyons clarifies the structure.
+
+2. **Opening connective of the syllogism.** Lyons opens "**Praeterea**, qui potest de papatu deponi…"; the Munich transcription has no opening connective ("Qui potest de papatu deponi…"), because it consumed *Praeterea* into the preceding citation (variant 1).
+
+3. **Preposition:** Lyons "habet superiorem **super quem** deponitur"; Munich "habet superiorem **per quem** deponitur." Lyons prints the *sup-* abbreviation (= *super*), the same glyph it uses two lines above in *sup verbo consilio*. Moderate confidence: *super quem* is slightly awkward Latin and a worn *per* cannot be wholly excluded, but the glyph as printed is *super*.
+
+No substantive variants were found in sentences 1, 2, 3, 4, 5, 7, or 8. Several Munich `[?]` numeral flags are positively resolved by Lyons in the same sense (7 q.1 Scire debes; di. 19 Anastasius; di. 27 Hinc etiam; ii q.7; di. 40 Si papa).
+
+One shared *printed* peculiarity worth recording: the gloss on Anastasius is cited "**di. xij**" (= 12) in **both** witnesses (Lyons `di. rij`), where the content requires Distinction 19. This is a shared error of the printed tradition, not a Munich singularity.
+
+---
+
+## Verdict
+
+**On "balaam" (the key check): Lyons prints it too.** BB5r col. a reads `Jtẽ balaã` = **"Item balaam,"** exactly the anomalous word the Munich incunable prints. This settles the question the lead flagged: *balaam* is **not** a Munich-only corruption or a misreading of the Munich fount — it is present in the independent Lyons/Trechsel printing as well, so it belongs to the printed textual tradition of the *Compendium*. (Both are almost certainly a corruption, most plausibly for *palam*, "openly," which fits the sense "nay, [openly] a pope could not even decree that he cannot be accused of heresy." But the reading *balaam* is what both incunabula set.)
+
+**On "crimina" (the second check): Lyons reads "crimina," not "haeresim."** BB5r col. a reads plainly `sed papa potest ppter crimina sua deponi de papatu` = **"sed papa potest propter crimina sua deponi de papatu."** This confirms the Munich reading. Neither witness reads *haeresim* here; the heresy-specific case is developed separately through the C.24 q.1 c. Acacius material, exactly as the Munich note states.
+
+**On the colophon:** confirmed identical — *Compendii errorum Iohannis vicesimisecundi finis* (BB6r col. b).
+
+**Overall:** the Lyons witness agrees with the Munich transcription throughout the deposition/heretical-pope span, down to the anomalous *balaam*. The only substantive divergence is the citation-and-connective cluster in the deposition syllogism (*dist. 15 c. Sic sancti* + *Praeterea* as connective + *super quem*), where Lyons is clearer and suggests the Munich transcription mis-parsed one line. All of the Munich transcriber's uncertain numerals that recur in this span are resolved by Lyons in the same sense.
+
+---
+
+Witness collated: `lyons/lyons_v1_dialogus.pdf` (Gregg facsimile, 588 pp., page box 2399×3573 pt), rendered at `pdftoppm -jpeg -r 150` and read from column crops. Compared against (a) **Goldast 1614** as transcribed in `book2_v1.md` / `book5_v1.md`, and (b) the **British Academy critical-edition control text** quoted in the task brief.
+
+Method note: the IA text layer (`v1.txt`) is unreliable for reading but usable for *locating* — it splits into 582 form-feed page-segments, and **PDF page = OCR segment + 1** (checked at three independent points: the fol. 12v/13r chapters, the "nulli parti" hit, and the *Liber quintus* incipit). Every locus below was then found by content on the rendered image and verified against the printed folio number and running head.
+
+## Offset and location table
+
+The printed foliation of the *Dialogus* (Roman numerals, top outer corner; running head names the book) maps to PDF pages by a **constant** offset, verified by folio numbers read directly on pp. VI, VII, XIII, XV, LI:
+
+> **PDF page = 2 × (printed folio) + 31 for a recto, + 32 for a verso.**
+
+(The brief's "≈ 2×folio + 28" is low by 3–4; the corrected constant above is exact across Books II and V.)
+
+| Locus (crit-ed reference) | Printed Lyons folio · col | PDF page | Running head | Verified? |
+|---|---|---|---|---|
+| **A** — lib. II cap. 1 opening ("Circa quaesitum…") | fol. **VI r**, col. b | **43** | *Prime partis VI* | folio no. read |
+| **A** — lib. II cap. 2 (taxonomy; *Regule…* example) | fol. **VI v** col. b → **VII r** col. a | **44–45** | *Liber secundus* / *Prime partis VII* | folio nos. read |
+| **B** — lib. II cap. 27 (Sergius/Formosus) | fol. **XIV v**, col. **a** | **60** | *Liber secundus* | fol. XV on p. 61 anchors it |
+| **B** — lib. II cap. 27 (Virgin clause; miracle) | fol. **XIV v**, col. **b** | **60** | *Liber secundus* | same page |
+| **C** — lib. V cap. 1 opening (five positions) | fol. **≈ XXXII v / XXXIII r**, col. b | **96** | *Liber quintus* (incipit) | book incipit + offset |
+| **C** — lib. V cap. 7 ("Respondetur…" / *permanere*) | fol. **XXXVIII r**, col. **a** (top) | **107** | *Liber quintus* | offset; cap. VII opens foot of p. 106 |
+| **C** — lib. V cap. 22 ("toti et nulli parti" / *debuit*) | fol. **XLIII v**, col. **a** | **118** | *Liber quintus* | offset |
+| **C** — lib. V cap. 34 (tribulation / *pauci*) | fol. **LI r**, col. **a** | **133** | *Prime partis LI* | folio no. read |
+| **C** — lib. V cap. 35 (quinta ratio / *parvuli*) | fol. **LI r**, col. **a** (foot) → col. b top | **133–134** | *Prime partis LI* / *Liber sextus* | folio no. read; *Explicit liber quintus* heads p. 134 col. b |
+
+Reconciliation with the brief's Kilcullen folios: **fol. 14v (B), 38r (cap. 7), 43v (cap. 22) match exactly.** The brief's "fol. 9v–10r" for Block A is wrong — the passage stands on printed **fol. VI–VII**; and cap. 34's *pauci* line sits on **fol. LI r** (brief said "48v–50r"). All fit the single constant offset above.
+
+---
+
+## Block A — lib. II cap. 1–2 (taxonomy of catholic truths)
+
+### Key sentence 1 — Lyons, fol. VI r col. b (PDF 43)
+
+> Circa quesitum sunt diuerse et aduerse sententie. Quarum una est quod ille sole veritates sunt **catholice reputande et de** necessitate salutis credende que in canone biblie explicite vel implicite asseruntur; ita quod si alique veritates in biblia sub forma propria minime continentur, ex solis tamen contentis in ea consequentia necessaria et formali possunt inferri, sunt inter catholicas connumerande.
+
+### Key sentence 2 — Lyons, fol. VI v col. b (PDF 44)
+
+> Preter veritates vero predictas dicunt esse quasdam veritates alias que ex solis contentis in scriptura diuina et veritatibus que ad nos per apostolos peruenerunt concludi non possunt, que tamen ex predictis veritatibus vel aliqua earum **et quibusdam aliis veris que in facto consistunt, que vera negari non possunt, manifeste sequuntur**. Et de talibus veritatibus… illa tamen veritas simul ex scripturis diuinis et gestis et actibus predictorum sanctorum (**de quibus gestis et actibus christiano rationali sufficienter potest fieri fides**) videtur euidenter.
+
+Variants:
+- **vs control:** control gives sentence 1 as "…sunt *reputandae catholicae de* necessitate salutis credendae" (no *et*, order *reputandae catholicae*). **Lyons reads "catholice reputande et de necessitate"** — i.e. Lyons sides with Goldast against the control on both the added *et* and the word order.
+- **vs Goldast:** none substantive. Both target sentences agree with Goldast word-for-word (allowing spelling/abbreviation). The *Regule a sanctis patribus (Basilio, Benedicto, Augustino et Francisco)* example, the *Symbolum Athanasii* / *quatuor concilia* list, and the closing *solummodo in facto consistere… gestis, cronicis et historiis fide dignis* all match.
+
+---
+
+## Block B — lib. II cap. 27 (Goldast Cap. XXV) — fol. XIV v (PDF 60)
+
+The whole chapter stands on this one leaf: the Sergius/Formosus opinion and the three *fundamenta* fill **col. a**; the miracle discussion and the Virgin clause fill **col. b**. (The chapter Goldast prints as Cap. XXV is here Lyons's chapter that opens at the foot of fol. XIV r / top of XIV v; the Paris-condemnation chapter that book2's notes call Goldast Cap. XXVII follows on fol. XV = PDF 61.)
+
+### Sergius / Formosus — col. a
+
+> …tante auctoritatis est papa quod ad placitum potest quamcumque assertionem tanquam heretica[m] **danare**. Et isti **dicũt** [dicunt] esse **imitatores pape Sergij persecutoris pape Formosi**, qui (ut in quodam libro de antiquissima litera legi) in tantum volebant papam extollere quod asserebant papam non posse danari, sed quod quicquid faceret saluaretur. Ita isti dicunt quod quicquid papa diffinit esse tenendum omnes tenere et credere debent. Hinc dicit glo. dist. ix [xix]. c. "si romanorum": Illud quod papa approbat vel reprobat nos approbare vel reprobare debemus.
+
+Variants:
+- **sequacium?** — **No.** Lyons reads **"imitatores papae Sergii persecutoris papae Formosi"** — *sequacium* is **absent**, and the order is **"papae Sergii"** (not *Sergii papae*). Lyons = Goldast; both differ from the control ("imitatores *sequacium Sergii papae*").
+- **verb:** Lyons **"dicunt"** (macron over *u*; no *-ur* abbreviation visible) — an active form. Differs from both Goldast *dicuntur* (passive) and the control *videntur*. This is the **one point where Lyons and Goldast may not coincide**; if the macron is read as a *-untur* compendium it would be *dicuntur* = Goldast, but on the face of it the glyph is *dicunt*.
+- **danare (=damnare)** for the control's **condemnare**: Lyons = Goldast.
+
+### Virgin clause + miracle — col. b
+
+> **Mag.** Dicũt quod si vnus solus dissentiret non esset talis veritas acceptanda, quia **in vno solo potest stare tota fides ecclesie, quemadmodum tempore mortis christi tota fides ecclesie in sola beata virgine remanebat**; nec est **etiam** credendum quod omni tempore post tempora apostolorum **fuerit** aliqui magis accepti deo quam **fuerint apostoli ante mortem christi**. Si ergo christus per crucifixionem suam permisit cunctos apostolos a fide catholica deuiare et solam beatam virginem firmiter **permanere** in fide, temerarium est asserere quod nunquam ante finem mundi deus permittat totam multitudinem christianorum preter vnum a fide recedere orthodoxa.
+
+Variants:
+- **catholica vs ecclesiae — settled: Lyons reads *ecclesie* in BOTH clauses** ("tota fides ecclesie … tota fides ecclesie in sola beata virgine"). Lyons = Goldast; the control's "tota fides *catholica*" in the second clause is **not** the Lyons reading.
+- **remanebat** (first Virgin clause) and **firmiter permanere in fide** (second): Lyons = Goldast.
+- **"nec est *etiam* credendum … *fuerit* … quam *fuerint* apostoli *ante mortem christi*"**: Lyons carries all of Goldast's pluses (*etiam*; the *fuerit/fuerint* forms; the phrase *ante mortem Christi*) that the control lacks. Lyons = Goldast.
+
+---
+
+## Block C — lib. V
+
+### Cap. 1 opening — fol. ≈ XXXII v/XXXIII r col. b (PDF 96)
+
+> …indagare propono qui possint prauitate heretica maculari. **Et quia omnes christiani sentire videntur quod tota multitudo christianorum hereticari non potest, quidam autem secundo quod nec concilium generale, aliqui vero tertio quod romana ecclesia, nonnulli autem quarto quod nec collegium cardinalium, aliqui vero quinto quod nec etiam papa potest heretica pollui prauitate**: ideo de istis quinque quid sentiant christiani cupio ut mihi reueles.
+
+Variants: none substantive vs Goldast; Lyons carries the ordinals *secundo/tertio/quarto/quinto* exactly as Goldast (the control cites the sentence without them).
+
+### Cap. 7 — "Respondetur…" — fol. XXXVIII r col. a (PDF 107)
+
+> **Mag.** Respondetur quod non procedit ratio de tota congregatione fidelium, quia quando sedes apostolica non vacat tota congregatio fidelium non est inferior papa, quia comprehendit papam; **sed tota fidelium multitudo preter papam est inferior papa, et de illa conceditur quod potest errare contra fidem, quia secundum eos fides potest in solo summo pontifice permanere.**
+
+Variants (all four confirm Goldast against the control):
+- word order **"tota fidelium multitudo praeter papam"** (control: *tota multitudo fidelium*);
+- **omits *multitudine*** in "de illa conceditur" (control: *de illa multitudine conceditur*);
+- word order **"errare contra fidem"** (control: *contra fidem errare*);
+- **remanere vs permanere — settled: Lyons reads *permanere*** ("fides potest in solo summo pontifice **permanere**"). Lyons = Goldast; the control's *remanere* is not the Lyons reading.
+
+### Cap. 22 — "toti et nulli parti" — fol. XLIII v col. a (PDF 118)
+
+> Illud quod promittitur toti et nulli parti **non debuit** alicui parti attribui, etiam principaliori. Sed nunquam errare contra fidem toti congregationi fidelium promissum fuit a christo, et nulli parti fuit hoc promissum **a christo**; [ergo] non debet hoc alicui particulari ecclesie catholicorum attribui. Cum ergo romana ecclesia sit pars ecclesie et non sit tota ecclesia, non posse errare contra fidem non est attribuendum romane ecclesie.
+
+Variants:
+- **debet vs debuit — settled: Lyons reads the perfect *debuit*** ("non **debuit** alicui parti attribui"). Lyons = Goldast; the control's present *debet* is not the Lyons reading. (The *second* verb, "non **debet** hoc… attribui", is present in all three — only the first is contested.)
+- **second "a Christo" present:** Lyons reads "et nulli parti fuit hoc promissum **a christo**", repeating *a Christo* as Goldast does; the control lacks the repeat. (The word before *promissum* is written with the *sed*-form abbreviation used elsewhere on these leaves; sense and both comparison texts require *hoc*, read here as *hoc*.)
+
+### Cap. 34 — tribulation — fol. LI r col. a (PDF 133)
+
+> …et ita sepe maior fuit tribulatio infidelium quam erit illa tribulatio quam christus predixit futura, que tamen forsitan erit tanta quod **fideles pauci remanebunt firmi in fide**. Et an illi fideles erunt viri vel mulieres, solus deus nouit et illi quibus deus specialiter reuelauit.
+
+Variants:
+- **paucissimi vs pauci — settled: Lyons reads the plain positive *pauci*** ("fideles **pauci** remanebunt firmi in fide"). Lyons = Goldast; the control's superlative *paucissimi* is not the Lyons reading.
+- remainder ("viri vel mulieres, solus Deus novit…") matches all three.
+
+### Cap. 35 — quinta ratio (parvuli) — fol. LI r col. a foot (PDF 133–134)
+
+> **Quinta ratio probat specialiter quod tota multitudo virorum et mulierum usum rationis habentium potest contra fidem errare**, quia illa tota multitudo potest contra fidem errare, qua errante saluantur omnes promissiones christi de fide vsque ad finem seculi permansura[e]. Sed errante tota multitudine christianorum virorum et mulierum usum rationis habentium possunt saluari promissiones christi **de fide christi mansura**. Nam christus vere est spiritualiter cum paruulis baptizatis per gratiam et virtutes. Fides etiam beati petri pro qua christus rogauit nequaquam deficeret quia reperiretur in paruulis. **Paruuli enim habent habitum fidei.** Ergo errante tota multitudine christianorum usum rationis habentium possunt saluari promissiones christi per paruulos baptizatos. [Ergo temerarium est asserere quod nunquam tota multitudo christianorum usum rationis habentium contra fidem errabit.]
+
+Variants (all confirm Goldast against the control):
+- framed as the **quinta ratio**, with the subject expanded to **"virorum et mulierum"** (control topic-sentence: *errante tota multitudine Christianorum habentium usum rationis*);
+- **"de fide *Christi* mansura"** — Lyons adds *Christi* (control: *de fide mansura*);
+- the core (*Nam Christus vere est spiritualiter… / …per parvulos baptizatos / Parvuli enim habent habitum fidei*) matches.
+
+---
+
+## Verdict — the contested words
+
+| Contested reading | Goldast | Critical control | **Lyons 1494** | Lyons supports |
+|---|---|---|---|---|
+| Virgin clause, 2nd occurrence | *ecclesiae* | *catholica* | **ecclesie** (both clauses) | **Goldast** |
+| Cap. 22, "…non ___ attribui" | *debuit* | *debet* | **debuit** | **Goldast** |
+| Cap. 34, "fideles ___ remanebunt" | *pauci* | *paucissimi* | **pauci** | **Goldast** |
+| Sergius: "imitatores ___" | *papae Sergii* (no *sequacium*) | *sequacium Sergii papae* | **papae Sergii** (no *sequacium*) | **Goldast** |
+| Cap. 7, "in solo summo pontifice ___" | *permanere* | *remanere* | **permanere** | **Goldast** |
+
+**In every contested case Lyons 1494 agrees with Goldast 1614 against the British Academy critical edition.** More broadly, every Goldast plus that book2/book5 had flagged against the control — *danare* for *condemnare*; the repeated *a Christo* in cap. 22; *etiam* + *ante mortem Christi* in the Virgin passage; *fidelium multitudo* order and the dropped *multitudine* in cap. 7; the *virorum et mulierum* expansion and *de fide Christi mansura* in cap. 35 — is **already present in the 1494 incunable**. Goldast faithfully transmits the early-print tradition to which Lyons belongs; the critical edition's divergent readings rest on the manuscript tradition, not on this printed line.
+
+**One residual uncertainty:** in the Sergius sentence Lyons's verb is written *dicũt*, read here as **dicunt** (active) — differing on its face from Goldast's *dicuntur* and from the control's *videntur*. The glyph shows only a macron over the *u* with no clear *-ur* compendium, so *dicunt* is the literal reading, though a compositor's abbreviation for *dicuntur* (= Goldast) cannot be excluded. This does not affect the verdict, since Lyons differs from the control's *videntur* either way.
