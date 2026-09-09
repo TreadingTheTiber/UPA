@@ -324,3 +324,144 @@ Tertia via super qua se fundavit est haec:
 Haec ratio eius tertia in una heresi manifesta est fundata, quod scilicet clara visio Dei sine omni scientia esse non potest, vel saltem non est sine omni scientia; quia asserit manifeste quod videntes Deum nulla ignorant, igitur omnia sciunt. Sed haec heresis scripturae divinae aperte repugnat. Ait enim apostolus ad Ephesios 3: "mihi enim omnium sanctorum minimo data est gratia haec, in gentibus evangelizare investigabiles divitias Christi, et illuminare omnes quae sit dispensatio sacramenti absconditi a saeculis in Deo, qui omnia creavit, ut innotescat principibus et potestatibus in caelestibus per ecclesiam multiformis sapientia Dei."
 
 Ex quibus verbis ultimate colligitur quod angeli sancti ante incarnationem et passionem {f. 6r} [col. b] Christi nonnulla secreta de incarnatione Christi ignorabant; angeli autem tunc viderunt Deum; igitur non omnes videntes Deum omnia sciunt, immo multa ignorant. Quod vero, secundum intentionem apostoli, angeli sancti videntes Deum aliqua de incarnationis mysterio ignorabant, glossa super verba praemissa asserit manifeste, dicens in persona beati Pauli et exponens verba eius praescripta: "quia datum est mihi evangelizare et illuminare et videre — quid hoc est? quia per hoc aliquid accipient qui multa secreta in hoc didicerunt; et hoc quod ait 'evangelizare', dico ita ut multiformis sapientia Dei de reparatione hominum innotescat per ecclesiam, quae dona Dei recipit, id est per apostolos in ecclesia praedicantes principibus et potestatibus (id est per diuersos ordines angelorum qui sunt in caelestibus, id est in caelo ubi et nos erimus)." Dicit namque beatus Hieronymus authenticas dignitates supra memoratum mysterium aliquid pure non intellexisse, donec impleta est passio Christi et apostolorum praedicatio per gentes dilatata. Unde in Isaia angeli admirantes dixerunt "quis est iste qui venit de Edom?", et in psalmo "quis est iste rex gloriae?". Non solum igitur patriarchas et prophetas, sed etiam potestates caelestes multiformis sapientia Dei per ecclesiam est revelata. Et post: "multiformis igitur dicitur Dei sapientia, quia multipliciter multas species et formas habens, principes et potestates per ecclesiam agnoverunt." Ex his omnibus colligitur evidenter quod angelis videntibus Deum aliquid accrevit... {f. 6v}
+
+---
+
+# Transcription notes (variants against the control text, uncertain and damaged readings, page mapping)
+
+## Notes — BLOCK A–B
+
+### Page mapping (PDF page = printed page − 137 in this region)
+
+| Content | Goldast chapter | Printed pp. | PDF pp. |
+|---|---|---|---|
+| Block A, cap. I | Cap. I | 410–411 | 273–274 |
+| Block A, cap. II | Cap. II | 411–412 | 274–275 |
+| Block B (crit. cap. 27) | **Cap. XXV** | 428–430 | 291–293 |
+
+- The *Dialogus* opens at PDF 257 (printed 392). "Explicit liber primus. Incipit liber secundus" stands on printed 410 (PDF 273). The offset in this stretch is **+137**, not +121; +121 evidently holds only later in the volume (e.g. Book V).
+- Block B was located by content, not by chapter number. **Goldast's chapter numbering runs two behind the critical edition inside Book II**: the chapter the task calls cap. XXVII is Goldast's Cap. XXV. Goldast's own Cap. XXVII (printed pp. 430–431, PDF 293–294) is a different chapter — on theologians holding mutually contrary opinions, whether the pope sins by not condemning such heresies, with the examples of Thomas's opinions condemned at Paris, the Canterbury condemnations, the unity of substantial form, and Scotus/Giles. It contains neither target passage.
+
+### The two control sentences as Goldast prints them
+
+**"in uno solo … beata virgine"** (printed p. 429, PDF 292):
+
+> Dicunt quod, si unus solus dissentiret, non esset talis veritas acceptanda, quia **in uno solo potest stare tota fides ecclesiae, quemadmodum tempore mortis Christi tota fides ecclesiae in sola beata virgine remanebat**; nec est etiam credendum quod omni tempore post tempora Apostolorum fuerint aliqui magis accepti Deo quam fuerint Apostoli ante mortem Christi.
+
+Variants from the control text:
+- Control: "…tota fides ecclesiae, quemadmodum … tota fides **catholica** in sola beata virgine remanebat." Goldast reads **"tota fides ecclesiae"** in the *second* clause too (repeats *ecclesiae* where the control has *catholica*).
+- Control: "nec est credendum quod … **sint** aliqui magis accepti Deo quam **fuerunt** apostoli." Goldast: "nec est **etiam** credendum quod … **fuerint** aliqui magis accepti Deo quam **fuerint Apostoli ante mortem Christi**" (adds *etiam*; *fuerint* for *sint/fuerunt*; adds the phrase *ante mortem Christi*).
+
+**Formosus / Sergius** (printed p. 429, PDF 292):
+
+> Sunt enim quidam tenentes quod tantae auctoritatis est papa quod ad placitum potest quamcumque assertionem tamquam haereticam damnare, et isti dicuntur esse **imitatores papae Sergii, persecutoris papae Formosi**, qui (ut in quodam libro de antiquissima litera legi) in tantum volebant papam extollere quod asserebant papam non posse damnari, sed quod, quicquid faceret, salvaretur.
+
+Variants from the control text:
+- Control: "isti **videntur** esse imitatores **sequacium** Sergii papae, persecutoris papae Formosi." Goldast: "isti **dicuntur** esse imitatores **papae Sergii**, persecutoris papae Formosi" (Goldast drops *sequacium*; reads *dicuntur* for *videntur*; word order *papae Sergii* for *Sergii papae*).
+- Control: "…potest quamcumque assertionem tamquam haereticam **condemnare**." Goldast: **"damnare."**
+- The speaker of the "Sunt enim quidam…" sentence is the **Master** (Mag.), reciting the opinion, not asserting it — Goldast's paragraph opens "Mag. Circa interrogationem tuam opiniones contrarias re[cito]. Sunt enim quidam tenentes…". This matters for the sense: the pope-cannot-be-condemned view is reported, then the Disciple pushes it aside ("Ista assertio sonat quod papa haereticari non potest… pro nunc transeamus"), and the Master turns to the contrary opinion (the three foundations).
+
+### Uncertain / damaged readings
+
+The **left margin of the recto pages is faded** on printed pp. 411 and 429 (PDF 274 and 292 — the gutter-side of the scan), forcing a few reconstructions:
+
+1. **Printed 429, first line** (Disciple's clause bridging from p. 428): after "unde de hoc quid sen-|tiunt" a few words are effaced before "…dicere non postponas." Reconstruction of the effaced words is not secure; sense is "do not put off telling me what they think." Marked in the text as *[… paucae voces evanidae …]*.
+2. **Printed 429, Formosus passage:** the reading "et isti **dicuntur** esse imitatores papae Sergii" is confident; the parenthetical citation attributed to Nicholas ("Hinc dicit [Nicolaus] dist. 19 capite 'si Romanorum'") has the author's name faded — supplied from the standard citation (Gratian, D.19 c.'Si Romanorum'). "omnes tenere et credere [debent]" — the verb governing is effaced; *debent* supplied for sense.
+3. **Printed 429**, "Sic etiam sancti Doctores… sicut in **[pluribus]** communiter patenter habetur" — the bracketed word is faded; *pluribus* is a conjecture for "in many [places]."
+4. **Printed 411** (cap. I, Augustine *de unico Baptismo* citation): the opening words of several lines are faded; the body of the quotation ("Quis nesciat sanctam scripturam canonicam…") is legible and is given above. Reconstructions there follow the standard text of the *Decretum* D.9 c.'Quis nesciat'.
+5. Goldast prints the biblical/canonical quotations in *italic*; I have kept italics for them. Speaker rubrics vary in the print ("Discipulus / Discip. / Discipul." and "Magister / Magist. / Mag."); I have regularised them to **Discip.** and **Mag.**
+
+### Orthographic normalisation applied
+
+æ/ę → ae; œ → oe/ae (caelesti); i/j → i; u/v regularised; `&` → *et*, `&c.` → *etc.*; m→n or n→m before q classicised (*numquam, tamquam, quicumque, qualitercumque, quandoque, umquam*). Medieval lexical forms genuine to the text are **kept** (e.g. *diffinire/diffinierunt, huiusmodi, connumerandae, cronicis*). Citation shorthand (*dist.*, *extra de haere.*, *24 q. 3 c.*) is retained and italicised.
+
+## Notes — BLOCK C
+
+### Page mapping (offset: printed = PDF + 121)
+| Cap. | PDF page | Printed p. | Location |
+|---|---|---|---|
+| Book IV explicit / Book V incipit | 346 | 467 | foot of recto |
+| I | 346–347 | 467–468 | incipit + opening |
+| II | 347 | 468 | — |
+| III | 349 | 470 | — |
+| IV | 352 | 473 | foot |
+| V | 353 | 474 | — |
+| VI | 355 | 476 | — |
+| VII | 356–357 | 477–478 | anchor page |
+| XXI | 367–368 | 488–489 | — |
+| XXII | 368 | 489 | single page (XXIII heads PDF 369 / p. 490) |
+| XXXIII | 383 | 504 | head |
+| XXXIV | 383–384 | 504–505 | mid-504 heading |
+| XXXV | 384–385 | 505–506 | heading foot of 505 |
+| Book V explicit / Book VI incipit | 385–386 | 506–507 | — |
+
+The offset holds steady across the whole block (verified at pp. 467, 477, 489, 504, 506). Book V has 35 chapters; the high chapter numbers seen just before (cap. XXVII–XXXI on PDF 344–346) belong to **Book IV**, which explicitly ends at the foot of printed p. 467 with *"Explicit liber quartus."*
+
+### Variants vs. British Academy control (Goldast = witness on the left)
+- **Cap. VII, the "Respondetur" reply.** Goldast: *"sed **tota fidelium multitudo** praeter papam est inferior papa, et de illa conceditur quod potest **errare contra fidem**…"* — BA control has the order *"tota multitudo fidelium praeter papam"* and *"de illa **multitudine** conceditur quod potest **contra fidem errare**."* Goldast omits *multitudine* in the second clause and inverts *errare contra fidem*. Goldast closes *"fides potest in solo summo pontifice **permanere**"* (control: *"remanere"*).
+- **Cap. XXII, the "toti et nulli parti" sentence.** Goldast reads (exact witness):
+  > *Illud quod promittitur toti et nulli parti non **debuit** alicui parti attribui, etiam principaliori. Sed nunquam errare contra fidem toti congregationi fidelium promissum fuit a Christo, et nulli parti fuit hoc promissum **a Christo**, ergo non debet hoc alicui particulari ecclesiae catholicorum attribui. Cum ergo Romana ecclesia sit pars ecclesiae et non sit tota ecclesia, non posse errare contra fidem non est attribuendum Romanae ecclesiae.*
+
+Two divergences from the control: (a) perfect **debuit** where the control has present *debet*; (b) Goldast repeats **a Christo** in the second clause ("nulli parti fuit hoc promissum a Christo"), which the control lacks ("et nulli parti fuit hoc promissum. Ergo…").
+- **Cap. XXXIV, the tribulation passage.** Goldast: *"quod fideles **pauci** remanebunt firmi in fide."* — the BA control reads **paucissimi** ("very few"). Goldast has the plain positive *pauci*. The remainder (*"Et an illi fideles erunt viri vel mulieres, solus Deus novit, et illi quibus Deus specialiter revelavit"*) matches the control.
+- **Cap. XXXV, the "parvulos baptizatos" argument.** Goldast reads (exact witness):
+  > *…Sed errante tota multitudine Christianorum virorum et mulierum usum rationis habentium possunt salvari promissiones Christi **de fide Christi mansura**. Nam Christus vere est spiritualiter cum parvulis baptizatis per gratiam et virtutes. Fides etiam beati Petri, pro qua Christus rogavit, nequaquam deficeret, quia reperiretur in parvulis. Parvuli enim habent habitum fidei. Ergo errante tota multitudine Christianorum usum rationis habentium possunt salvari promissiones Christi per parvulos baptizatos. Ergo temerarium est asserere quod nunquam tota multitudo Christianorum usum rationis habentium contra fidem errabit.*
+
+Divergences: (a) Goldast frames the argument as the **quinta ratio** ("Quinta ratio probat specialiter…") and expands the subject to *"virorum et mulierum"* twice, where the control's topic sentence reads simply *"errante tota multitudine Christianorum habentium usum rationis."* (b) Goldast reads *"de fide **Christi** mansura"* (adds *Christi*); the control has *"de fide mansura."* The core sentences (*Nam Christus vere est spiritualiter… / …per parvulos baptizatos / Ergo temerarium est asserere…*) agree with the control.
+
+### Uncertain readings
+- **Cap. XXXIV / XXXV, left gutter (printed p. 505, PDF 384).** The inner (gutter) margin of this leaf is physically shadowed/abraded in the scan, so the first 1–3 characters of many lines are lost. Reconstructions from context are bracketed `[ ]`. This affects: the middle of the tribulation reply on p. 505 (the run of clauses before *"Maior etiam fuit tribulatio Sodomorum"*), and the opening of cap. XXXV (*"…dignam reprobatione maxima [censeo] … [de ea] non censeo [amplius inquirere]"*). The **target sentences themselves are clear** — *"fideles pauci remanebunt firmi in fide… viri vel mulieres, solus Deus novit"* (XXXIV) and the whole *parvuli* argument (XXXV) — since they fall in the readable outer/centre columns.
+- **Cap. XXXV, quinta ratio, major premise.** The clause *"quia illa multitudo virorum et mulierum usum rationis habentium, qua errante salvari possunt omnes promissiones Christi de fide usque ad finem saeculi permansura, potest contra fidem errare"* is partly gutter-damaged in its middle; the syntactic skeleton is secure but a word or two of the conditional protasis is reconstructed. The conclusion sentences are undamaged.
+- **Cap. I opening.** Goldast reads *"qui non **resistunt** pravitati haereticae"* (long-s *reſiſtunt*); some manuscripts/the control give *restiterit*. Read here as present *resistunt*.
+- **Cap. VII.** The bracketed *"[Quarto sic:]"* marker sits at the exact line where argument four begins (*"Illud quod est inferius papa…"*); the words are clear, the label placement follows Goldast's inline running numbering ("Quarto sic"). The tenth-position framing ("secundum opinionem aliorum," Master reciting others' opinion) is explicit in the chapter title and in the opening *"Quidam indubitanter tenent… Isti assertores."*
+
+## Notes — BLOCK D
+
+**General — numerals.** This gothic fount prints the digit **4 with a glyph that closely resembles an "8"** (secure from context: "64," "24" = "z8," and "40" = "8o," all appear with this form; the reading was cross-checked by zoom on f. 64v col. b). A separate **caret / lambda-shaped glyph (ᴧ)** appears in citation slots and is here rendered "7," but this is uncertain and is flagged `[?]` at each occurrence (e.g. "2 q. 7," dist. "2[7?]," dist. "1[7?]"). Roman-numeral "2" for a cause/question is variously printed "z" or "2." Canon citations are given as printed; where content unambiguously fixes the reference I have supplied it and noted the printed glyph.
+
+**f. 64r.** "praesentialiter in ipsis sermocinationibus" (pr. `pntialit' in ipsis sermotiōatōibʒ`): expansion of a heavily abbreviated phrase, reading probable but not certain. — "par autem est in se [et] exorbitare et alios verbo et exemplo a fide deicere": an "et" is printed before "exorbitare," slightly awkward; sense is "it is an equal thing." — The canon for Peter's error is printed "in decretis 2 q. [caret] Volo"; both the question number and the incipit "Volo" are uncertain.
+
+**f. 64v.** "haec rescripta probat" (pr. `pbat`, with p-bar): expanded "probat," but the sense ("approves") sits ill with the passage; possibly "rescripsit"/"reprobat" — flagged. — "quia fideles nos [in]nominat Christus" (pr. `innominet`): reading and expansion uncertain. — Marcellinus/Anastasius/Liberius examples: the Liberius passage names **Eusebius "urbis Romae presbyter"** (a Roman presbyter), and cites the *Liber Pontificalis* ("in libro pontificum"). — "Huius sanctae [sedis] papae culpas...": the canon **Si papa (D.40 c.6)**; "sedis" supplied. — "ut 64 distinctione Quicumque" and "24 q. 1 c. A recta": the numeral "64" confirmed by zoom.
+
+**f. 65r.** Target sentence secure: **"si papa est hereticus, in eo quod est hereticus minor est quocumque episcopo catholico."** — Symmachus citation printed "dist. 2[caret] Hinc etiam": number uncertain. — "meruit [?] effectum" (pr. `meret2`): could be "meretur." — "ut diceret occurreret": reading of `diceret` uncertain (perhaps "decerneret"). — Gloss citation printed "di. 1z / 12 c. Anastasius," but content (gloss on the word *consilio* in c. Anastasius) requires **dist. 19**; rendered 19 with the glyph noted. — Deposition syllogism: col. a ends "sed papa potest propter er-" / col. b resumes "-mina sua" → read **"propter crimina sua deponi de papatu"** (the specific "propter heresim" case is developed via the C.24 q.1 c. Acacius material rather than in this exact clause). — **"Item balaam immo papa..."** (f. 65r col. b): the word `balaam` is clearly printed (verified by zoom) but is anomalous in context; likely a corruption (perhaps for *palam*, "openly"), flagged.
+
+**f. 65v.** "fratres minores" as the objectors is Ockham's own order; the reply rests on **D.96 c. Ubinam** (Nicholas I) and the maxim **"quod omnes tangit ab omnibus tractari debet."** — "de fide impugnanda habent se intromittere": "impugnanda" here in the sense of impugning error/heresy touching the faith. — "debent et tenentur" (pr. `dūt et tenent2`): `dūt` expanded "debent" (could be "dicunt"). — "plures indies [in diris?] sceleratos": `in diris` printed; emended tentatively to "indies" ("daily").
+
+**f. 66r.** "Exodi 23" (Exod. 23:2, "non sequeris turbam..."): the printed number resembles "33" but the text is certainly Exodus 23. — Reply to obj. 7 strings together **C.24 q.1** canons (Didicimus, Si ergo, Predictis) and **X de haereticis** (Excommunicamus; Excommunicamus secundo). — "et eodem c. et 9 [?]" and the following "Item [...] sic habetur": section/canon references here are damaged/uncertain.
+
+**f. 66v.** "nec deicere [?] aliquem valet" (pr. `de-/icere`): read "deicere" (cast down); could be "dicere." — Appeal apparatus: numerals in "2 q. 7 c. Appellatione," "3 q. 6 c. Inter querelas," and the two following question-numbers are uncertain (caret glyph). "ff." = the Digest. — Sirach wordplay on *Benedictus* (blessed) "in name not in truth"; canon **C.24 q.3 c. Qui aliorum** (attrib. Pope Urban) on the defender of another's error as *heresiarcha*. — "non summus pontifex sed immo pontifex... merito nominandus": a wordplay that does not fully survive translation.
+
+**f. 67r.** "potest [quaestio] mota deduci" (pr. `pot qo mota`): `qo` taken as an abbreviation of *quaestio*. — Closing scriptural authorities: **1 Cor. 2:5** and **Gal. 1:8–9** ("anathema sit"). — The author refers to "a certain special work... at greater length" (i.e. a fuller treatise against Benedict XII). — **Colophon** identifies the work as the *Compendium errorum papae Ioannis XXII* (see the editorial note at the head).
+
+## Notes — BLOCK E
+
+- **f. 1r, col. a (title):** "docmatibus" printed thus (for *dogmatibus*), expanded to *dogmatibus*. "okam" = *Okam* (Ockham); left as printed.
+- **f. 1r, col. b (chapter 1 opening):** large red initial reads "Q" + printed "ua prima rō"; expanded as *Quarum prima ratio* on grounds of sense (John's *quinque viae*), though the printed form could be read *Qua*. `[?]`
+- **f. 1r, col. b:** "iob dicit et in nouissimo die de terra surrecturus sum" — Ockham's loose citation of Job 19; kept as printed.
+- **f. 1v, col. a:** "corporis pcti" expanded *corporis peccati* (contraction p-cti); Pauline echo of *similitudo carnis peccati*, Rom. 8:3. `[?]`
+- **f. 1v, col. a:** "iuxta illud math. 8" — the quotation "angeli eorum semper vident faciem Patris" is Matthew 18:10; the print gives the numeral "8" (probably a compression of xviii). Kept as printed.
+- **f. 1v, col. a:** Thomas citation "in scda scde q. [i]g. arti. 2°" — the question number is abbreviated and unclear; read as *secunda secundae, q. 18, a. 2* on grounds of the known Thomistic locus (ST IIaIIae q.18 a.2, on hope in Christ). `[?]`
+- **f. 1v, col. a/b:** Thomas quotation, "sicut etiam qua caritate habet [diligit] Deum eadem caritate diligit proximum" — the printed "hz di" is ambiguous (habet / diligit Deum); expanded to fit Thomas's standard axiom. `[?]`
+- **f. 1v, col. b:** "discussiende" printed thus for *discutiendae*; normalized in translation.
+- **f. 2r, col. b:** "igitur usque tunc" followed by a small word before "quod non vident" — read as *videtur* / *patet* (the sense-word is abraded); rendered *[patet]*. `[?]`
+- **f. 2r, col. b:** "plura heretica lia et alia ambigua" — the printed "lia" is a broken form of *alia* (dittography with the following *alia*); read *plura heretica alia et alia ambigua*. `[?]`
+- **f. 2v, col. a:** Augustine *De Genesi ad litteram* citation: the print reads "li. zz" (= book 22, in this fount's numeral abbreviation where z=2, iz=12, zz=22). *De Genesi ad litteram* has only 12 books and the Paul-rapture material is in book 12; read *libro 12*, taking "zz" as a compositor's error for "iz". `[?]`
+- **f. 2v, col. a:** "in glo. z. cor. iz" = *in glossa, 2 Corinthiorum 12*.
+- **f. 2v, col. a:** "tertiu suple celu spuale" — read *tertium supremum caelum spirituale*; "suple" is a compressed/garbled *supremum*. `[?]`
+- **f. 3r, col. a:** "in libro de correctione" — read *de correptione* (Augustine, *De correptione et gratia*); print spells "correctione." The following canon-law reference "de penitetia di. [R]. c. in domo" = Gratian, *De poenitentia*, distinctio 2, capitulo "In domo"; the distinction numeral is abraded/ambiguous. `[?]`
+- **f. 4r, col. b:** "luce zz" = *Lucae 22* (Luke 22:15), confirming the fount's numeral abbreviation zz = 22.
+- **f. 4v, col. a:** Peter Lombard cited as "lib. 2, di. 11" (*Sententiae* II, d. 11); the distinction numeral is compressed. Ockham's paraphrase "in cognitione et beatitudine proficere" reflects the quoted words "in scientia et in aliis possunt proficere." `[?]`
+- **f. 4v, col. b:** right column line-ends slightly clipped in the scan and recovered from a right-margin crop: *intensior, caritas perfectior, summum, potest, aliquid, aliud, summus, secundum, coloris, omnia, summa, quadam, possibilia, spectantia*.
+- **f. 5v, col. a:** "sic iste textus flē expo[nitur]" — the small word read as *fere* (generally); the contraction is ambiguous. `[?]`
+- **f. 5v, col. b:** "cū nūquā erunt super christum" — Ockham's point that the saints are never *above* Christ; "super altare / sub altari" wordplay from Apoc. 6:9 kept as printed.
+- **f. 5v, col. b:** right column line-ends lightly clipped in the scan (e.g. *non ante, multorum, compositi, antea, omnes, supradicta*); recovered from context. The closing "in duobus maximis tractatibus" refers to John XXII's two major sermons/treatises on the vision; the governing verb (*adducit*) runs onto f. 6r.
+- **f. 6r, col. a (chapter 3 opening):** rubric reads "Tertia via super [¶] Ca. 3 qua se fundauit est" — the chapter marker "Capitulum tertium" is set inline in red inside the running phrase "Tertia via super qua se fundavit est"; rendered as a heading followed by the phrase. Large red initial "T".
+- **f. 6r, col. a:** "ait apostolus ad ephesios .3." = Ephesians 3:8-10; "de cura pro mortuis" = Augustine, *De cura pro mortuis gerenda*; Gregory "quid est quod non videt qui videntem omnia videt" from the *Dialogi* (IV). Cited loosely by the text; kept as printed.
+- **f. 6r, col. b:** "autententicas dignitates" read *authenticas dignitates* (the higher angelic orders); the Jerome citation and the gloss on Eph. 3 are quoted loosely. "id ē p diuersis ordinibus" printed with *per diuersis* (for *per diuersos ordines*); normalized in translation. `[?]`
+- **Scope reached:** transcription runs from f. 1r (PDF 3) through the end of f. 6r (PDF 13); the argument of chapter 3 continues onto f. 6v, which is beyond the supplied images.
+- **f. 4v, col. b:** closing example partly abraded: "et visio animae Christi est summa inter [omnes visiones], et inter omnes caritates caritas [eius est summa]" — bracketed words reconstructed from the parallel structure. `[?]`
+- **f. 3v, col. a:** "beatus Io. euangelista [7] c." — the chapter numeral is a small mark read as 7; the quotation ("in novissimo die magno festivitatis...") is John 7:37-39, confirming *capitulo 7*. `[?]`
+- **f. 3v, col. a/b:** 2 Corinthians 5:6-7 cited as "z°. cor. h" (= *secunda ad Corinthios 5*). The print reads "per fidem... et non per spem"; the Vulgate reads "non per **speciem**" (by sight), and a contemporary hand wrote "p[er] speciem" in the left margin. Ockham's whole argument here, however, turns on *spes* (hope), so the incunable's "spem" is transcribed as printed throughout. `[?]`
+- **f. 3r, col. b:** "ad philipen c. z" = *ad Philippenses, capitulo 2*; "actuu z" = *Actuum 2*; "prima ad cor. 14/15" — the numeral for 1 Corinthians reads like "14" but the star-differs-from-star citation is 1 Cor 15:41, read *15*. `[?]`
+- **f. 2v, col. b:** "Sic igitur non credimus pro tanto apostolo... rapto" — the print reads *credimus*; the received Gloss (from Augustine) reads *non incredibile est tanto apostolo... rapto*. Transcribed as printed; sense is "we find it not incredible." `[?]`
+- **f. 2r, col. b:** "Quia ista duo cotineant verba predicta" — printed subjunctive *contineant*; sense is *quod ista duo contineant / quia continent*; kept as printed with normalized spelling.
